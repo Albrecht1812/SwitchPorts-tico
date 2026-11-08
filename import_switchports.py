@@ -10,10 +10,16 @@ SOURCE = (
 
 def clean(text):
     text = re.sub(r"<br\s*/?>", " ", text)
-    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
     text = re.sub(r"<[^>]+>", "", text)
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
     text = re.sub(r"[*`~]", "", text)
     return unescape(text).strip()
+
+def get_links(text):
+    return re.findall(
+        r"\]$begin:math:text$\(https\?\:\/\/\[\^\)\\s\]\+\)$end:math:text$",
+        text
+    )
 
 def import_projects():
     request = urllib.request.Request(
@@ -42,81 +48,80 @@ def import_projects():
 
         cells = [
             cell.strip()
-            for cell in line.strip("|").split("|")
+            for cell in line.strip().strip("|").split("|")
         ]
 
         if not cells:
             continue
 
-        if all(
-            re.fullmatch(r"[-:\s]+", cell)
-            for cell in cells
-        ):
+        if all(re.fullmatch(r"[-:\s]+", c) for c in cells):
             continue
 
-        lowered = [cell.lower() for cell in cells]
+        lowered = [c.lower().strip("?") for c in cells]
 
-        if "version" in lowered and (
-            "title" in lowered or "game" in lowered
-        ):
+        if any(x in lowered for x in ["title", "game"]):
             headers = lowered
             continue
 
         if not headers:
             continue
 
-        name_index = next(
-            (i for i, value in enumerate(headers)
-             if value in ("title", "game")),
-            0
-        )
+        def get_column(*names):
+            for name in names:
+                if name in headers:
+                    i = headers.index(name)
+                    if i < len(cells):
+                        return cells[i]
+            return ""
 
-        if name_index >= len(cells):
+        name_cell = get_column("title", "game")
+
+        name = clean(name_cell)
+
+        if not name or name.lower() in ["title", "game"]:
             continue
 
-        name = clean(cells[name_index])
+        links = get_links(line)
 
-        if not name:
-            continue
+        project_url = ""
+        discussion_url = ""
 
-        links = re.findall(
-            r"$begin:math:display$\[\^$end:math:display$]*\]$begin:math:text$\(https\?\:\/\/\[\^\)\]\+\)$end:math:text$",
-            line
-        )
+        link_cell = get_column("link")
 
-        project_url = next(
-            (url for url in links
-             if "github.com" in url
-             or "buildbot.libretro.com" in url),
-            ""
-        )
+        if link_cell:
+            cell_links = get_links(link_cell)
+            if cell_links:
+                project_url = cell_links[0]
 
-        if not project_url:
-            project_url = links[0] if links else ""
+        discussion_cell = get_column("gbatemp thread")
 
-        version = ""
-        updated = ""
+        if discussion_cell:
+            discussion_links = get_links(discussion_cell)
+            if discussion_links:
+                discussion_url = discussion_links[0]
 
-        if "version" in headers:
-            i = headers.index("version")
-            if i < len(cells):
-                version = clean(cells[i])
-
-        if "last updated?" in headers:
-            i = headers.index("last updated?")
-            if i < len(cells):
-                updated = clean(cells[i])
+        version = clean(get_column("version"))
+        updated = clean(get_column("last updated"))
+        status = clean(get_column("status"))
 
         projects.append({
             "name": name,
             "category": category,
             "version": version,
             "last_updated": updated,
+            "status": status,
             "project_url": project_url,
+            "discussion_url": discussion_url,
             "source": SOURCE
         })
 
-    projects.sort(
+    unique = {}
+    for project in projects:
+        key = (project["category"], project["name"])
+        unique[key] = project
+
+    projects = sorted(
+        unique.values(),
         key=lambda p: (
             p["category"].lower(),
             p["name"].lower()
@@ -132,6 +137,12 @@ def import_projects():
         )
 
     print(f"Imported {len(projects)} projects.")
+
+    linked = sum(
+        1 for p in projects if p["project_url"]
+    )
+
+    print(f"Projects with links: {linked}")
 
 if __name__ == "__main__":
     import_projects()
