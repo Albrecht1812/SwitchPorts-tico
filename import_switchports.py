@@ -8,23 +8,56 @@ SOURCE = (
     "robzilla10001/SwitchPorts/main/README.md"
 )
 
+
 def clean(text):
-    text = re.sub(r"<br\s*/?>", " ", text)
+    text = re.sub(r"<br\s*/?>", " ", text, flags=re.I)
     text = re.sub(r"<[^>]+>", "", text)
     text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
     text = re.sub(r"[*`~]", "", text)
     return unescape(text).strip()
 
-def get_links(text):
-    return re.findall(
-        r"\]$begin:math:text$\(https\?\:\/\/\[\^\)\\s\]\+\)$end:math:text$",
-        text
+
+def extract_links(text):
+    links = []
+
+    # Markdown links: [name](https://example.com)
+    links += re.findall(
+        r"\]\(\s*<?(https?://[^)\s>]+)",
+        text,
+        re.I
     )
 
+    # HTML links: href="https://example.com"
+    links += re.findall(
+        r'href=["\'](https?://[^"\']+)["\']',
+        text,
+        re.I
+    )
+
+    # Direct URLs
+    links += re.findall(
+        r"https?://[^\s|<>\"')]+",
+        text,
+        re.I
+    )
+
+    result = []
+
+    for link in links:
+        link = unescape(link).rstrip(".,;")
+        if link not in result:
+            result.append(link)
+
+    return result
+
+
 def import_projects():
+
     request = urllib.request.Request(
         SOURCE,
-        headers={"User-Agent": "SwitchPorts-tico"}
+        headers={
+            "User-Agent": "SwitchPorts-tico"
+        }
     )
 
     with urllib.request.urlopen(request) as response:
@@ -36,14 +69,18 @@ def import_projects():
 
     for line in readme.splitlines():
 
-        heading = re.match(r"^###\s+(.+)", line)
+        # Detect platform headings
+        heading = re.match(
+            r"^#{2,4}\s+(.+)",
+            line
+        )
 
         if heading:
             category = clean(heading.group(1))
             headers = []
             continue
 
-        if not line.startswith("|"):
+        if not line.strip().startswith("|"):
             continue
 
         cells = [
@@ -54,12 +91,23 @@ def import_projects():
         if not cells:
             continue
 
-        if all(re.fullmatch(r"[-:\s]+", c) for c in cells):
+        # Ignore table separators
+        if all(
+            re.fullmatch(r"[-:\s]+", cell)
+            for cell in cells
+        ):
             continue
 
-        lowered = [c.lower().strip("?") for c in cells]
+        lowered = [
+            re.sub(r"[^a-z0-9 ]", "", cell.lower())
+            for cell in cells
+        ]
 
-        if any(x in lowered for x in ["title", "game"]):
+        # Detect table headers
+        if any(
+            value in ("title", "game", "name")
+            for value in lowered
+        ):
             headers = lowered
             continue
 
@@ -69,40 +117,75 @@ def import_projects():
         def get_column(*names):
             for name in names:
                 if name in headers:
-                    i = headers.index(name)
-                    if i < len(cells):
-                        return cells[i]
+                    index = headers.index(name)
+
+                    if index < len(cells):
+                        return cells[index]
+
             return ""
 
-        name_cell = get_column("title", "game")
+        name_cell = get_column(
+            "title",
+            "game",
+            "name"
+        )
 
         name = clean(name_cell)
 
-        if not name or name.lower() in ["title", "game"]:
+        if not name:
             continue
 
-        links = get_links(line)
+        if name.lower() in (
+            "title",
+            "game",
+            "name"
+        ):
+            continue
 
-        project_url = ""
-        discussion_url = ""
+        # Extract links from the entire row
+        links = extract_links(line)
 
-        link_cell = get_column("link")
+        # Prefer GitHub project links
+        project_url = next(
+            (
+                url for url in links
+                if "github.com" in url.lower()
+            ),
+            ""
+        )
 
-        if link_cell:
-            cell_links = get_links(link_cell)
-            if cell_links:
-                project_url = cell_links[0]
+        # Fall back to another project link
+        if not project_url:
+            project_url = next(
+                (
+                    url for url in links
+                    if "gbatemp.net" not in url.lower()
+                ),
+                ""
+            )
 
-        discussion_cell = get_column("gbatemp thread")
+        discussion_url = next(
+            (
+                url for url in links
+                if "gbatemp.net" in url.lower()
+            ),
+            ""
+        )
 
-        if discussion_cell:
-            discussion_links = get_links(discussion_cell)
-            if discussion_links:
-                discussion_url = discussion_links[0]
+        version = clean(
+            get_column("version")
+        )
 
-        version = clean(get_column("version"))
-        updated = clean(get_column("last updated"))
-        status = clean(get_column("status"))
+        updated = clean(
+            get_column(
+                "last updated",
+                "updated"
+            )
+        )
+
+        status = clean(
+            get_column("status")
+        )
 
         projects.append({
             "name": name,
@@ -115,9 +198,15 @@ def import_projects():
             "source": SOURCE
         })
 
+    # Remove duplicate entries
     unique = {}
+
     for project in projects:
-        key = (project["category"], project["name"])
+        key = (
+            project["category"],
+            project["name"]
+        )
+
         unique[key] = project
 
     projects = sorted(
@@ -128,7 +217,13 @@ def import_projects():
         )
     )
 
-    with open("projects.json", "w", encoding="utf-8") as file:
+    # Save catalogue
+    with open(
+        "projects.json",
+        "w",
+        encoding="utf-8"
+    ) as file:
+
         json.dump(
             projects,
             file,
@@ -136,13 +231,24 @@ def import_projects():
             ensure_ascii=False
         )
 
-    print(f"Imported {len(projects)} projects.")
-
     linked = sum(
-        1 for p in projects if p["project_url"]
+        1 for project in projects
+        if project["project_url"]
     )
 
+    discussions = sum(
+        1 for project in projects
+        if project["discussion_url"]
+    )
+
+    print("--------------------------------")
+    print("SWITCHPORTS IMPORT RESULTS")
+    print("--------------------------------")
+    print(f"Imported projects: {len(projects)}")
     print(f"Projects with links: {linked}")
+    print(f"Discussion links: {discussions}")
+    print("--------------------------------")
+
 
 if __name__ == "__main__":
     import_projects()
