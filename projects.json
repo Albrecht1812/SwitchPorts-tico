@@ -3020,6 +3020,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Snowboard Kids 2",
+    "category": "Nintendo 64",
+    "version": "2.0.2",
+    "last_updated": "17/10/2026",
+    "status": "",
+    "project_url": "https://github.com/cdlewis/snowboardkids2-recomp",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Star Wars: Rogue Squadron",
     "category": "Nintendo 64",
     "version": "1.0",
@@ -3290,16 +3300,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Lain",
-    "category": "Sony Playstation",
-    "version": "0.4.4-nx.6",
-    "last_updated": "20/08/2026",
-    "status": "",
-    "project_url": "https://github.com/amydevs/lainNX",
-    "discussion_url": "https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Ms. PacMan Maze Madness",
     "category": "Sony Playstation",
     "version": "1.1",
@@ -3327,6 +3327,16 @@
     "status": "",
     "project_url": "https://github.com/Larbaco/dw3-switch",
     "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Lain",
+    "category": "Sony Playstation",
+    "version": "0.4.4-nx.7",
+    "last_updated": "07/11/2026",
+    "status": "",
+    "project_url": "https://github.com/amydevs/lainNX",
+    "discussion_url": "https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
