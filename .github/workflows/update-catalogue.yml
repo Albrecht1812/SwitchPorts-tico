@@ -1,0 +1,41 @@
+name: Update SwitchPorts Catalogue
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 16 * * 1"
+
+  push:
+    paths:
+      - "import_switchports.py"
+      - ".github/workflows/update-catalogue.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Import SwitchPorts
+        run: python import_switchports.py
+
+      - name: Save catalogue
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add projects.json
+          git diff --cached --quiet || (
+            git commit -m "Update SwitchPorts catalogue" &&
+            git push
+          )
