@@ -4,11 +4,12 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "0 16 * * 1"
+    - cron: "*/5 * * * *"
 
   push:
     paths:
       - "import_switchports.py"
+      - "build_index.py"
       - ".github/workflows/update-catalogue.yml"
 
 permissions:
@@ -30,11 +31,14 @@ jobs:
       - name: Import SwitchPorts
         run: python import_switchports.py
 
+      - name: Build tico catalogue
+        run: python build_index.py
+
       - name: Save catalogue
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add projects.json
+          git add projects.json catalogue.json index.json
           git diff --cached --quiet || (
             git commit -m "Update SwitchPorts catalogue" &&
             git push
