@@ -1,0 +1,2898 @@
+[
+  {
+    "name": "---",
+    "category": "Android 32bit",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Amazing Spider-Man 2",
+    "category": "Android 32bit",
+    "version": "1.0.0",
+    "last_updated": "06/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Angry Birds Forever",
+    "category": "Android 32bit",
+    "version": "1.0.0",
+    "last_updated": "06/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Angry Birds Space HD",
+    "category": "Android 32bit",
+    "version": "1.0.2",
+    "last_updated": "01/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Angry Birds: Star Wars 2",
+    "category": "Android 32bit",
+    "version": "1.0.2",
+    "last_updated": "07/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Asphalt 8: Airborne Retry",
+    "category": "Android 32bit",
+    "version": "1.0.3",
+    "last_updated": "01/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Assassin's Creed: Altair's Chronicles HD",
+    "category": "Android 32bit",
+    "version": "0.1.1",
+    "last_updated": "18/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Call of Duty - Black Ops: Zombies",
+    "category": "Android 32bit",
+    "version": "1.0.0",
+    "last_updated": "28/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Call of Duty: Strike Team",
+    "category": "Android 32bit",
+    "version": "0.1.0",
+    "last_updated": "07/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Costume Quest",
+    "category": "Android 32bit",
+    "version": "0.1.0",
+    "last_updated": "10/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Dan The Man",
+    "category": "Android 32bit",
+    "version": "0.2.0",
+    "last_updated": "09/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Dark Knight Rises",
+    "category": "Android 32bit",
+    "version": "1.1.0",
+    "last_updated": "08/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Dead Space: Sabotage",
+    "category": "Android 32bit",
+    "version": "0.1.5",
+    "last_updated": "06/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Disney Crossy Road",
+    "category": "Android 32bit",
+    "version": "1.0.2",
+    "last_updated": "01/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Ducktales: Remastered",
+    "category": "Android 32bit",
+    "version": "1.3.0",
+    "last_updated": "03/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Flappy Birds Family",
+    "category": "Android 32bit",
+    "version": "1.0.2",
+    "last_updated": "01/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Jet Set Radio",
+    "category": "Android 32bit",
+    "version": "1.2.0",
+    "last_updated": "06/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Labyrinth 2",
+    "category": "Android 32bit",
+    "version": "1.0.2",
+    "last_updated": "01/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "N.O.V.A. 3: Near Orbit Vanguard Alliance",
+    "category": "Android 32bit",
+    "version": "1.0.1",
+    "last_updated": "11/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Need for Speed: Most Wanted",
+    "category": "Android 32bit",
+    "version": "0.3.0",
+    "last_updated": "19/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Plants vs. Zombies Touch",
+    "category": "Android 32bit",
+    "version": "1.0.2",
+    "last_updated": "01/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Rayman: Fiesta Run",
+    "category": "Android 32bit",
+    "version": "0.1.0",
+    "last_updated": "07/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Rayman: Jungle Run",
+    "category": "Android 32bit",
+    "version": "0.1.1",
+    "last_updated": "07/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Smash Hit",
+    "category": "Android 32bit",
+    "version": "0.1.3",
+    "last_updated": "19/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Sonic & Sega All Stars Racing",
+    "category": "Android 32bit",
+    "version": "1.0.3",
+    "last_updated": "01/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Ultimate Spider-man: Total Mayhem",
+    "category": "Android 32bit",
+    "version": "1.0.0",
+    "last_updated": "04/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Modern Combat 3: Fallen Nation",
+    "category": "Android 32bit",
+    "version": "1.0.1",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Modern Combat 4: Zero Hour",
+    "category": "Android 32bit",
+    "version": "1.0.1",
+    "last_updated": "27/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Space Hulk",
+    "category": "Android 32bit",
+    "version": "0.1.5",
+    "last_updated": "06/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Steven Universe: Attack the Light",
+    "category": "Android 32bit",
+    "version": "0.1.0",
+    "last_updated": "30/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Teen Titans GO Figure!",
+    "category": "Android 32bit",
+    "version": "0.1.0",
+    "last_updated": "31/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Teen Titans Go!",
+    "category": "Android 32bit",
+    "version": "0.1.0",
+    "last_updated": "31/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Adventures of Mana",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "14/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "After Burner Climax",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "24/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Angry Birds 2",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "06/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Angry Birds Classic",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "24/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Angry Birds Epic: All Stars",
+    "category": "Android 64bit",
+    "version": "1.0.4",
+    "last_updated": "30/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Angry Birds Journey",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "06/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Angry Birds Reloaded",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "31/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Animal Crossing: Pocket Camp",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "09/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Bad Piggies",
+    "category": "Android 64bit",
+    "version": "1.0.5",
+    "last_updated": "22/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Baldi's Basic Classic",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "15/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Banana Kong",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "17/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Bloons Adventure Time TD",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "23/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Bloons Pop!",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "11/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Bloons Supermonkey 2",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "10/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Bloons TD 5 Mobile",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "23/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Bombsquad",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "07/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Bombsquad Explodinary",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "07/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Bombsquad: Joyride",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "14/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Bouncemasters",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "03/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Burger Shop",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "15/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Burger Shop 2",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "15/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Call of Duty - Black Ops: Zombies",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "08/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Castle of Illusion",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "14/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Castlevania Symphony of the Night",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "05/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Chaos Rings III",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "28/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Chrono Trigger",
+    "category": "Android 64bit",
+    "version": "1.1.0",
+    "last_updated": "13/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Clay Jam Classic",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "27/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Color Sheep",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "18/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Counter Strike Source",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "06/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Crazy Taxi",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "01/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Cut the Rope",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "06/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Cut the Rope 2",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "06/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Cut the Rope Experiments",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "19/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Cut the Rope Magic",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "21/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Cut the Rope Time Travel",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "26/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Data Defense",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "02/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Deep 3D: Submarine Odyssey",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "03/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Deus Ex Go",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "22/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Dr. Mario Mania",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "03/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Duke Dashington Remastered",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "19/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Earn 2 Die",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "15/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Far Cry",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "27/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Final Fantasy Dimension II",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "15/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Final Fantasy Dimensions",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "28/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Final Fantasy III 3D Remake",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "23/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Final Fantasy IV 3D Remake",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "29/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Final Fantasy IV The After Years",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "18/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Flappy Bird",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "28/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Fruit Ninja Classic +",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "18/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Galaxy on Fire",
+    "category": "Android 64bit",
+    "version": "1.0.4",
+    "last_updated": "03/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Geometry Dash",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "07/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Gizmoduck",
+    "category": "Android 64bit",
+    "version": "1.1.8",
+    "last_updated": "15/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Grand Theft Auto 3",
+    "category": "Android 64bit",
+    "version": "1.0.4",
+    "last_updated": "16/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Grand Theft Auto Chinatown Wars",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "29/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Grand Theft Auto Liberty City Stories",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "30/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Grand Theft Auto San Andreas",
+    "category": "Android 64bit",
+    "version": "1.0.4",
+    "last_updated": "15/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Granny",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "23/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Half Life 2",
+    "category": "Android 64bit",
+    "version": "1.0.4",
+    "last_updated": "03/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Happy Wheels",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "11/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Heart Star",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "19/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Hill Climb Racing",
+    "category": "Android 64bit",
+    "version": "1.1.0",
+    "last_updated": "24/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Hitman Go",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "22/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "How Many Dudes?",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "04/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Infinity Blade",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "31/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Jackie Chan Stuntmaster",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "31/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Jetpack Joyride",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "06/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Killer Bean Unleashed",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "18/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Kingdom Hearts Union χ Dark Road",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "03/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Lara Croft Go",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "22/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Layton Brothers Mystery Room",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "15/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "LEGO Batman Beyond Gotham",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "01/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "LEGO Ninjago Shadow of Ronin",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "15/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "LEGO Star Wars The Complete Saga",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "09/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "LEGO Star Wars The Force Awakens",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "30/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Level UP: Mario's Minigames Mayhem",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "14/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Max Payne",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "10/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Metroid Prime Origins",
+    "category": "Android 64bit",
+    "version": "1.1.2d",
+    "last_updated": "05/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "MUL.MASH.TAB.BA.GAL.GAL",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "03/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "NBA Jam",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "15/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Osmos",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "01/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Papa Pear Saga",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "09/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Papa's Burgeria to Go!",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "19/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Papa's Cluckeria to Go!",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "18/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Papa's Paleteria to Go!",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "18/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Papa's Pizzeria To Go!",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "20/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Papers, Please",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "28/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Phigros",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "20/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Phigros CN",
+    "category": "Android 64bit",
+    "version": "2.2.0",
+    "last_updated": "30/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Pizza vs. Skeletons",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "02/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Plants vs. Zombies 2",
+    "category": "Android 64bit",
+    "version": "1.2.0",
+    "last_updated": "26/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Plants vs. Zombies 2: Reflourished",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "27/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Plants vs. Zombies: Fusion",
+    "category": "Android 64bit",
+    "version": "1.0.11",
+    "last_updated": "22/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Pocket Crystal League",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "24/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "POINPY",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "06/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Poor Bunny!",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "20/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Pou",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "24/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Professor Layton Curious Village HD",
+    "category": "Android 64bit",
+    "version": "1.0.4",
+    "last_updated": "29/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Professor Layton Lost Hope HD",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "29/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Professor Layton Pandora's Box HD",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "29/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "RVGL",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "20/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Slay the Spire 2",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "26/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Slither.io",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "30/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Sonic 4 Episode 2",
+    "category": "Android 64bit",
+    "version": "0.2",
+    "last_updated": "11/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Sonic Dash",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "22/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Sonic Dash 2: Sonic Boom",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "21/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Sonic Jump",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "18/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Sonic Jump Fever",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "08/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Sonic Runners Adventure",
+    "category": "Android 64bit",
+    "version": "0.1.46",
+    "last_updated": "18/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Sonic Triple Trouble 16-bit",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "29/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Stick With It",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "08/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Stone Story RPG",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "17/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Streets of Rage X",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "14/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Subway Surfers",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "03/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Super Mario 127",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "14/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Super Mario 63 Redux",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "15/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Super Mario Bros. Remastered",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "28/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Super Mario World Remastered Plus",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "14/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Swordigo",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "14/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Team Fortress 2 ReClassic",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "08/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "The Elder Scrolls II: Daggerfall Unity",
+    "category": "Android 64bit",
+    "version": "1.1.1.9s1.0.2",
+    "last_updated": "08/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "The Executive",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "03/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Ticket to Earth",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "05/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Total Party Kill",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "18/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Valkyrie Profile Lenneth",
+    "category": "Android 64bit",
+    "version": "1.0.0",
+    "last_updated": "25/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Very Little Nightmares",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "15/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "VVVVVV",
+    "category": "Android 64bit",
+    "version": "released",
+    "last_updated": "04/05/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Where's My Water",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "24/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Where's My Water 2",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "24/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Ys Chronicles 1",
+    "category": "Android 64bit",
+    "version": "0.2",
+    "last_updated": "29/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Zombotron Re-Boot",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "16/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "ZOOKEEPER DX",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "22/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Mega Man X Regenesis",
+    "category": "Android 64bit",
+    "version": "1.01.0",
+    "last_updated": "03/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Real Drift Car Racing",
+    "category": "Android 64bit",
+    "version": "1.5.1",
+    "last_updated": "31/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Soda Dungeon 2",
+    "category": "Android 64bit",
+    "version": "0.1.0",
+    "last_updated": "04/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Arcade",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Cyber Troopers Virtual-On",
+    "category": "Arcade",
+    "version": "1.2.0",
+    "last_updated": "10/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Daytona USA",
+    "category": "Arcade",
+    "version": "1.1.0",
+    "last_updated": "10/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Killer Instinct",
+    "category": "Arcade",
+    "version": "1.1.1",
+    "last_updated": "29/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Killer Instinct 2",
+    "category": "Arcade",
+    "version": "1.0.0",
+    "last_updated": "29/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "OutRun",
+    "category": "Arcade",
+    "version": "1.08-nx",
+    "last_updated": "01/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Sega Rally",
+    "category": "Arcade",
+    "version": "switch-v0.5.3",
+    "last_updated": "08/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Sonic the Fighters",
+    "category": "Arcade",
+    "version": "0.8.3",
+    "last_updated": "09/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Virtua Fighter 2",
+    "category": "Arcade",
+    "version": "1.1.0",
+    "last_updated": "10/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "ARMSX2",
+    "category": "Emulators",
+    "version": "3.0.0",
+    "last_updated": "24/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Autorun",
+    "category": "Emulators",
+    "version": "test-build-4",
+    "last_updated": "24/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Cemu",
+    "category": "Emulators",
+    "version": "1.3.0",
+    "last_updated": "21/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "D.Smile NX",
+    "category": "Emulators",
+    "version": "1.2.0",
+    "last_updated": "22/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Dekopon",
+    "category": "Emulators",
+    "version": "2.2.2",
+    "last_updated": "14/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Dolphin",
+    "category": "Emulators",
+    "version": "1.2.0",
+    "last_updated": "16/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "DrasticDS",
+    "category": "Emulators",
+    "version": "1.2.0",
+    "last_updated": "21/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "FreeJ2ME",
+    "category": "Emulators",
+    "version": "Proto",
+    "last_updated": "02/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Kirikiroid2-NX",
+    "category": "Emulators",
+    "version": "1.0.1",
+    "last_updated": "18/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Model2 NX",
+    "category": "Emulators",
+    "version": "1.0",
+    "last_updated": "10/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "NetherSX2",
+    "category": "Emulators",
+    "version": "1.4.0",
+    "last_updated": "15/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "PPSSPP",
+    "category": "Emulators",
+    "version": "0.7.0",
+    "last_updated": "07/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "PPSSPP-NX",
+    "category": "Emulators",
+    "version": "1.0.0",
+    "last_updated": "17/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Raika Azahar",
+    "category": "Emulators",
+    "version": "2.5.0",
+    "last_updated": "18/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "System22-nx",
+    "category": "Emulators",
+    "version": "0.1 beta",
+    "last_updated": "01/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Tico",
+    "category": "Emulators",
+    "version": "0.8.0",
+    "last_updated": "21/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "YabaSanshiro",
+    "category": "Emulators",
+    "version": "1.2.0",
+    "last_updated": "01/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Yokoi",
+    "category": "Emulators",
+    "version": "1.0.4",
+    "last_updated": "16/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢",
+    "category": "Emulators",
+    "version": "3.0",
+    "last_updated": "30/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Duckstation",
+    "category": "Emulators",
+    "version": "PR 3",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Flycast",
+    "category": "Emulators",
+    "version": "???",
+    "last_updated": "27/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Nezumiiruka",
+    "category": "Emulators",
+    "version": "1.1.0",
+    "last_updated": "26/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 RetroArch",
+    "category": "Emulators",
+    "version": "nightly",
+    "last_updated": "nightly",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Supermodel-NX",
+    "category": "Emulators",
+    "version": "1.5.0",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 UAE4ALL2 HD",
+    "category": "Emulators",
+    "version": "1.07",
+    "last_updated": "21/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Vita3K",
+    "category": "Emulators",
+    "version": "1.4.0",
+    "last_updated": "01/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Microsoft Xbox",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Burnout 3: Takedown",
+    "category": "Microsoft Xbox",
+    "version": "0.2.4",
+    "last_updated": "21/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Cold Fear",
+    "category": "Microsoft Xbox",
+    "version": "0.0.3",
+    "last_updated": "22/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Def Jam: Fight for NY",
+    "category": "Microsoft Xbox",
+    "version": "1.0.0",
+    "last_updated": "09/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Flatout 2",
+    "category": "Microsoft Xbox",
+    "version": "0.2.1",
+    "last_updated": "18/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Need for Speed: Carbon",
+    "category": "Microsoft Xbox",
+    "version": "0.2.4",
+    "last_updated": "18/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Need for Speed: Underground",
+    "category": "Microsoft Xbox",
+    "version": "0.4.0",
+    "last_updated": "15/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Need for Speed: Underground 2",
+    "category": "Microsoft Xbox",
+    "version": "0.5.13",
+    "last_updated": "18/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "SSX Tricky",
+    "category": "Microsoft Xbox",
+    "version": "0.1.1",
+    "last_updated": "22/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Black",
+    "category": "Microsoft Xbox",
+    "version": "0.2.5",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Bloody Roar Extreme",
+    "category": "Microsoft Xbox",
+    "version": "0.1.0",
+    "last_updated": "03/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Castlevania: Curse of Darkness",
+    "category": "Microsoft Xbox",
+    "version": "0.5.0",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Conker: Live & Reloaded",
+    "category": "Microsoft Xbox",
+    "version": "0.55.0",
+    "last_updated": "01/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Dead or Alive 2 Ultimate",
+    "category": "Microsoft Xbox",
+    "version": "released",
+    "last_updated": "30/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Dead or Alive 3",
+    "category": "Microsoft Xbox",
+    "version": "released",
+    "last_updated": "01/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 FIFA Street",
+    "category": "Microsoft Xbox",
+    "version": "0.1.0",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Halo: Combat Evolved",
+    "category": "Microsoft Xbox",
+    "version": "Build 132",
+    "last_updated": "02/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Midnight Club 3: Dub Edition",
+    "category": "Microsoft Xbox",
+    "version": "0.5.0",
+    "last_updated": "30/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Mortal Kombat: Shaolin Monks",
+    "category": "Microsoft Xbox",
+    "version": "0.3.1",
+    "last_updated": "27/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 MVP Baseball '05",
+    "category": "Microsoft Xbox",
+    "version": "0.2.0",
+    "last_updated": "27/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Splinter Cell: Double Agent",
+    "category": "Microsoft Xbox",
+    "version": "0.4.9",
+    "last_updated": "04/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 The Godfather",
+    "category": "Microsoft Xbox",
+    "version": "1.0.0",
+    "last_updated": "02/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Tom and Jerry: War of the Whiskers",
+    "category": "Microsoft Xbox",
+    "version": "0.94.1",
+    "last_updated": "02/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Microsoft Xbox 360",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "BattleBlock Theater",
+    "category": "Microsoft Xbox 360",
+    "version": "0.2.0",
+    "last_updated": "22/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Bejeweled 3",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.1",
+    "last_updated": "25/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Dante's Inferno",
+    "category": "Microsoft Xbox 360",
+    "version": "1.1.0 (TU2)",
+    "last_updated": "23/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Gears of War 2",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "23/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Mass Effect",
+    "category": "Microsoft Xbox 360",
+    "version": "0.2.1",
+    "last_updated": "09/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Metal Gear Rising: Revengeance",
+    "category": "Microsoft Xbox 360",
+    "version": "0.2.2",
+    "last_updated": "23/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Monster High: New Ghoul in School",
+    "category": "Microsoft Xbox 360",
+    "version": "released",
+    "last_updated": "21/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Need for Speed: Carbon",
+    "category": "Microsoft Xbox 360",
+    "version": "0.3.0",
+    "last_updated": "23/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Need for Speed: Most Wanted",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "27/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Peggle",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.2",
+    "last_updated": "22/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Peggle 2",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.2",
+    "last_updated": "22/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Sonic The Hedgehog (2006)",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.3",
+    "last_updated": "02/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Sonic Unleashed",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "02/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Space Channel 5: Part 2",
+    "category": "Microsoft Xbox 360",
+    "version": "1.1.0",
+    "last_updated": "18/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "The Simpson's Game",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.1",
+    "last_updated": "06/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Tony Hawk's Project 8",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "01/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Ultra Street Fighter IV",
+    "category": "Microsoft Xbox 360",
+    "version": "0.8.1",
+    "last_updated": "25/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢",
+    "category": "Microsoft Xbox 360",
+    "version": "1.1.0",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢",
+    "category": "Microsoft Xbox 360",
+    "version": "1.1.0",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 A Kingdom for Keflings",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "30/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Alice: Madness Returns",
+    "category": "Microsoft Xbox 360",
+    "version": "0.2-beta",
+    "last_updated": "05/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Bakugan: Battle Brawlers",
+    "category": "Microsoft Xbox 360",
+    "version": "0.2.3",
+    "last_updated": "02/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Bangai-O HD: Missile Fury",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Banjo-Kazooie: Nuts & Bolts",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.1",
+    "last_updated": "01/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Beautiful Katamari",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "01/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Blue Dragon",
+    "category": "Microsoft Xbox 360",
+    "version": "1.3.1",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Call of Duty: Black Ops II",
+    "category": "Microsoft Xbox 360",
+    "version": "Release 1",
+    "last_updated": "31/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Castlevania: Harmony of Despair",
+    "category": "Microsoft Xbox 360",
+    "version": "0.292",
+    "last_updated": "03/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Castlevania: Lords of Shadow",
+    "category": "Microsoft Xbox 360",
+    "version": "0.5.0",
+    "last_updated": "03/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Condemned 2",
+    "category": "Microsoft Xbox 360",
+    "version": "0.2.1",
+    "last_updated": "07/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Condemned: Criminal Origins",
+    "category": "Microsoft Xbox 360",
+    "version": "0.2.0",
+    "last_updated": "02/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Dark Souls II: Scholar of the First Sin",
+    "category": "Microsoft Xbox 360",
+    "version": "v104",
+    "last_updated": "31/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Dead Space 1",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0 (TU2)",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Dead Space 2",
+    "category": "Microsoft Xbox 360",
+    "version": "1.3.0 (TU2)",
+    "last_updated": "27/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Dead Space 3",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.1 (TU2)",
+    "last_updated": "27/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Feeding Frenzy",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "26/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Feeding Frenzy 2: Shipwreck Showdown",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "26/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Grand Theft Auto IV",
+    "category": "Microsoft Xbox 360",
+    "version": "v35",
+    "last_updated": "23/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Guardian Heroes",
+    "category": "Microsoft Xbox 360",
+    "version": "0.77",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Guwange",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.1",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Hard Corps: Uprising",
+    "category": "Microsoft Xbox 360",
+    "version": "0.303 pre-release",
+    "last_updated": "05/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Hexic 2",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "04/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Hexic HD",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "04/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Kameo: Elements of Power",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "04/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Ketsui: Kizuna Jigoku Tachi Extra",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Lost Odyssey",
+    "category": "Microsoft Xbox 360",
+    "version": "1.1.0",
+    "last_updated": "06/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Mass Effect 2",
+    "category": "Microsoft Xbox 360",
+    "version": "pre-release",
+    "last_updated": "04/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Max Payne 3",
+    "category": "Microsoft Xbox 360",
+    "version": "released",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Mini Ninjas",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.7",
+    "last_updated": "05/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Mortal Kombat Komplete Edition",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.4",
+    "last_updated": "05/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Mushihimesama Futari",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.4",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Nights into Dreams",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.1",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 PAC-MAN Championship Edition DX",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "02/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Shank",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "31/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Shank 2",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "31/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Silent Hill 3",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0",
+    "last_updated": "30/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Silent Hill Homecoming",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0",
+    "last_updated": "30/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Skate 3",
+    "category": "Microsoft Xbox 360",
+    "version": "0.1.5",
+    "last_updated": "30/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Sonic Adventure 2",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.4",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 The King of Fighters 2002 Unlimited Match",
+    "category": "Microsoft Xbox 360",
+    "version": "0.1.1",
+    "last_updated": "07/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Torchlight",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.5",
+    "last_updated": "05/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Zuma",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.1",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Zuma's Revenge",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.1",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Castlevania: Rondo of Blood",
+    "category": "NEC PC Engine (TurboGrafx-16)",
+    "version": "1.1",
+    "last_updated": "04/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 The Legend of Zelda: Ocarina of Time 3D",
+    "category": "Nintendo 3DS",
+    "version": "0.1.0",
+    "last_updated": "05/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Banjo Kazooie",
+    "category": "Nintendo 64",
+    "version": "1.1.0",
+    "last_updated": "18/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Bomberman 64",
+    "category": "Nintendo 64",
+    "version": "1.0.0",
+    "last_updated": "16/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Castlevania: Legacy of Darkness",
+    "category": "Nintendo 64",
+    "version": "1.0.0-RC1",
+    "last_updated": "24/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Conker's Bad Fur Day",
+    "category": "Nintendo 64",
+    "version": "RC1",
+    "last_updated": "18/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Diddy Kong Racing",
+    "category": "Nintendo 64",
+    "version": "1.2.1",
+    "last_updated": "12/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Donkey Kong 64",
+    "category": "Nintendo 64",
+    "version": "1.1.2",
+    "last_updated": "11/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "F-Zero X",
+    "category": "Nintendo 64",
+    "version": "1.0.1",
+    "last_updated": "14/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Mario Kart 64",
+    "category": "Nintendo 64",
+    "version": "1.0.0",
+    "last_updated": "24/02/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Mega Man 64",
+    "category": "Nintendo 64",
+    "version": "0.9.1",
+    "last_updated": "22/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Paper Mario",
+    "category": "Nintendo 64",
+    "version": "1.0.2",
+    "last_updated": "01/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Perfect Dark",
+    "category": "Nintendo 64",
+    "version": "???",
+    "last_updated": "13/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "StarCraft64",
+    "category": "Nintendo 64",
+    "version": "1.3",
+    "last_updated": "18/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Super Mario 64",
+    "category": "Nintendo 64",
+    "version": "3.0.0",
+    "last_updated": "07/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Super Smash Bros.",
+    "category": "Nintendo 64",
+    "version": "1.6.0",
+    "last_updated": "23/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "The Legend of Zelda: Majora's Mask",
+    "category": "Nintendo 64",
+    "version": "4.0.0 nx",
+    "last_updated": "30/01/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Wave Race 64",
+    "category": "Nintendo 64",
+    "version": "0.1.0",
+    "last_updated": "21/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢",
+    "category": "Nintendo 64",
+    "version": "1.5.0",
+    "last_updated": "04/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Star Wars: Rogue Squadron",
+    "category": "Nintendo 64",
+    "version": "1.0",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 The Legened of Zelda: Ocarina of Time",
+    "category": "Nintendo 64",
+    "version": "9.3.1-nx2",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Pokemon Gen 1",
+    "category": "Nintendo Gameboy",
+    "version": "0.3.99",
+    "last_updated": "31/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Pokemon Gen 2",
+    "category": "Nintendo Gameboy",
+    "version": "0.8.47",
+    "last_updated": "26/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Nintendo Gameboy Advance",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Sonic Advance 2",
+    "category": "Nintendo Gameboy Advance",
+    "version": "0.3",
+    "last_updated": "16/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "The Legend of Zelda: The Minish Cap",
+    "category": "Nintendo Gameboy Advance",
+    "version": "v0.25",
+    "last_updated": "04/06/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Metroid: Zero Mission",
+    "category": "Nintendo Gameboy Advance",
+    "version": "1.3",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Pokemon: FullDex",
+    "category": "Nintendo Gameboy Advance",
+    "version": "v2",
+    "last_updated": "30/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "The Legend of Zelda: Link's Awakening DX",
+    "category": "Nintendo Gameboy Color",
+    "version": "1.7.3",
+    "last_updated": "25/04/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "The Legend of Zelda: Oracle of Seasons / Oracle of Ages",
+    "category": "Nintendo Gameboy Color",
+    "version": "1.0.0",
+    "last_updated": "10/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢",
+    "category": "Nintendo Gameboy Color",
+    "version": "1.3.0",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Nintendo GameCube",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Super Smash Bros. Melee",
+    "category": "Nintendo GameCube",
+    "version": "0.2.5 beta",
+    "last_updated": "06/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "The Legend of Zelda: Twilight Princess",
+    "category": "Nintendo GameCube",
+    "version": "1.4.3",
+    "last_updated": "02/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢",
+    "category": "Nintendo GameCube",
+    "version": "1.1.0",
+    "last_updated": "03/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Animal Crossing",
+    "category": "Nintendo GameCube",
+    "version": "1.0.1",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Luigi's Mansion",
+    "category": "Nintendo GameCube",
+    "version": "1.0.1",
+    "last_updated": "01/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Mario Kart: Double Dash!",
+    "category": "Nintendo GameCube",
+    "version": "1.9.0",
+    "last_updated": "06/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Sonic Riders",
+    "category": "Nintendo GameCube",
+    "version": "0.3.4",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Super Mario Strikers",
+    "category": "Nintendo GameCube",
+    "version": "1.9.8 test build",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 The Legend of Zelda: Wind Waker",
+    "category": "Nintendo GameCube",
+    "version": "1.0.2",
+    "last_updated": "27/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Nintendo Wii",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Mario Kart Wii",
+    "category": "Nintendo Wii",
+    "version": "0.1.0-beta",
+    "last_updated": "29/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Nintendo Wii U",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 The Legend of Zelda: Wind Waker HD",
+    "category": "Nintendo Wii U",
+    "version": "1.0.0",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Sega Dreamcast",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Crazy Taxi",
+    "category": "Sega Dreamcast",
+    "version": "0.5.0",
+    "last_updated": "04/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Sonic Adventure",
+    "category": "Sega Dreamcast",
+    "version": "0.5.0",
+    "last_updated": "02/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Sega Genesis",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Sega Genesis",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Virtua Racing Deluxe (32x)",
+    "category": "Sega Genesis",
+    "version": "1.0.0",
+    "last_updated": "02/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Mickey & Donald Collection",
+    "category": "Sega Genesis",
+    "version": "pre-release",
+    "last_updated": "05/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Sony Playstation",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Lain",
+    "category": "Sony Playstation",
+    "version": "0.4.4-nx.6",
+    "last_updated": "20/08/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Ms. PacMan Maze Madness",
+    "category": "Sony Playstation",
+    "version": "1.1",
+    "last_updated": "19/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "WipEout",
+    "category": "Sony Playstation",
+    "version": "released",
+    "last_updated": "12/07/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Digimon World 3",
+    "category": "Sony Playstation",
+    "version": "0.9.0-preview 2",
+    "last_updated": "02/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Tekken 3",
+    "category": "Sony Playstation",
+    "version": "1.2",
+    "last_updated": "03/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Sony Playstation 2",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Dragonball Z: Tenkaichi Budokai 3",
+    "category": "Sony Playstation 2",
+    "version": "1.7.2",
+    "last_updated": "01/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Jak and Daxter Trilogy",
+    "category": "Sony Playstation 2",
+    "version": "1.0",
+    "last_updated": "30/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Rampage: Total Destruction",
+    "category": "Sony Playstation 2",
+    "version": "1.2.1",
+    "last_updated": "28/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Sony Playstation 4",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 P.T. (Silent Hills)",
+    "category": "Sony Playstation 4",
+    "version": "1.0.0",
+    "last_updated": "02/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "---",
+    "category": "Sony Playstation Portable",
+    "version": "---",
+    "last_updated": "---",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Ben 10: Protector of Earth",
+    "category": "Sony Playstation Portable",
+    "version": "1.1.4",
+    "last_updated": "05/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Donkey Kong Country",
+    "category": "Super Nintendo Entertainment System",
+    "version": "0.1.0-NX",
+    "last_updated": "09/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Donkey Kong Country 2",
+    "category": "Super Nintendo Entertainment System",
+    "version": "0.0.5-NX",
+    "last_updated": "09/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Donkey Kong Country 3",
+    "category": "Super Nintendo Entertainment System",
+    "version": "0.0.5-NX1",
+    "last_updated": "30/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "F-Zero",
+    "category": "Super Nintendo Entertainment System",
+    "version": "0.3.0",
+    "last_updated": "19/09/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Illusion of Gaia",
+    "category": "Super Nintendo Entertainment System",
+    "version": "1.0.0",
+    "last_updated": "16/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Mega Man X",
+    "category": "Super Nintendo Entertainment System",
+    "version": "1.2.0",
+    "last_updated": "23/10/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Starfox",
+    "category": "Super Nintendo Entertainment System",
+    "version": "0.0.8.8.3",
+    "last_updated": "01/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Super Mario World",
+    "category": "Super Nintendo Entertainment System",
+    "version": "1.0.1",
+    "last_updated": "02/11/2026",
+    "project_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  }
+]
