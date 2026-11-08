@@ -1,18 +1,12 @@
 [
   {
-    "name": "---",
-    "category": "Android 32bit",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Amazing Spider-Man 2",
     "category": "Android 32bit",
     "version": "1.0.0",
     "last_updated": "06/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -20,7 +14,9 @@
     "category": "Android 32bit",
     "version": "1.0.0",
     "last_updated": "06/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -28,7 +24,9 @@
     "category": "Android 32bit",
     "version": "1.0.2",
     "last_updated": "01/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -36,7 +34,9 @@
     "category": "Android 32bit",
     "version": "1.0.2",
     "last_updated": "07/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -44,7 +44,9 @@
     "category": "Android 32bit",
     "version": "1.0.3",
     "last_updated": "01/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -52,7 +54,9 @@
     "category": "Android 32bit",
     "version": "0.1.1",
     "last_updated": "18/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -60,7 +64,9 @@
     "category": "Android 32bit",
     "version": "1.0.0",
     "last_updated": "28/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -68,7 +74,9 @@
     "category": "Android 32bit",
     "version": "0.1.0",
     "last_updated": "07/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -76,7 +84,9 @@
     "category": "Android 32bit",
     "version": "0.1.0",
     "last_updated": "10/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -84,7 +94,9 @@
     "category": "Android 32bit",
     "version": "0.2.0",
     "last_updated": "09/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -92,7 +104,9 @@
     "category": "Android 32bit",
     "version": "1.1.0",
     "last_updated": "08/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -100,7 +114,9 @@
     "category": "Android 32bit",
     "version": "0.1.5",
     "last_updated": "06/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -108,7 +124,9 @@
     "category": "Android 32bit",
     "version": "1.0.2",
     "last_updated": "01/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -116,7 +134,9 @@
     "category": "Android 32bit",
     "version": "1.3.0",
     "last_updated": "03/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -124,7 +144,9 @@
     "category": "Android 32bit",
     "version": "1.0.2",
     "last_updated": "01/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -132,7 +154,9 @@
     "category": "Android 32bit",
     "version": "1.2.0",
     "last_updated": "06/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -140,7 +164,9 @@
     "category": "Android 32bit",
     "version": "1.0.2",
     "last_updated": "01/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -148,7 +174,9 @@
     "category": "Android 32bit",
     "version": "1.0.1",
     "last_updated": "11/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -156,7 +184,9 @@
     "category": "Android 32bit",
     "version": "0.3.0",
     "last_updated": "19/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -164,7 +194,9 @@
     "category": "Android 32bit",
     "version": "1.0.2",
     "last_updated": "01/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -172,7 +204,9 @@
     "category": "Android 32bit",
     "version": "0.1.0",
     "last_updated": "07/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -180,7 +214,9 @@
     "category": "Android 32bit",
     "version": "0.1.1",
     "last_updated": "07/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -188,7 +224,9 @@
     "category": "Android 32bit",
     "version": "0.1.3",
     "last_updated": "19/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -196,7 +234,9 @@
     "category": "Android 32bit",
     "version": "1.0.3",
     "last_updated": "01/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -204,7 +244,9 @@
     "category": "Android 32bit",
     "version": "1.0.0",
     "last_updated": "04/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -212,7 +254,9 @@
     "category": "Android 32bit",
     "version": "1.0.1",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -220,7 +264,9 @@
     "category": "Android 32bit",
     "version": "1.0.1",
     "last_updated": "27/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -228,7 +274,9 @@
     "category": "Android 32bit",
     "version": "0.1.5",
     "last_updated": "06/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -236,7 +284,9 @@
     "category": "Android 32bit",
     "version": "0.1.0",
     "last_updated": "30/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -244,7 +294,9 @@
     "category": "Android 32bit",
     "version": "0.1.0",
     "last_updated": "31/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -252,7 +304,9 @@
     "category": "Android 32bit",
     "version": "0.1.0",
     "last_updated": "31/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -260,7 +314,9 @@
     "category": "Android 64bit",
     "version": "1.0.3",
     "last_updated": "14/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -268,7 +324,9 @@
     "category": "Android 64bit",
     "version": "1.0.2",
     "last_updated": "24/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -276,7 +334,9 @@
     "category": "Android 64bit",
     "version": "1.0.2",
     "last_updated": "06/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -284,7 +344,9 @@
     "category": "Android 64bit",
     "version": "1.0.2",
     "last_updated": "24/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -292,7 +354,9 @@
     "category": "Android 64bit",
     "version": "1.0.4",
     "last_updated": "30/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -300,7 +364,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "06/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -308,7 +374,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "31/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -316,7 +384,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "09/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -324,7 +394,9 @@
     "category": "Android 64bit",
     "version": "1.0.5",
     "last_updated": "22/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -332,7 +404,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "15/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -340,7 +414,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "17/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -348,7 +424,9 @@
     "category": "Android 64bit",
     "version": "1.0.3",
     "last_updated": "23/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -356,7 +434,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "11/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -364,7 +444,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "10/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -372,7 +454,9 @@
     "category": "Android 64bit",
     "version": "1.0.2",
     "last_updated": "23/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -380,7 +464,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "07/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -388,7 +474,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "07/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -396,7 +484,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "14/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -404,7 +494,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "03/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -412,7 +504,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "15/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -420,7 +514,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "15/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -428,7 +524,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "08/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -436,7 +534,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "14/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -444,7 +544,9 @@
     "category": "Android 64bit",
     "version": "1.0.2",
     "last_updated": "05/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -452,7 +554,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "28/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -460,7 +564,9 @@
     "category": "Android 64bit",
     "version": "1.1.0",
     "last_updated": "13/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -468,7 +574,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "27/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -476,7 +584,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "18/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -484,7 +594,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "06/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -492,7 +604,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "01/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -500,7 +614,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "06/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -508,7 +624,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "06/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -516,7 +634,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "19/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -524,7 +644,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "21/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -532,7 +654,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "26/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -540,7 +664,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "02/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -548,7 +674,9 @@
     "category": "Android 64bit",
     "version": "1.0.3",
     "last_updated": "03/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -556,7 +684,9 @@
     "category": "Android 64bit",
     "version": "1.0.2",
     "last_updated": "22/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -564,7 +694,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "03/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -572,7 +704,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "19/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -580,7 +714,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "15/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -588,7 +724,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "27/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -596,7 +734,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "15/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -604,7 +744,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "28/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -612,7 +754,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "23/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -620,7 +764,9 @@
     "category": "Android 64bit",
     "version": "1.0.2",
     "last_updated": "29/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -628,7 +774,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "18/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -636,7 +784,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "28/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -644,7 +794,9 @@
     "category": "Android 64bit",
     "version": "1.0.2",
     "last_updated": "18/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -652,7 +804,9 @@
     "category": "Android 64bit",
     "version": "1.0.4",
     "last_updated": "03/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -660,7 +814,9 @@
     "category": "Android 64bit",
     "version": "1.0.2",
     "last_updated": "07/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -668,7 +824,9 @@
     "category": "Android 64bit",
     "version": "1.1.8",
     "last_updated": "15/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -676,7 +834,9 @@
     "category": "Android 64bit",
     "version": "1.0.4",
     "last_updated": "16/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -684,7 +844,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "29/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -692,7 +854,9 @@
     "category": "Android 64bit",
     "version": "1.0.3",
     "last_updated": "30/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -700,7 +864,9 @@
     "category": "Android 64bit",
     "version": "1.0.4",
     "last_updated": "15/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -708,7 +874,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "23/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -716,7 +884,9 @@
     "category": "Android 64bit",
     "version": "1.0.4",
     "last_updated": "03/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -724,7 +894,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "11/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -732,7 +904,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "19/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -740,7 +914,9 @@
     "category": "Android 64bit",
     "version": "1.1.0",
     "last_updated": "24/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -748,7 +924,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "22/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -756,7 +934,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "04/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -764,7 +944,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "31/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -772,7 +954,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "31/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -780,7 +964,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "06/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -788,7 +974,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "18/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -796,7 +984,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "03/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -804,7 +994,9 @@
     "category": "Android 64bit",
     "version": "1.0.2",
     "last_updated": "22/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -812,7 +1004,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "15/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -820,7 +1014,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "01/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -828,7 +1024,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "15/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -836,7 +1034,9 @@
     "category": "Android 64bit",
     "version": "1.0.3",
     "last_updated": "09/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -844,7 +1044,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "30/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -852,7 +1054,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "14/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -860,7 +1064,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "10/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -868,7 +1074,9 @@
     "category": "Android 64bit",
     "version": "1.1.2d",
     "last_updated": "05/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -876,7 +1084,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "03/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -884,7 +1094,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "15/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -892,7 +1104,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "01/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -900,7 +1114,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "09/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -908,7 +1124,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "19/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -916,7 +1134,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "18/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -924,7 +1144,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "18/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -932,7 +1154,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "20/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -940,7 +1164,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "28/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -948,7 +1174,9 @@
     "category": "Android 64bit",
     "version": "1.0.3",
     "last_updated": "20/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -956,7 +1184,9 @@
     "category": "Android 64bit",
     "version": "2.2.0",
     "last_updated": "30/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -964,7 +1194,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "02/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -972,7 +1204,9 @@
     "category": "Android 64bit",
     "version": "1.2.0",
     "last_updated": "26/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -980,7 +1214,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "27/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -988,7 +1224,9 @@
     "category": "Android 64bit",
     "version": "1.0.11",
     "last_updated": "22/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -996,7 +1234,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "24/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1004,7 +1244,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "06/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1012,7 +1254,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "20/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1020,7 +1264,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "24/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1028,7 +1274,9 @@
     "category": "Android 64bit",
     "version": "1.0.4",
     "last_updated": "29/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1036,7 +1284,9 @@
     "category": "Android 64bit",
     "version": "1.0.3",
     "last_updated": "29/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1044,7 +1294,9 @@
     "category": "Android 64bit",
     "version": "1.0.2",
     "last_updated": "29/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1052,7 +1304,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "20/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1060,7 +1314,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "26/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1068,7 +1324,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "30/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1076,7 +1334,9 @@
     "category": "Android 64bit",
     "version": "0.2",
     "last_updated": "11/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1084,7 +1344,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "22/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1092,7 +1354,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "21/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1100,7 +1364,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "18/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1108,7 +1374,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "08/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1116,7 +1384,9 @@
     "category": "Android 64bit",
     "version": "0.1.46",
     "last_updated": "18/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1124,7 +1394,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "29/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1132,7 +1404,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "08/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1140,7 +1414,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "17/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1148,7 +1424,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "14/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1156,7 +1434,9 @@
     "category": "Android 64bit",
     "version": "1.0.3",
     "last_updated": "03/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1164,7 +1444,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "14/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1172,7 +1454,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "15/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1180,7 +1464,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "28/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1188,7 +1474,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "14/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1196,7 +1484,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "14/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1204,7 +1494,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "08/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1212,7 +1504,9 @@
     "category": "Android 64bit",
     "version": "1.1.1.9s1.0.2",
     "last_updated": "08/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1220,7 +1514,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "03/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1228,7 +1524,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "05/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1236,7 +1534,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "18/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1244,7 +1544,9 @@
     "category": "Android 64bit",
     "version": "1.0.0",
     "last_updated": "25/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1252,7 +1554,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "15/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1260,7 +1564,9 @@
     "category": "Android 64bit",
     "version": "released",
     "last_updated": "04/05/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1268,7 +1574,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "24/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1276,7 +1584,9 @@
     "category": "Android 64bit",
     "version": "1.0.1",
     "last_updated": "24/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1284,7 +1594,9 @@
     "category": "Android 64bit",
     "version": "0.2",
     "last_updated": "29/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1292,7 +1604,9 @@
     "category": "Android 64bit",
     "version": "1.0.2",
     "last_updated": "16/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1300,7 +1614,9 @@
     "category": "Android 64bit",
     "version": "1.0.2",
     "last_updated": "22/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1308,7 +1624,9 @@
     "category": "Android 64bit",
     "version": "1.01.0",
     "last_updated": "03/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1316,7 +1634,9 @@
     "category": "Android 64bit",
     "version": "1.5.1",
     "last_updated": "31/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1324,15 +1644,9 @@
     "category": "Android 64bit",
     "version": "0.1.0",
     "last_updated": "04/11/2026",
+    "status": "",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "---",
-    "category": "Arcade",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1340,7 +1654,9 @@
     "category": "Arcade",
     "version": "1.2.0",
     "last_updated": "10/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1348,7 +1664,9 @@
     "category": "Arcade",
     "version": "1.1.0",
     "last_updated": "10/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1356,7 +1674,9 @@
     "category": "Arcade",
     "version": "1.1.1",
     "last_updated": "29/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1364,7 +1684,9 @@
     "category": "Arcade",
     "version": "1.0.0",
     "last_updated": "29/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1372,7 +1694,9 @@
     "category": "Arcade",
     "version": "1.08-nx",
     "last_updated": "01/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1380,7 +1704,9 @@
     "category": "Arcade",
     "version": "switch-v0.5.3",
     "last_updated": "08/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1388,7 +1714,9 @@
     "category": "Arcade",
     "version": "0.8.3",
     "last_updated": "09/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1396,7 +1724,9 @@
     "category": "Arcade",
     "version": "1.1.0",
     "last_updated": "10/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1404,7 +1734,9 @@
     "category": "Emulators",
     "version": "3.0.0",
     "last_updated": "24/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1412,7 +1744,9 @@
     "category": "Emulators",
     "version": "test-build-4",
     "last_updated": "24/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1420,7 +1754,9 @@
     "category": "Emulators",
     "version": "1.3.0",
     "last_updated": "21/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1428,7 +1764,9 @@
     "category": "Emulators",
     "version": "1.2.0",
     "last_updated": "22/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1436,7 +1774,9 @@
     "category": "Emulators",
     "version": "2.2.2",
     "last_updated": "14/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1444,7 +1784,9 @@
     "category": "Emulators",
     "version": "1.2.0",
     "last_updated": "16/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1452,7 +1794,9 @@
     "category": "Emulators",
     "version": "1.2.0",
     "last_updated": "21/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1460,7 +1804,9 @@
     "category": "Emulators",
     "version": "Proto",
     "last_updated": "02/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1468,7 +1814,9 @@
     "category": "Emulators",
     "version": "1.0.1",
     "last_updated": "18/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1476,7 +1824,9 @@
     "category": "Emulators",
     "version": "1.0",
     "last_updated": "10/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1484,7 +1834,9 @@
     "category": "Emulators",
     "version": "1.4.0",
     "last_updated": "15/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1492,7 +1844,9 @@
     "category": "Emulators",
     "version": "0.7.0",
     "last_updated": "07/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1500,7 +1854,9 @@
     "category": "Emulators",
     "version": "1.0.0",
     "last_updated": "17/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1508,7 +1864,9 @@
     "category": "Emulators",
     "version": "2.5.0",
     "last_updated": "18/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1516,7 +1874,9 @@
     "category": "Emulators",
     "version": "0.1 beta",
     "last_updated": "01/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1524,7 +1884,9 @@
     "category": "Emulators",
     "version": "0.8.0",
     "last_updated": "21/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1532,7 +1894,9 @@
     "category": "Emulators",
     "version": "1.2.0",
     "last_updated": "01/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1540,7 +1904,9 @@
     "category": "Emulators",
     "version": "1.0.4",
     "last_updated": "16/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1548,7 +1914,9 @@
     "category": "Emulators",
     "version": "3.0",
     "last_updated": "30/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1556,7 +1924,9 @@
     "category": "Emulators",
     "version": "PR 3",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1564,7 +1934,9 @@
     "category": "Emulators",
     "version": "???",
     "last_updated": "27/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1572,7 +1944,9 @@
     "category": "Emulators",
     "version": "1.1.0",
     "last_updated": "26/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1580,7 +1954,9 @@
     "category": "Emulators",
     "version": "nightly",
     "last_updated": "nightly",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1588,7 +1964,9 @@
     "category": "Emulators",
     "version": "1.5.0",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1596,7 +1974,9 @@
     "category": "Emulators",
     "version": "1.07",
     "last_updated": "21/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1604,15 +1984,9 @@
     "category": "Emulators",
     "version": "1.4.0",
     "last_updated": "01/11/2026",
+    "status": "",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "---",
-    "category": "Microsoft Xbox",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1620,7 +1994,9 @@
     "category": "Microsoft Xbox",
     "version": "0.2.4",
     "last_updated": "21/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1628,7 +2004,9 @@
     "category": "Microsoft Xbox",
     "version": "0.0.3",
     "last_updated": "22/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1636,7 +2014,9 @@
     "category": "Microsoft Xbox",
     "version": "1.0.0",
     "last_updated": "09/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1644,7 +2024,9 @@
     "category": "Microsoft Xbox",
     "version": "0.2.1",
     "last_updated": "18/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1652,7 +2034,9 @@
     "category": "Microsoft Xbox",
     "version": "0.2.4",
     "last_updated": "18/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1660,7 +2044,9 @@
     "category": "Microsoft Xbox",
     "version": "0.4.0",
     "last_updated": "15/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1668,7 +2054,9 @@
     "category": "Microsoft Xbox",
     "version": "0.5.13",
     "last_updated": "18/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1676,7 +2064,9 @@
     "category": "Microsoft Xbox",
     "version": "0.1.1",
     "last_updated": "22/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1684,7 +2074,9 @@
     "category": "Microsoft Xbox",
     "version": "0.2.5",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1692,7 +2084,9 @@
     "category": "Microsoft Xbox",
     "version": "0.1.0",
     "last_updated": "03/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1700,7 +2094,9 @@
     "category": "Microsoft Xbox",
     "version": "0.5.0",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1708,7 +2104,9 @@
     "category": "Microsoft Xbox",
     "version": "0.55.0",
     "last_updated": "01/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1716,7 +2114,9 @@
     "category": "Microsoft Xbox",
     "version": "released",
     "last_updated": "30/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1724,7 +2124,9 @@
     "category": "Microsoft Xbox",
     "version": "released",
     "last_updated": "01/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1732,7 +2134,9 @@
     "category": "Microsoft Xbox",
     "version": "0.1.0",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1740,7 +2144,9 @@
     "category": "Microsoft Xbox",
     "version": "Build 132",
     "last_updated": "02/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1748,7 +2154,9 @@
     "category": "Microsoft Xbox",
     "version": "0.5.0",
     "last_updated": "30/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1756,7 +2164,9 @@
     "category": "Microsoft Xbox",
     "version": "0.3.1",
     "last_updated": "27/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1764,7 +2174,9 @@
     "category": "Microsoft Xbox",
     "version": "0.2.0",
     "last_updated": "27/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1772,7 +2184,9 @@
     "category": "Microsoft Xbox",
     "version": "0.4.9",
     "last_updated": "04/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1780,7 +2194,9 @@
     "category": "Microsoft Xbox",
     "version": "1.0.0",
     "last_updated": "02/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1788,15 +2204,9 @@
     "category": "Microsoft Xbox",
     "version": "0.94.1",
     "last_updated": "02/11/2026",
+    "status": "",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "---",
-    "category": "Microsoft Xbox 360",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1804,7 +2214,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.2.0",
     "last_updated": "22/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1812,7 +2224,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.1",
     "last_updated": "25/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1820,7 +2234,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.1.0 (TU2)",
     "last_updated": "23/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1828,7 +2244,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "23/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1836,7 +2254,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.2.1",
     "last_updated": "09/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1844,7 +2264,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.2.2",
     "last_updated": "23/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1852,7 +2274,9 @@
     "category": "Microsoft Xbox 360",
     "version": "released",
     "last_updated": "21/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1860,7 +2284,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.3.0",
     "last_updated": "23/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1868,7 +2294,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "27/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1876,7 +2304,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.2",
     "last_updated": "22/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1884,7 +2314,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.2",
     "last_updated": "22/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1892,7 +2324,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.3",
     "last_updated": "02/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1900,7 +2334,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "02/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1908,7 +2344,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.1.0",
     "last_updated": "18/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1916,7 +2354,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.1",
     "last_updated": "06/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1924,7 +2364,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "01/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1932,7 +2374,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.8.1",
     "last_updated": "25/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1940,15 +2384,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.1.0",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢",
-    "category": "Microsoft Xbox 360",
-    "version": "1.1.0",
-    "last_updated": "29/10/2026",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1956,7 +2394,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "30/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1964,7 +2404,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.2-beta",
     "last_updated": "05/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1972,7 +2414,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.2.3",
     "last_updated": "02/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1980,7 +2424,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1988,7 +2434,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.1",
     "last_updated": "01/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1996,7 +2444,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "01/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2004,7 +2454,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.3.1",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2012,7 +2464,9 @@
     "category": "Microsoft Xbox 360",
     "version": "Release 1",
     "last_updated": "31/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2020,7 +2474,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.292",
     "last_updated": "03/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2028,7 +2484,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.5.0",
     "last_updated": "03/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2036,7 +2494,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.2.1",
     "last_updated": "07/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2044,7 +2504,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.2.0",
     "last_updated": "02/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2052,7 +2514,9 @@
     "category": "Microsoft Xbox 360",
     "version": "v104",
     "last_updated": "31/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2060,7 +2524,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0 (TU2)",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2068,7 +2534,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.3.0 (TU2)",
     "last_updated": "27/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2076,7 +2544,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.1 (TU2)",
     "last_updated": "27/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2084,7 +2554,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "26/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2092,7 +2564,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "26/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2100,7 +2574,9 @@
     "category": "Microsoft Xbox 360",
     "version": "v35",
     "last_updated": "23/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2108,7 +2584,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.77",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2116,7 +2594,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.1",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2124,7 +2604,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.303 pre-release",
     "last_updated": "05/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2132,7 +2614,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "04/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2140,7 +2624,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "04/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2148,7 +2634,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "04/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2156,7 +2644,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2164,7 +2654,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.1.0",
     "last_updated": "06/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2172,7 +2664,9 @@
     "category": "Microsoft Xbox 360",
     "version": "pre-release",
     "last_updated": "04/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2180,7 +2674,9 @@
     "category": "Microsoft Xbox 360",
     "version": "released",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2188,7 +2684,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.7",
     "last_updated": "05/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2196,7 +2694,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.4",
     "last_updated": "05/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2204,7 +2704,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.4",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2212,7 +2714,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.1",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2220,7 +2724,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "02/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2228,7 +2734,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "31/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2236,7 +2744,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
     "last_updated": "31/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2244,7 +2754,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0",
     "last_updated": "30/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2252,7 +2764,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0",
     "last_updated": "30/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2260,7 +2774,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.1.5",
     "last_updated": "30/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2268,7 +2784,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.4",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2276,7 +2794,9 @@
     "category": "Microsoft Xbox 360",
     "version": "0.1.1",
     "last_updated": "07/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2284,7 +2804,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.5",
     "last_updated": "05/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2292,7 +2814,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.1",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2300,7 +2824,9 @@
     "category": "Microsoft Xbox 360",
     "version": "1.0.1",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2308,7 +2834,9 @@
     "category": "NEC PC Engine (TurboGrafx-16)",
     "version": "1.1",
     "last_updated": "04/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2316,7 +2844,9 @@
     "category": "Nintendo 3DS",
     "version": "0.1.0",
     "last_updated": "05/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2324,7 +2854,9 @@
     "category": "Nintendo 64",
     "version": "1.1.0",
     "last_updated": "18/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2332,7 +2864,9 @@
     "category": "Nintendo 64",
     "version": "1.0.0",
     "last_updated": "16/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2340,7 +2874,9 @@
     "category": "Nintendo 64",
     "version": "1.0.0-RC1",
     "last_updated": "24/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2348,7 +2884,9 @@
     "category": "Nintendo 64",
     "version": "RC1",
     "last_updated": "18/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2356,7 +2894,9 @@
     "category": "Nintendo 64",
     "version": "1.2.1",
     "last_updated": "12/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2364,7 +2904,9 @@
     "category": "Nintendo 64",
     "version": "1.1.2",
     "last_updated": "11/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2372,7 +2914,9 @@
     "category": "Nintendo 64",
     "version": "1.0.1",
     "last_updated": "14/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2380,7 +2924,9 @@
     "category": "Nintendo 64",
     "version": "1.0.0",
     "last_updated": "24/02/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2388,7 +2934,9 @@
     "category": "Nintendo 64",
     "version": "0.9.1",
     "last_updated": "22/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2396,7 +2944,9 @@
     "category": "Nintendo 64",
     "version": "1.0.2",
     "last_updated": "01/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2404,7 +2954,9 @@
     "category": "Nintendo 64",
     "version": "???",
     "last_updated": "13/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2412,7 +2964,9 @@
     "category": "Nintendo 64",
     "version": "1.3",
     "last_updated": "18/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2420,7 +2974,9 @@
     "category": "Nintendo 64",
     "version": "3.0.0",
     "last_updated": "07/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2428,7 +2984,9 @@
     "category": "Nintendo 64",
     "version": "1.6.0",
     "last_updated": "23/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2436,7 +2994,9 @@
     "category": "Nintendo 64",
     "version": "4.0.0 nx",
     "last_updated": "30/01/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2444,7 +3004,9 @@
     "category": "Nintendo 64",
     "version": "0.1.0",
     "last_updated": "21/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2452,7 +3014,9 @@
     "category": "Nintendo 64",
     "version": "1.5.0",
     "last_updated": "04/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2460,7 +3024,9 @@
     "category": "Nintendo 64",
     "version": "1.0",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2468,7 +3034,9 @@
     "category": "Nintendo 64",
     "version": "9.3.1-nx2",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2476,7 +3044,9 @@
     "category": "Nintendo Gameboy",
     "version": "0.3.99",
     "last_updated": "31/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2484,15 +3054,9 @@
     "category": "Nintendo Gameboy",
     "version": "0.8.47",
     "last_updated": "26/10/2026",
+    "status": "",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "---",
-    "category": "Nintendo Gameboy Advance",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2500,7 +3064,9 @@
     "category": "Nintendo Gameboy Advance",
     "version": "0.3",
     "last_updated": "16/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2508,7 +3074,9 @@
     "category": "Nintendo Gameboy Advance",
     "version": "v0.25",
     "last_updated": "04/06/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2516,7 +3084,9 @@
     "category": "Nintendo Gameboy Advance",
     "version": "1.3",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2524,7 +3094,9 @@
     "category": "Nintendo Gameboy Advance",
     "version": "v2",
     "last_updated": "30/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2532,7 +3104,9 @@
     "category": "Nintendo Gameboy Color",
     "version": "1.7.3",
     "last_updated": "25/04/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2540,7 +3114,9 @@
     "category": "Nintendo Gameboy Color",
     "version": "1.0.0",
     "last_updated": "10/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2548,15 +3124,9 @@
     "category": "Nintendo Gameboy Color",
     "version": "1.3.0",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "---",
-    "category": "Nintendo GameCube",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2564,7 +3134,9 @@
     "category": "Nintendo GameCube",
     "version": "0.2.5 beta",
     "last_updated": "06/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2572,7 +3144,9 @@
     "category": "Nintendo GameCube",
     "version": "1.4.3",
     "last_updated": "02/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2580,7 +3154,9 @@
     "category": "Nintendo GameCube",
     "version": "1.1.0",
     "last_updated": "03/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2588,7 +3164,9 @@
     "category": "Nintendo GameCube",
     "version": "1.0.1",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2596,7 +3174,9 @@
     "category": "Nintendo GameCube",
     "version": "1.0.1",
     "last_updated": "01/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2604,7 +3184,9 @@
     "category": "Nintendo GameCube",
     "version": "1.9.0",
     "last_updated": "06/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2612,7 +3194,9 @@
     "category": "Nintendo GameCube",
     "version": "0.3.4",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2620,7 +3204,9 @@
     "category": "Nintendo GameCube",
     "version": "1.9.8 test build",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2628,15 +3214,9 @@
     "category": "Nintendo GameCube",
     "version": "1.0.2",
     "last_updated": "27/10/2026",
+    "status": "",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "---",
-    "category": "Nintendo Wii",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2644,15 +3224,9 @@
     "category": "Nintendo Wii",
     "version": "0.1.0-beta",
     "last_updated": "29/10/2026",
+    "status": "",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "---",
-    "category": "Nintendo Wii U",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2660,15 +3234,9 @@
     "category": "Nintendo Wii U",
     "version": "1.0.0",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "---",
-    "category": "Sega Dreamcast",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2676,7 +3244,9 @@
     "category": "Sega Dreamcast",
     "version": "0.5.0",
     "last_updated": "04/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2684,7 +3254,9 @@
     "category": "Sega Dreamcast",
     "version": "0.5.0",
     "last_updated": "02/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2692,15 +3264,9 @@
     "category": "Sega Genesis",
     "version": "---",
     "last_updated": "---",
+    "status": "---",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "---",
-    "category": "Sega Genesis",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2708,7 +3274,9 @@
     "category": "Sega Genesis",
     "version": "1.0.0",
     "last_updated": "02/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2716,15 +3284,9 @@
     "category": "Sega Genesis",
     "version": "pre-release",
     "last_updated": "05/11/2026",
+    "status": "",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "---",
-    "category": "Sony Playstation",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2732,7 +3294,9 @@
     "category": "Sony Playstation",
     "version": "0.4.4-nx.6",
     "last_updated": "20/08/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2740,7 +3304,9 @@
     "category": "Sony Playstation",
     "version": "1.1",
     "last_updated": "19/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2748,7 +3314,9 @@
     "category": "Sony Playstation",
     "version": "released",
     "last_updated": "12/07/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2756,7 +3324,9 @@
     "category": "Sony Playstation",
     "version": "0.9.0-preview 2",
     "last_updated": "02/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2764,15 +3334,9 @@
     "category": "Sony Playstation",
     "version": "1.2",
     "last_updated": "03/11/2026",
+    "status": "",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "---",
-    "category": "Sony Playstation 2",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2780,7 +3344,9 @@
     "category": "Sony Playstation 2",
     "version": "1.7.2",
     "last_updated": "01/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2788,7 +3354,9 @@
     "category": "Sony Playstation 2",
     "version": "1.0",
     "last_updated": "30/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2796,15 +3364,9 @@
     "category": "Sony Playstation 2",
     "version": "1.2.1",
     "last_updated": "28/10/2026",
+    "status": "",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "---",
-    "category": "Sony Playstation 4",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2812,15 +3374,9 @@
     "category": "Sony Playstation 4",
     "version": "1.0.0",
     "last_updated": "02/11/2026",
+    "status": "",
     "project_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "---",
-    "category": "Sony Playstation Portable",
-    "version": "---",
-    "last_updated": "---",
-    "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2828,7 +3384,9 @@
     "category": "Sony Playstation Portable",
     "version": "1.1.4",
     "last_updated": "05/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2836,7 +3394,9 @@
     "category": "Super Nintendo Entertainment System",
     "version": "0.1.0-NX",
     "last_updated": "09/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2844,7 +3404,9 @@
     "category": "Super Nintendo Entertainment System",
     "version": "0.0.5-NX",
     "last_updated": "09/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2852,7 +3414,9 @@
     "category": "Super Nintendo Entertainment System",
     "version": "0.0.5-NX1",
     "last_updated": "30/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2860,7 +3424,9 @@
     "category": "Super Nintendo Entertainment System",
     "version": "0.3.0",
     "last_updated": "19/09/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2868,7 +3434,9 @@
     "category": "Super Nintendo Entertainment System",
     "version": "1.0.0",
     "last_updated": "16/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2876,7 +3444,9 @@
     "category": "Super Nintendo Entertainment System",
     "version": "1.2.0",
     "last_updated": "23/10/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2884,7 +3454,9 @@
     "category": "Super Nintendo Entertainment System",
     "version": "0.0.8.8.3",
     "last_updated": "01/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2892,7 +3464,9 @@
     "category": "Super Nintendo Entertainment System",
     "version": "1.0.1",
     "last_updated": "02/11/2026",
+    "status": "",
     "project_url": "",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   }
 ]
