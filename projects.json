@@ -70,16 +70,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Call of Duty: Strike Team",
-    "category": "Android 32bit",
-    "version": "0.1.0",
-    "last_updated": "07/11/2026",
-    "status": "",
-    "project_url": "https://github.com/Zumoly/cod-strike-team-nx",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Costume Quest",
     "category": "Android 32bit",
     "version": "0.1.0",
@@ -150,22 +140,32 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Jet Set Radio",
-    "category": "Android 32bit",
-    "version": "1.2.0",
-    "last_updated": "06/11/2026",
-    "status": "",
-    "project_url": "https://github.com/lemasterxar5/jet-set-radio-nx",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Labyrinth 2",
     "category": "Android 32bit",
     "version": "1.0.2",
     "last_updated": "01/10/2026",
     "status": "",
     "project_url": "https://github.com/aks796/labyrinth2_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Modern Combat 3: Fallen Nation",
+    "category": "Android 32bit",
+    "version": "1.0.1",
+    "last_updated": "28/10/2026",
+    "status": "",
+    "project_url": "https://github.com/Kaays/mc3_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Modern Combat 4: Zero Hour",
+    "category": "Android 32bit",
+    "version": "1.0.1",
+    "last_updated": "27/10/2026",
+    "status": "",
+    "project_url": "https://github.com/Kaays/mc4_nx",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -177,16 +177,6 @@
     "status": "",
     "project_url": "https://github.com/markaurel13/nova3-nx",
     "discussion_url": "https://gbatemp.net/threads/n-o-v-a-3-switch-port.685264/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Need for Speed: Most Wanted",
-    "category": "Android 32bit",
-    "version": "0.3.0",
-    "last_updated": "19/10/2026",
-    "status": "",
-    "project_url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch",
-    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -240,6 +230,36 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "Steven Universe: Attack the Light",
+    "category": "Android 32bit",
+    "version": "0.1.0",
+    "last_updated": "30/10/2026",
+    "status": "",
+    "project_url": "https://github.com/iqbalriz/stevenrpg_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Teen Titans GO Figure!",
+    "category": "Android 32bit",
+    "version": "0.1.0",
+    "last_updated": "31/10/2026",
+    "status": "",
+    "project_url": "https://github.com/iqbalriz/teenyfigure_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "category": "Android 32bit",
+    "version": "0.1.0",
+    "last_updated": "31/10/2026",
+    "status": "",
+    "project_url": "https://github.com/iqbalriz/teenytitans_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "Ultimate Spider-man: Total Mayhem",
     "category": "Android 32bit",
     "version": "1.0.0",
@@ -250,22 +270,32 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Modern Combat 3: Fallen Nation",
+    "name": "🟢 Call of Duty: Strike Team",
     "category": "Android 32bit",
-    "version": "1.0.1",
-    "last_updated": "28/10/2026",
+    "version": "0.1.0",
+    "last_updated": "07/11/2026",
     "status": "",
-    "project_url": "https://github.com/Kaays/mc3_nx",
+    "project_url": "https://github.com/Zumoly/cod-strike-team-nx",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Modern Combat 4: Zero Hour",
+    "name": "🟢 Jet Set Radio",
     "category": "Android 32bit",
-    "version": "1.0.1",
-    "last_updated": "27/10/2026",
+    "version": "1.2.0",
+    "last_updated": "06/11/2026",
     "status": "",
-    "project_url": "https://github.com/Kaays/mc4_nx",
+    "project_url": "https://github.com/lemasterxar5/jet-set-radio-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Need for Speed: Most Wanted",
+    "category": "Android 32bit",
+    "version": "0.3.2",
+    "last_updated": "09/11/2026",
+    "status": "",
+    "project_url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -277,66 +307,6 @@
     "status": "",
     "project_url": "https://github.com/liartes/spacehulk-nx",
     "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Steven Universe: Attack the Light",
-    "category": "Android 32bit",
-    "version": "0.1.0",
-    "last_updated": "30/10/2026",
-    "status": "",
-    "project_url": "https://github.com/iqbalriz/stevenrpg_nx",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Teen Titans GO Figure!",
-    "category": "Android 32bit",
-    "version": "0.1.0",
-    "last_updated": "31/10/2026",
-    "status": "",
-    "project_url": "https://github.com/iqbalriz/teenyfigure_nx",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Teen Titans Go!",
-    "category": "Android 32bit",
-    "version": "0.1.0",
-    "last_updated": "31/10/2026",
-    "status": "",
-    "project_url": "https://github.com/iqbalriz/teenytitans_nx",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Adventures of Mana",
-    "category": "Android 64bit",
-    "version": "1.0.3",
-    "last_updated": "14/07/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/aom_nx",
-    "discussion_url": "https://gbatemp.net/threads/adventures-of-mana-switch-port.682785/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "After Burner Climax",
-    "category": "Android 64bit",
-    "version": "1.0.2",
-    "last_updated": "24/09/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/abc_nx",
-    "discussion_url": "https://gbatemp.net/threads/after-burner-climax-switch-port.682933/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Angry Birds 2",
-    "category": "Android 64bit",
-    "version": "1.0.2",
-    "last_updated": "06/08/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/angrybirds2_nx",
-    "discussion_url": "https://gbatemp.net/threads/angry-birds-2-switch-port.683461/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -360,16 +330,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Angry Birds Journey",
-    "category": "Android 64bit",
-    "version": "1.0.0",
-    "last_updated": "06/08/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/angrybirdsjourney_nx",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Angry Birds Reloaded",
     "category": "Android 64bit",
     "version": "1.0.0",
@@ -377,16 +337,6 @@
     "status": "",
     "project_url": "https://github.com/aks796/abreloaded_nx",
     "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Animal Crossing: Pocket Camp",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "09/08/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/acpc_nx",
-    "discussion_url": "https://gbatemp.net/threads/animal-crossing-pocket-camp-complete-switch-port.683187/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -530,46 +480,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Castle of Illusion",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "14/07/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/coi_nx",
-    "discussion_url": "https://gbatemp.net/threads/castle-of-illusion-switch-port.682811/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Castlevania Symphony of the Night",
-    "category": "Android 64bit",
-    "version": "1.0.2",
-    "last_updated": "05/07/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/sotn_nx",
-    "discussion_url": "https://gbatemp.net/threads/castlevania-symphony-of-the-night-switch-port.682763/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Chaos Rings III",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "28/06/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/cr3_nx",
-    "discussion_url": "https://gbatemp.net/threads/chaos-rings-iii-switch-port.682597/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Chrono Trigger",
-    "category": "Android 64bit",
-    "version": "1.1.0",
-    "last_updated": "13/07/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/ct_nx",
-    "discussion_url": "https://gbatemp.net/threads/chrono-trigger-switch-port.682630/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Clay Jam Classic",
     "category": "Android 64bit",
     "version": "1.0.0",
@@ -590,16 +500,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Counter Strike Source",
-    "category": "Android 64bit",
-    "version": "1.0.0",
-    "last_updated": "06/07/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/css_nx",
-    "discussion_url": "https://gbatemp.net/threads/counter-strike-source-switch-port.682944/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Crazy Taxi",
     "category": "Android 64bit",
     "version": "1.0.0",
@@ -607,26 +507,6 @@
     "status": "",
     "project_url": "https://github.com/delsonazevedo/crazytaxy_nx",
     "discussion_url": "https://gbatemp.net/threads/crazy-taxi-port.683085/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Cut the Rope",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "06/08/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/ctr_nx",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Cut the Rope 2",
-    "category": "Android 64bit",
-    "version": "1.0.0",
-    "last_updated": "06/08/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/ctr2_nx",
-    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -730,56 +610,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Final Fantasy Dimension II",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "15/07/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/ffd2_nx",
-    "discussion_url": "https://gbatemp.net/threads/final-fantasy-dimensions-ii-switch-port.683067/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Final Fantasy Dimensions",
-    "category": "Android 64bit",
-    "version": "1.0.0",
-    "last_updated": "28/06/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/ffd_nx",
-    "discussion_url": "https://gbatemp.net/threads/final-fantasy-dimensions-switch-port.682781/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Final Fantasy III 3D Remake",
-    "category": "Android 64bit",
-    "version": "1.0.0",
-    "last_updated": "23/06/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/ff3_3d_nx",
-    "discussion_url": "https://gbatemp.net/threads/final-fantasy-iii-3d-remake-switch-port.682660/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Final Fantasy IV 3D Remake",
-    "category": "Android 64bit",
-    "version": "1.0.2",
-    "last_updated": "29/06/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/ff4_3d_nx",
-    "discussion_url": "https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.682557/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Final Fantasy IV The After Years",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "18/06/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/ff4tay_nx",
-    "discussion_url": "https://gbatemp.net/threads/final-fantasy-iv-the-after-years-switch-port.682541/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Flappy Bird",
     "category": "Android 64bit",
     "version": "1.0.0",
@@ -810,16 +640,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Geometry Dash",
-    "category": "Android 64bit",
-    "version": "1.0.2",
-    "last_updated": "07/08/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/gdash_nx",
-    "discussion_url": "https://gbatemp.net/threads/geometry-dash-switch-port.682926/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Gizmoduck",
     "category": "Android 64bit",
     "version": "1.1.8",
@@ -840,36 +660,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Grand Theft Auto Chinatown Wars",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "29/06/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/gtactw_nx",
-    "discussion_url": "https://gbatemp.net/threads/gta-chinatown-wars-switch-port.682411/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Grand Theft Auto Liberty City Stories",
-    "category": "Android 64bit",
-    "version": "1.0.3",
-    "last_updated": "30/06/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/gtalcs_nx",
-    "discussion_url": "https://gbatemp.net/threads/gta-liberty-city-stories-switch-port.682681/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Grand Theft Auto San Andreas",
-    "category": "Android 64bit",
-    "version": "1.0.4",
-    "last_updated": "15/08/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/gtasa_nx",
-    "discussion_url": "https://gbatemp.net/threads/gta-san-andreas-switch-port.683068/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Granny",
     "category": "Android 64bit",
     "version": "1.0.0",
@@ -877,16 +667,6 @@
     "status": "",
     "project_url": "https://github.com/xflipperkast/granny_nx",
     "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Half Life 2",
-    "category": "Android 64bit",
-    "version": "1.0.4",
-    "last_updated": "03/08/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/hl2_nx",
-    "discussion_url": "https://gbatemp.net/threads/half-life-2-source-engine-switch-port.682466/unread",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -960,16 +740,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Jetpack Joyride",
-    "category": "Android 64bit",
-    "version": "1.0.0",
-    "last_updated": "06/08/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/jetpackjoyride_nx",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Killer Bean Unleashed",
     "category": "Android 64bit",
     "version": "1.0.1",
@@ -977,16 +747,6 @@
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/killerbean_nx",
     "discussion_url": "https://gbatemp.net/threads/killer-bean-unleashed-switch-port.683815/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Kingdom Hearts Union χ Dark Road",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "03/08/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/KHUx_nx",
-    "discussion_url": "https://gbatemp.net/threads/kingdom-hearts-union-ch-dark-road-switch-port.683138/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1000,56 +760,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Layton Brothers Mystery Room",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "15/07/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/laytonbmr_nx",
-    "discussion_url": "https://gbatemp.net/threads/layton-brothers-mystery-room-switch-port.682988/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "LEGO Batman Beyond Gotham",
-    "category": "Android 64bit",
-    "version": "1.0.0",
-    "last_updated": "01/07/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/lbbg_nx",
-    "discussion_url": "https://gbatemp.net/threads/lego-batman-3-beyond-gotham-switch-port.682841/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "LEGO Ninjago Shadow of Ronin",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "15/07/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/lnsor_nx",
-    "discussion_url": "https://gbatemp.net/threads/lego-ninjago-shadow-of-ronin-switch-port.682953/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "LEGO Star Wars The Complete Saga",
-    "category": "Android 64bit",
-    "version": "1.0.3",
-    "last_updated": "09/08/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/lswtcs_nx",
-    "discussion_url": "https://gbatemp.net/threads/lego-star-wars-the-complete-saga-switch-port.682412/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "LEGO Star Wars The Force Awakens",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "30/06/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/lswtfa_nx",
-    "discussion_url": "https://gbatemp.net/threads/lego-star-wars-the-force-awakens-switch-port.682692/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Level UP: Mario's Minigames Mayhem",
     "category": "Android 64bit",
     "version": "1.0.0",
@@ -1057,16 +767,6 @@
     "status": "",
     "project_url": "https://github.com/aks796/lummm_nx",
     "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Max Payne",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "10/06/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/max_nx_v2.1.131",
-    "discussion_url": "https://gbatemp.net/threads/max-payne-mobile-port-loader.583635/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1270,36 +970,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Professor Layton Curious Village HD",
-    "category": "Android 64bit",
-    "version": "1.0.4",
-    "last_updated": "29/06/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/layton_nx",
-    "discussion_url": "https://gbatemp.net/threads/professor-layton-curious-village-hd-switch-port.682435/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Professor Layton Lost Hope HD",
-    "category": "Android 64bit",
-    "version": "1.0.3",
-    "last_updated": "29/06/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/layton3_nx",
-    "discussion_url": "https://gbatemp.net/threads/professor-layton-lost-future-hd-switch-port.682462/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Professor Layton Pandora's Box HD",
-    "category": "Android 64bit",
-    "version": "1.0.2",
-    "last_updated": "29/06/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/layton2_nx",
-    "discussion_url": "https://gbatemp.net/threads/professor-layton-pandoras-box-hd-switch-port.682460/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "RVGL",
     "category": "Android 64bit",
     "version": "1.0.0",
@@ -1430,16 +1100,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Subway Surfers",
-    "category": "Android 64bit",
-    "version": "1.0.3",
-    "last_updated": "03/08/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/subwaysurfers_nx",
-    "discussion_url": "https://gbatemp.net/threads/subway-surfers-switch-port.683440/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Super Mario 127",
     "category": "Android 64bit",
     "version": "1.0.0",
@@ -1477,26 +1137,6 @@
     "status": "",
     "project_url": "https://github.com/delsonazevedo/Super-Mario-World-Remastered-Plus-Switch",
     "discussion_url": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/page-3#post-10885621",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Swordigo",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "14/07/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/swordigo_nx",
-    "discussion_url": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/#post-10883678",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Team Fortress 2 ReClassic",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "08/08/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/tf2_nx",
-    "discussion_url": "https://gbatemp.net/threads/team-fortress-2-switch-port.682734/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1550,16 +1190,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Very Little Nightmares",
-    "category": "Android 64bit",
-    "version": "1.0.1",
-    "last_updated": "15/07/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/vln_nx",
-    "discussion_url": "https://gbatemp.net/threads/very-little-nightmares-switch-port.682971/unread",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "VVVVVV",
     "category": "Android 64bit",
     "version": "released",
@@ -1600,16 +1230,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Zombotron Re-Boot",
-    "category": "Android 64bit",
-    "version": "1.0.2",
-    "last_updated": "16/08/2026",
-    "status": "",
-    "project_url": "https://github.com/StevensND/zombotron_nx",
-    "discussion_url": "https://gbatemp.net/threads/zombotron-re-boot-nintendo-switch-port.684161/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "ZOOKEEPER DX",
     "category": "Android 64bit",
     "version": "1.0.2",
@@ -1617,6 +1237,306 @@
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/zookeeperdx_nx",
     "discussion_url": "https://gbatemp.net/threads/zookeeper-dx-switch-port.682974/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Adventures of Mana",
+    "category": "Android 64bit",
+    "version": "1.0.4",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/aom_nx",
+    "discussion_url": "https://gbatemp.net/threads/adventures-of-mana-switch-port.682785/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 After Burner Climax",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/abc_nx",
+    "discussion_url": "https://gbatemp.net/threads/after-burner-climax-switch-port.682933/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Angry Birds 2",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/angrybirds2_nx",
+    "discussion_url": "https://gbatemp.net/threads/angry-birds-2-switch-port.683461/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Angry Birds Journey",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/angrybirdsjourney_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Animal Crossing: Pocket Camp",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/acpc_nx",
+    "discussion_url": "https://gbatemp.net/threads/animal-crossing-pocket-camp-complete-switch-port.683187/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Castle of Illusion",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/coi_nx",
+    "discussion_url": "https://gbatemp.net/threads/castle-of-illusion-switch-port.682811/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Castlevania Symphony of the Night",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/sotn_nx",
+    "discussion_url": "https://gbatemp.net/threads/castlevania-symphony-of-the-night-switch-port.682763/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Chaos Rings III",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/cr3_nx",
+    "discussion_url": "https://gbatemp.net/threads/chaos-rings-iii-switch-port.682597/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Chrono Trigger",
+    "category": "Android 64bit",
+    "version": "1.1.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/ct_nx",
+    "discussion_url": "https://gbatemp.net/threads/chrono-trigger-switch-port.682630/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Counter Strike Source",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/css_nx",
+    "discussion_url": "https://gbatemp.net/threads/counter-strike-source-switch-port.682944/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Cut the Rope",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/ctr_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Cut the Rope 2",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/ctr2_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Final Fantasy Dimension II",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/ffd2_nx",
+    "discussion_url": "https://gbatemp.net/threads/final-fantasy-dimensions-ii-switch-port.683067/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Final Fantasy Dimensions",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/ffd_nx",
+    "discussion_url": "https://gbatemp.net/threads/final-fantasy-dimensions-switch-port.682781/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Final Fantasy III 3D Remake",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/ff3_3d_nx",
+    "discussion_url": "https://gbatemp.net/threads/final-fantasy-iii-3d-remake-switch-port.682660/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Final Fantasy IV 3D Remake",
+    "category": "Android 64bit",
+    "version": "1.0.4",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/ff4_3d_nx",
+    "discussion_url": "https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.682557/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Final Fantasy IV The After Years",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/ff4tay_nx",
+    "discussion_url": "https://gbatemp.net/threads/final-fantasy-iv-the-after-years-switch-port.682541/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Geometry Dash",
+    "category": "Android 64bit",
+    "version": "1.0.4",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/gdash_nx",
+    "discussion_url": "https://gbatemp.net/threads/geometry-dash-switch-port.682926/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Grand Theft Auto Chinatown Wars",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/gtactw_nx",
+    "discussion_url": "https://gbatemp.net/threads/gta-chinatown-wars-switch-port.682411/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Grand Theft Auto Liberty City Stories",
+    "category": "Android 64bit",
+    "version": "1.0.4",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/gtalcs_nx",
+    "discussion_url": "https://gbatemp.net/threads/gta-liberty-city-stories-switch-port.682681/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Grand Theft Auto San Andreas",
+    "category": "Android 64bit",
+    "version": "1.0.5",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/gtasa_nx",
+    "discussion_url": "https://gbatemp.net/threads/gta-san-andreas-switch-port.683068/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Half Life 2",
+    "category": "Android 64bit",
+    "version": "1.0.5",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/hl2_nx",
+    "discussion_url": "https://gbatemp.net/threads/half-life-2-source-engine-switch-port.682466/unread",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Jetpack Joyride",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/jetpackjoyride_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Kingdom Hearts Union χ Dark Road",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/KHUx_nx",
+    "discussion_url": "https://gbatemp.net/threads/kingdom-hearts-union-ch-dark-road-switch-port.683138/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Layton Brothers Mystery Room",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/laytonbmr_nx",
+    "discussion_url": "https://gbatemp.net/threads/layton-brothers-mystery-room-switch-port.682988/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 LEGO Batman Beyond Gotham",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/lbbg_nx",
+    "discussion_url": "https://gbatemp.net/threads/lego-batman-3-beyond-gotham-switch-port.682841/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 LEGO Ninjago Shadow of Ronin",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/lnsor_nx",
+    "discussion_url": "https://gbatemp.net/threads/lego-ninjago-shadow-of-ronin-switch-port.682953/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 LEGO Star Wars The Complete Saga",
+    "category": "Android 64bit",
+    "version": "1.0.4",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/lswtcs_nx",
+    "discussion_url": "https://gbatemp.net/threads/lego-star-wars-the-complete-saga-switch-port.682412/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 LEGO Star Wars The Force Awakens",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/lswtfa_nx",
+    "discussion_url": "https://gbatemp.net/threads/lego-star-wars-the-force-awakens-switch-port.682692/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Max Payne",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/max_nx_v2.1.131",
+    "discussion_url": "https://gbatemp.net/threads/max-payne-mobile-port-loader.583635/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1630,9 +1550,39 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Professor Layton Curious Village HD",
+    "category": "Android 64bit",
+    "version": "1.0.5",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/layton_nx",
+    "discussion_url": "https://gbatemp.net/threads/professor-layton-curious-village-hd-switch-port.682435/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Professor Layton Lost Hope HD",
+    "category": "Android 64bit",
+    "version": "1.0.4",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/layton3_nx",
+    "discussion_url": "https://gbatemp.net/threads/professor-layton-lost-future-hd-switch-port.682462/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Professor Layton Pandora's Box HD",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/layton2_nx",
+    "discussion_url": "https://gbatemp.net/threads/professor-layton-pandoras-box-hd-switch-port.682460/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Real Drift Car Racing",
     "category": "Android 64bit",
-    "version": "1.5.1",
+    "version": "1.5.3",
     "last_updated": "31/10/2026",
     "status": "",
     "project_url": "https://github.com/dpadninja/realdrift_nx",
@@ -1647,6 +1597,46 @@
     "status": "",
     "project_url": "https://github.com/LaLemniscata/sd2-nx",
     "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Subway Surfers",
+    "category": "Android 64bit",
+    "version": "1.0.4",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/subwaysurfers_nx",
+    "discussion_url": "https://gbatemp.net/threads/subway-surfers-switch-port.683440/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Swordigo",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/swordigo_nx",
+    "discussion_url": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/#post-10883678",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Team Fortress 2 ReClassic",
+    "category": "Android 64bit",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/tf2_nx",
+    "discussion_url": "https://gbatemp.net/threads/team-fortress-2-switch-port.682734/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Very Little Nightmares",
+    "category": "Android 64bit",
+    "version": "1.0.3",
+    "last_updated": "03/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/vln_nx",
+    "discussion_url": "https://gbatemp.net/threads/very-little-nightmares-switch-port.682971/unread",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1732,8 +1722,8 @@
   {
     "name": "🟢 Outrunners",
     "category": "Arcade",
-    "version": "1.2.1",
-    "last_updated": "07/11/2026",
+    "version": "1.2.2",
+    "last_updated": "09/11/2026",
     "status": "",
     "project_url": "https://github.com/cheviman/outrunners-port",
     "discussion_url": "",
@@ -1742,8 +1732,8 @@
   {
     "name": "🟢 Teenage Mutant Ninja Turtles",
     "category": "Arcade",
-    "version": "1.0.5",
-    "last_updated": "07/11/2026",
+    "version": "1.0.6",
+    "last_updated": "09/11/2026",
     "status": "",
     "project_url": "https://github.com/cheviman/tmnt-port",
     "discussion_url": "",
@@ -1770,16 +1760,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Cemu",
-    "category": "Emulators",
-    "version": "1.3.0",
-    "last_updated": "21/10/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/Cemu-nx",
-    "discussion_url": "https://gbatemp.net/threads/cemu-wii-u-emulator-switch-port.683219/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "D.Smile NX",
     "category": "Emulators",
     "version": "1.2.0",
@@ -1800,23 +1780,13 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Dolphin",
+    "name": "Duckstation",
     "category": "Emulators",
-    "version": "1.2.0",
-    "last_updated": "16/10/2026",
+    "version": "PR 3",
+    "last_updated": "29/10/2026",
     "status": "",
-    "project_url": "https://github.com/NaGaa95/dolphin-nx",
-    "discussion_url": "https://gbatemp.net/threads/dolphin-gc-wii-emulator-switch-port.683359/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "DrasticDS",
-    "category": "Emulators",
-    "version": "1.2.0",
-    "last_updated": "21/10/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/DrasticDS_nx",
-    "discussion_url": "https://gbatemp.net/threads/drasticds-emulator-switch-port.683280/",
+    "project_url": "https://github.com/shooterspps/duckstation",
+    "discussion_url": "https://gbatemp.net/threads/duckstation-for-switch.654484/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1847,16 +1817,6 @@
     "status": "",
     "project_url": "https://github.com/toniisound/model2-nx",
     "discussion_url": "https://gbatemp.net/threads/release-model2-nx-1-0-experimental-sega-model-2-emulator-for-nintendo-switch-powered-by-mame.685198/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "NetherSX2",
-    "category": "Emulators",
-    "version": "1.4.0",
-    "last_updated": "15/10/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/NetherSX2_nx",
-    "discussion_url": "https://gbatemp.net/threads/nethersx2-switch-port.683038/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1910,13 +1870,13 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "YabaSanshiro",
+    "name": "UAE4ALL2 HD",
     "category": "Emulators",
-    "version": "1.3.0",
-    "last_updated": "08/11/2026",
+    "version": "1.07",
+    "last_updated": "21/09/2026",
     "status": "",
-    "project_url": "https://github.com/Thorhax/yabasanshiro-nx",
-    "discussion_url": "",
+    "project_url": "https://github.com/theheroGAC/UAE4ALL2-HD-SWITCH/",
+    "discussion_url": "https://gbatemp.net/threads/release-amiga-emulator-uae4all2-for-switch.522539/post-10914616",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -1930,40 +1890,60 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢",
+    "name": "🟢 Cemu",
     "category": "Emulators",
-    "version": "3.0",
-    "last_updated": "30/10/2026",
+    "version": "1.3.1",
+    "last_updated": "02/11/2026",
     "status": "",
-    "project_url": "https://github.com/JohnJames29/duckstation-nx",
-    "discussion_url": "",
+    "project_url": "https://github.com/NaGaa95/Cemu-nx",
+    "discussion_url": "https://gbatemp.net/threads/cemu-wii-u-emulator-switch-port.683219/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Duckstation",
+    "name": "🟢 Dolphin",
     "category": "Emulators",
-    "version": "PR 3",
-    "last_updated": "29/10/2026",
+    "version": "1.2.1",
+    "last_updated": "02/11/2026",
     "status": "",
-    "project_url": "https://github.com/shooterspps/duckstation",
-    "discussion_url": "https://gbatemp.net/threads/duckstation-for-switch.654484/",
+    "project_url": "https://github.com/NaGaa95/dolphin-nx",
+    "discussion_url": "https://gbatemp.net/threads/dolphin-gc-wii-emulator-switch-port.683359/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 DrasticDS",
+    "category": "Emulators",
+    "version": "1.2.1",
+    "last_updated": "02/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/DrasticDS_nx",
+    "discussion_url": "https://gbatemp.net/threads/drasticds-emulator-switch-port.683280/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
     "name": "🟢 Flycast",
     "category": "Emulators",
-    "version": "???",
-    "last_updated": "27/10/2026",
+    "version": "commit 72b8e67",
+    "last_updated": "09/11/2026",
     "status": "",
     "project_url": "https://flyinghead.github.io/flycast-builds/",
     "discussion_url": "https://gbatemp.net/threads/flycast-standalone-for-nintendo-switch.593111/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 NetherSX2",
+    "category": "Emulators",
+    "version": "1.4.1",
+    "last_updated": "02/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/NetherSX2_nx",
+    "discussion_url": "https://gbatemp.net/threads/nethersx2-switch-port.683038/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Nezumiiruka",
     "category": "Emulators",
-    "version": "1.1.0",
-    "last_updated": "26/10/2026",
+    "version": "1.1.1",
+    "last_updated": "04/11/2026",
     "status": "",
     "project_url": "https://github.com/PalindromicBreadLoaf/nezumiiruka",
     "discussion_url": "https://gbatemp.net/threads/nezumiiruka-new-and-best-dolphin-port.685219/",
@@ -1982,31 +1962,41 @@
   {
     "name": "🟢 Supermodel-NX",
     "category": "Emulators",
-    "version": "1.5.0",
-    "last_updated": "29/10/2026",
+    "version": "1.5.1",
+    "last_updated": "04/11/2026",
     "status": "",
     "project_url": "https://github.com/toniisound/supermodel-nx",
     "discussion_url": "https://gbatemp.net/threads/release-supermodel-nx-sega-model-3-arcade-emulator-for-nintendo-switch.684935/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 UAE4ALL2 HD",
-    "category": "Emulators",
-    "version": "1.07",
-    "last_updated": "21/09/2026",
-    "status": "",
-    "project_url": "https://github.com/theheroGAC/UAE4ALL2-HD-SWITCH/",
-    "discussion_url": "https://gbatemp.net/threads/release-amiga-emulator-uae4all2-for-switch.522539/post-10914616",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "🟢 Vita3K",
     "category": "Emulators",
-    "version": "1.4.0",
-    "last_updated": "01/11/2026",
+    "version": "1.4.1",
+    "last_updated": "02/11/2026",
     "status": "",
     "project_url": "https://github.com/NaGaa95/Vita3K-nx",
     "discussion_url": "https://gbatemp.net/threads/vita3k-playstation-vita.684076/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 YabaSanshiro",
+    "category": "Emulators",
+    "version": "1.3.0",
+    "last_updated": "08/11/2026",
+    "status": "",
+    "project_url": "https://github.com/Thorhax/yabasanshiro-nx",
+    "discussion_url": "https://gbatemp.net/threads/yabasanshiro-nx-sega-saturn-emulator.686378/unread",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Black",
+    "category": "Microsoft Xbox",
+    "version": "0.2.5",
+    "last_updated": "29/10/2026",
+    "status": "",
+    "project_url": "https://github.com/gerisson1996/BLACK-NX-PORT/blob/main/README.en.md",
+    "discussion_url": "https://gbatemp.net/threads/black-xbox-nx-port.685756/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2020,6 +2010,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "Castlevania: Curse of Darkness",
+    "category": "Microsoft Xbox",
+    "version": "0.5.0",
+    "last_updated": "29/10/2026",
+    "status": "",
+    "project_url": "https://github.com/FurryLilManChild/cod-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "Cold Fear",
     "category": "Microsoft Xbox",
     "version": "0.0.3",
@@ -2027,6 +2027,16 @@
     "status": "",
     "project_url": "https://github.com/gerisson1996/COLD-FEAR-NX-PORT",
     "discussion_url": "https://gbatemp.net/threads/cold-fear-nx-port-xbox-classic.685667/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Dead or Alive 3",
+    "category": "Microsoft Xbox",
+    "version": "released",
+    "last_updated": "01/11/2026",
+    "status": "",
+    "project_url": "https://github.com/toniisound/doa3-nx",
+    "discussion_url": "https://gbatemp.net/threads/release-dead-or-alive-3-wip.685748/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2040,6 +2050,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "FIFA Street",
+    "category": "Microsoft Xbox",
+    "version": "0.1.0",
+    "last_updated": "28/10/2026",
+    "status": "",
+    "project_url": "https://github.com/xsaja/street-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "Flatout 2",
     "category": "Microsoft Xbox",
     "version": "0.2.1",
@@ -2047,6 +2067,16 @@
     "status": "",
     "project_url": "https://github.com/antoxa2584x/flatout2-sw",
     "discussion_url": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10924028",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "MVP Baseball '05",
+    "category": "Microsoft Xbox",
+    "version": "0.2.0",
+    "last_updated": "27/10/2026",
+    "status": "",
+    "project_url": "https://github.com/xsaja/mvp-nx",
+    "discussion_url": "https://gbatemp.net/threads/mvp-baseball-05-xbox-switch-port.686056/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2090,16 +2120,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Black",
-    "category": "Microsoft Xbox",
-    "version": "0.2.5",
-    "last_updated": "29/10/2026",
-    "status": "",
-    "project_url": "https://github.com/gerisson1996/BLACK-NX-PORT/blob/main/README.en.md",
-    "discussion_url": "https://gbatemp.net/threads/black-xbox-nx-port.685756/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "🟢 Bloody Roar Extreme",
     "category": "Microsoft Xbox",
     "version": "0.1.0",
@@ -2110,20 +2130,10 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Castlevania: Curse of Darkness",
-    "category": "Microsoft Xbox",
-    "version": "0.5.0",
-    "last_updated": "29/10/2026",
-    "status": "",
-    "project_url": "https://github.com/FurryLilManChild/cod-nx",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "🟢 Conker: Live & Reloaded",
     "category": "Microsoft Xbox",
-    "version": "0.55.0",
-    "last_updated": "01/11/2026",
+    "version": "0.57.0",
+    "last_updated": "07/11/2026",
     "status": "",
     "project_url": "https://github.com/rashevskyv/conker-lr-recomp",
     "discussion_url": "",
@@ -2133,30 +2143,10 @@
     "name": "🟢 Dead or Alive 2 Ultimate",
     "category": "Microsoft Xbox",
     "version": "released",
-    "last_updated": "30/10/2026",
+    "last_updated": "05/11/2026",
     "status": "",
     "project_url": "https://github.com/toniisound/doa2u-nx",
     "discussion_url": "https://gbatemp.net/threads/dead-or-alive-2-ultimate-wip.686023/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Dead or Alive 3",
-    "category": "Microsoft Xbox",
-    "version": "released",
-    "last_updated": "01/11/2026",
-    "status": "",
-    "project_url": "https://github.com/toniisound/doa3-nx",
-    "discussion_url": "https://gbatemp.net/threads/release-dead-or-alive-3-wip.685748/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 FIFA Street",
-    "category": "Microsoft Xbox",
-    "version": "0.1.0",
-    "last_updated": "28/10/2026",
-    "status": "",
-    "project_url": "https://github.com/xsaja/street-nx",
-    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2172,8 +2162,8 @@
   {
     "name": "🟢 Halo: Combat Evolved",
     "category": "Microsoft Xbox",
-    "version": "Build 132",
-    "last_updated": "02/11/2026",
+    "version": "Build 141",
+    "last_updated": "09/11/2026",
     "status": "",
     "project_url": "https://github.com/thelinkin3000/halo-ce-universal",
     "discussion_url": "https://gbatemp.net/threads/halo-ce-for-switch.684926/#post-10917594",
@@ -2182,8 +2172,8 @@
   {
     "name": "🟢 Midnight Club 3: Dub Edition",
     "category": "Microsoft Xbox",
-    "version": "0.5.0",
-    "last_updated": "30/10/2026",
+    "version": "1.1.0",
+    "last_updated": "05/11/2026",
     "status": "",
     "project_url": "https://github.com/laureladastra/mcdub3-nx",
     "discussion_url": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929991",
@@ -2192,21 +2182,11 @@
   {
     "name": "🟢 Mortal Kombat: Shaolin Monks",
     "category": "Microsoft Xbox",
-    "version": "0.3.1",
-    "last_updated": "27/10/2026",
+    "version": "0.4.1",
+    "last_updated": "10/11/2026",
     "status": "",
     "project_url": "https://github.com/Thorhax/ShaolinMonks-NX",
     "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 MVP Baseball '05",
-    "category": "Microsoft Xbox",
-    "version": "0.2.0",
-    "last_updated": "27/10/2026",
-    "status": "",
-    "project_url": "https://github.com/xsaja/mvp-nx",
-    "discussion_url": "https://gbatemp.net/threads/mvp-baseball-05-xbox-switch-port.686056/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2222,8 +2202,8 @@
   {
     "name": "🟢 The Godfather",
     "category": "Microsoft Xbox",
-    "version": "1.0.0",
-    "last_updated": "02/11/2026",
+    "version": "1.0.1",
+    "last_updated": "06/11/2026",
     "status": "",
     "project_url": "https://github.com/CYBERPUNK20/godfather-nx",
     "discussion_url": "https://gbatemp.net/threads/the-godfather-switch-port.686185/",
@@ -2260,23 +2240,93 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Dante's Inferno",
+    "name": "Blue Dragon",
     "category": "Microsoft Xbox 360",
-    "version": "1.1.0 (TU2)",
-    "last_updated": "23/10/2026",
+    "version": "1.3.1",
+    "last_updated": "28/10/2026",
     "status": "",
-    "project_url": "https://github.com/VasilkovND/dantes-inferno-nx",
+    "project_url": "https://github.com/Ad0ky/reblue",
+    "discussion_url": "https://gbatemp.net/threads/blue-dragon-nintendo-switch-port.685955/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Dead Space 1",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0 (TU2)",
+    "last_updated": "29/10/2026",
+    "status": "",
+    "project_url": "https://github.com/VasilkovND/ds1-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Dead Space 2",
+    "category": "Microsoft Xbox 360",
+    "version": "1.3.0 (TU2)",
+    "last_updated": "27/10/2026",
+    "status": "",
+    "project_url": "https://github.com/VasilkovND/ds2-nx",
     "discussion_url": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Gears of War 2",
+    "name": "Dead Space 3",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.1 (TU2)",
+    "last_updated": "27/10/2026",
+    "status": "",
+    "project_url": "https://github.com/VasilkovND/ds3-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Feeding Frenzy",
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
+    "last_updated": "26/10/2026",
+    "status": "",
+    "project_url": "https://github.com/ChanseyIsTheBest/feedingfrenzy-nx",
+    "discussion_url": "https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Feeding Frenzy 2: Shipwreck Showdown",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "26/10/2026",
+    "status": "",
+    "project_url": "https://github.com/ChanseyIsTheBest/feedingfrenzy2-nx",
+    "discussion_url": "https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Grand Theft Auto IV",
+    "category": "Microsoft Xbox 360",
+    "version": "v35",
     "last_updated": "23/10/2026",
     "status": "",
-    "project_url": "https://github.com/VasilkovND/gears2-nx",
-    "discussion_url": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10934260",
+    "project_url": "https://github.com/kabba536/Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch",
+    "discussion_url": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10939691",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Guwange",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.1",
+    "last_updated": "28/10/2026",
+    "status": "",
+    "project_url": "https://github.com/ChanseyIsTheBest/guwange-nx",
+    "discussion_url": "https://gbatemp.net/threads/guwange-xbox-360-ver-switch-port.685699/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Ketsui: Kizuna Jigoku Tachi Extra",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "28/10/2026",
+    "status": "",
+    "project_url": "https://github.com/ChanseyIsTheBest/ketsui-nx",
+    "discussion_url": "https://gbatemp.net/threads/ketsui-xbox-360-ver-switch-port.685938/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2310,6 +2360,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "Mushihimesama Futari",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.4",
+    "last_updated": "28/10/2026",
+    "status": "",
+    "project_url": "https://github.com/ChanseyIsTheBest/futari-nx",
+    "discussion_url": "https://gbatemp.net/threads/mushihimesama-futari-xbox-360-ver-switch-port.685115/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "Need for Speed: Most Wanted",
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
@@ -2337,6 +2397,46 @@
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/peggle2-nx",
     "discussion_url": "https://gbatemp.net/threads/peggle-2-switch-port.685349/unread",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Shank 2",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "31/10/2026",
+    "status": "",
+    "project_url": "https://github.com/zhtipu/shank2-nx",
+    "discussion_url": "https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Silent Hill 3",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0",
+    "last_updated": "30/10/2026",
+    "status": "",
+    "project_url": "https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX",
+    "discussion_url": "https://gbatemp.net/threads/release-silent-hill-3-nx-v1-0-native-switch-port-of-silent-hill-3-hd-collection-via-static-recompilation.686039/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Silent Hill Homecoming",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0",
+    "last_updated": "30/10/2026",
+    "status": "",
+    "project_url": "https://github.com/gerisson1996/SHH-NX-PORT",
+    "discussion_url": "https://gbatemp.net/threads/release-silent-hill-homecoming-nx-v1-0-native-switch-port-of-silent-hill-homecoming-via-static-recompilation.686040/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Skate 3",
+    "category": "Microsoft Xbox 360",
+    "version": "0.1.5",
+    "last_updated": "30/10/2026",
+    "status": "",
+    "project_url": "https://github.com/JohnUzoka/skate-3-rust-engine",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2400,20 +2500,30 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢",
+    "name": "Zuma",
     "category": "Microsoft Xbox 360",
-    "version": "1.1.0",
-    "last_updated": "29/10/2026",
+    "version": "1.0.1",
+    "last_updated": "28/10/2026",
     "status": "",
-    "project_url": "https://github.com/GreenSwampDweller/torchlight-rekindled",
-    "discussion_url": "https://gbatemp.net/threads/torchlight-rekindled-port-of-torchlight-2009-on-switch-android.685627/",
+    "project_url": "https://github.com/ChanseyIsTheBest/zuma-nx",
+    "discussion_url": "https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Zuma's Revenge",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.1",
+    "last_updated": "28/10/2026",
+    "status": "",
+    "project_url": "https://github.com/ChanseyIsTheBest/zumasrevenge-nx",
+    "discussion_url": "https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
     "name": "🟢 A Kingdom for Keflings",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.0",
-    "last_updated": "30/10/2026",
+    "version": "1.0.1",
+    "last_updated": "04/11/2026",
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/keflings-nx",
     "discussion_url": "",
@@ -2442,8 +2552,8 @@
   {
     "name": "🟢 Bangai-O HD: Missile Fury",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.0",
-    "last_updated": "29/10/2026",
+    "version": "1.0.1",
+    "last_updated": "04/11/2026",
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/bangaio-nx",
     "discussion_url": "https://gbatemp.net/threads/bangai-o-hd-missile-fury-switch-port.686010/",
@@ -2452,8 +2562,8 @@
   {
     "name": "🟢 Banjo-Kazooie: Nuts & Bolts",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.1",
-    "last_updated": "01/11/2026",
+    "version": "1.0.2",
+    "last_updated": "04/11/2026",
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/renut-nx",
     "discussion_url": "https://gbatemp.net/threads/banjo-kazooie-nuts-bolts-renut-switch-port.686095/",
@@ -2462,28 +2572,18 @@
   {
     "name": "🟢 Beautiful Katamari",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.0",
-    "last_updated": "01/11/2026",
+    "version": "1.0.1",
+    "last_updated": "04/11/2026",
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/katamari-nx",
     "discussion_url": "https://gbatemp.net/threads/beautiful-katamari-switch-port.686128/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Blue Dragon",
-    "category": "Microsoft Xbox 360",
-    "version": "1.3.1",
-    "last_updated": "28/10/2026",
-    "status": "",
-    "project_url": "https://github.com/Ad0ky/reblue",
-    "discussion_url": "https://gbatemp.net/threads/blue-dragon-nintendo-switch-port.685955/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "🟢 Call of Duty: Black Ops II",
     "category": "Microsoft Xbox 360",
-    "version": "Release 1",
-    "last_updated": "31/10/2026",
+    "version": "1.1.0",
+    "last_updated": "03/11/2026",
     "status": "",
     "project_url": "https://github.com/AlvaroEPena/bo2-360-nx",
     "discussion_url": "https://gbatemp.net/threads/black-ops-ii-switch-port.686105/",
@@ -2492,8 +2592,8 @@
   {
     "name": "🟢 Castlevania: Harmony of Despair",
     "category": "Microsoft Xbox 360",
-    "version": "0.292",
-    "last_updated": "03/11/2026",
+    "version": "0.311",
+    "last_updated": "06/11/2026",
     "status": "",
     "project_url": "https://github.com/rashevskyv/cvhd-recomp",
     "discussion_url": "https://gbatemp.net/threads/castlevania-harmony-of-despair-xbla-xbox-360-on-switch-windows-and-linux-static-recompilation.686177/",
@@ -2530,93 +2630,43 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Dante's Inferno",
+    "category": "Microsoft Xbox 360",
+    "version": "released",
+    "last_updated": "06/11/2026",
+    "status": "",
+    "project_url": "https://github.com/VasilkovND/dantes-inferno-nx",
+    "discussion_url": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Dark Souls II: Scholar of the First Sin",
     "category": "Microsoft Xbox 360",
-    "version": "v104",
-    "last_updated": "31/10/2026",
+    "version": "v121",
+    "last_updated": "06/11/2026",
     "status": "",
     "project_url": "https://github.com/XDASCATX/DS2_switch",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Dead Space 1",
+    "name": "🟢 Gears of War 2",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.0 (TU2)",
-    "last_updated": "29/10/2026",
+    "version": "1.1.0",
+    "last_updated": "07/11/2026",
     "status": "",
-    "project_url": "https://github.com/VasilkovND/ds1-nx",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Dead Space 2",
-    "category": "Microsoft Xbox 360",
-    "version": "1.3.0 (TU2)",
-    "last_updated": "27/10/2026",
-    "status": "",
-    "project_url": "https://github.com/VasilkovND/ds2-nx",
-    "discussion_url": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Dead Space 3",
-    "category": "Microsoft Xbox 360",
-    "version": "1.0.1 (TU2)",
-    "last_updated": "27/10/2026",
-    "status": "",
-    "project_url": "https://github.com/VasilkovND/ds3-nx",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Feeding Frenzy",
-    "category": "Microsoft Xbox 360",
-    "version": "1.0.0",
-    "last_updated": "26/10/2026",
-    "status": "",
-    "project_url": "https://github.com/ChanseyIsTheBest/feedingfrenzy-nx",
-    "discussion_url": "https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Feeding Frenzy 2: Shipwreck Showdown",
-    "category": "Microsoft Xbox 360",
-    "version": "1.0.0",
-    "last_updated": "26/10/2026",
-    "status": "",
-    "project_url": "https://github.com/ChanseyIsTheBest/feedingfrenzy2-nx",
-    "discussion_url": "https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Grand Theft Auto IV",
-    "category": "Microsoft Xbox 360",
-    "version": "v35",
-    "last_updated": "23/10/2026",
-    "status": "",
-    "project_url": "https://github.com/kabba536/Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch",
-    "discussion_url": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10939691",
+    "project_url": "https://github.com/VasilkovND/gears2-nx",
+    "discussion_url": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10934260",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
     "name": "🟢 Guardian Heroes",
     "category": "Microsoft Xbox 360",
-    "version": "0.77",
-    "last_updated": "29/10/2026",
+    "version": "0.79",
+    "last_updated": "03/11/2026",
     "status": "",
     "project_url": "https://github.com/rashevskyv/guardian-heroes-recomp-public",
     "discussion_url": "https://gbatemp.net/threads/guardian-heroes-xbla-xbox-360-for-switch-static-recompilation-port.685995/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Guwange",
-    "category": "Microsoft Xbox 360",
-    "version": "1.0.1",
-    "last_updated": "28/10/2026",
-    "status": "",
-    "project_url": "https://github.com/ChanseyIsTheBest/guwange-nx",
-    "discussion_url": "https://gbatemp.net/threads/guwange-xbox-360-ver-switch-port.685699/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2632,7 +2682,7 @@
   {
     "name": "🟢 Hexic 2",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "last_updated": "04/11/2026",
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/hexic2-nx",
@@ -2652,21 +2702,11 @@
   {
     "name": "🟢 Kameo: Elements of Power",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "last_updated": "04/11/2026",
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/kameo-nx",
     "discussion_url": "https://gbatemp.net/threads/kameo-elements-of-power-switch-port.686207/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Ketsui: Kizuna Jigoku Tachi Extra",
-    "category": "Microsoft Xbox 360",
-    "version": "1.0.0",
-    "last_updated": "28/10/2026",
-    "status": "",
-    "project_url": "https://github.com/ChanseyIsTheBest/ketsui-nx",
-    "discussion_url": "https://gbatemp.net/threads/ketsui-xbox-360-ver-switch-port.685938/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2683,7 +2723,7 @@
     "name": "🟢 Mass Effect 2",
     "category": "Microsoft Xbox 360",
     "version": "pre-release",
-    "last_updated": "04/11/2026",
+    "last_updated": "06/11/2026",
     "status": "",
     "project_url": "https://github.com/VibePorter/Lazarus",
     "discussion_url": "",
@@ -2693,7 +2733,7 @@
     "name": "🟢 Max Payne 3",
     "category": "Microsoft Xbox 360",
     "version": "released",
-    "last_updated": "29/10/2026",
+    "last_updated": "06/11/2026",
     "status": "",
     "project_url": "https://github.com/VasilkovND/mp3-nx",
     "discussion_url": "",
@@ -2702,7 +2742,7 @@
   {
     "name": "🟢 Mini Ninjas",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "last_updated": "05/11/2026",
     "status": "",
     "project_url": "https://github.com/infriker/mini-ninjas-nx",
@@ -2720,16 +2760,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Mushihimesama Futari",
-    "category": "Microsoft Xbox 360",
-    "version": "1.0.4",
-    "last_updated": "28/10/2026",
-    "status": "",
-    "project_url": "https://github.com/ChanseyIsTheBest/futari-nx",
-    "discussion_url": "https://gbatemp.net/threads/mushihimesama-futari-xbox-360-ver-switch-port.685115/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "🟢 Naruto: Rise of a Ninja",
     "category": "Microsoft Xbox 360",
     "version": "0.1.5",
@@ -2742,8 +2772,8 @@
   {
     "name": "🟢 Need for Speed: Carbon",
     "category": "Microsoft Xbox 360",
-    "version": "0.4.0",
-    "last_updated": "08/11/2026",
+    "version": "0.4.5",
+    "last_updated": "09/11/2026",
     "status": "",
     "project_url": "https://github.com/Kaays/nfscarbon-nx",
     "discussion_url": "",
@@ -2752,8 +2782,8 @@
   {
     "name": "🟢 Nights into Dreams",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.1",
-    "last_updated": "29/10/2026",
+    "version": "1.0.2",
+    "last_updated": "03/11/2026",
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/nights-nx",
     "discussion_url": "",
@@ -2792,58 +2822,18 @@
   {
     "name": "🟢 Shank",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.0",
-    "last_updated": "31/10/2026",
+    "version": "1.0.1",
+    "last_updated": "04/11/2026",
     "status": "",
     "project_url": "https://github.com/zhtipu/shank1-nx",
     "discussion_url": "https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Shank 2",
-    "category": "Microsoft Xbox 360",
-    "version": "1.0.0",
-    "last_updated": "31/10/2026",
-    "status": "",
-    "project_url": "https://github.com/zhtipu/shank2-nx",
-    "discussion_url": "https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Silent Hill 3",
-    "category": "Microsoft Xbox 360",
-    "version": "1.0",
-    "last_updated": "30/10/2026",
-    "status": "",
-    "project_url": "https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX",
-    "discussion_url": "https://gbatemp.net/threads/release-silent-hill-3-nx-v1-0-native-switch-port-of-silent-hill-3-hd-collection-via-static-recompilation.686039/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Silent Hill Homecoming",
-    "category": "Microsoft Xbox 360",
-    "version": "1.0",
-    "last_updated": "30/10/2026",
-    "status": "",
-    "project_url": "https://github.com/gerisson1996/SHH-NX-PORT",
-    "discussion_url": "https://gbatemp.net/threads/release-silent-hill-homecoming-nx-v1-0-native-switch-port-of-silent-hill-homecoming-via-static-recompilation.686040/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Skate 3",
-    "category": "Microsoft Xbox 360",
-    "version": "0.1.5",
-    "last_updated": "30/10/2026",
-    "status": "",
-    "project_url": "https://github.com/JohnUzoka/skate-3-rust-engine",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "🟢 Sonic Adventure 2",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.4",
-    "last_updated": "28/10/2026",
+    "version": "1.0.6",
+    "last_updated": "04/11/2026",
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/sa2-nx",
     "discussion_url": "https://gbatemp.net/threads/sonic-adventure-2-xbox-360-ver-switch-port.685092/",
@@ -2870,26 +2860,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Zuma",
-    "category": "Microsoft Xbox 360",
-    "version": "1.0.1",
-    "last_updated": "28/10/2026",
-    "status": "",
-    "project_url": "https://github.com/ChanseyIsTheBest/zuma-nx",
-    "discussion_url": "https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Zuma's Revenge",
-    "category": "Microsoft Xbox 360",
-    "version": "1.0.1",
-    "last_updated": "28/10/2026",
-    "status": "",
-    "project_url": "https://github.com/ChanseyIsTheBest/zumasrevenge-nx",
-    "discussion_url": "https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "🟢 Castlevania: Rondo of Blood",
     "category": "NEC PC Engine (TurboGrafx-16)",
     "version": "1.1",
@@ -2902,8 +2872,8 @@
   {
     "name": "🟢 Metroid: Samus Returns",
     "category": "Nintendo 3DS",
-    "version": "0.5.0",
-    "last_updated": "09/11/2026",
+    "version": "0.6.0",
+    "last_updated": "10/11/2026",
     "status": "",
     "project_url": "https://github.com/FurryLilManChild/MSR-nx",
     "discussion_url": "",
@@ -2912,7 +2882,7 @@
   {
     "name": "🟢 The Legend of Zelda: Ocarina of Time 3D",
     "category": "Nintendo 3DS",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "last_updated": "09/11/2026",
     "status": "",
     "project_url": "https://github.com/JohnUzoka/TriAevum-Switch",
@@ -3030,12 +3000,22 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "StarCraft64",
+    "name": "Snowboard Kids 2",
     "category": "Nintendo 64",
-    "version": "1.3",
-    "last_updated": "18/10/2026",
+    "version": "1.0.0",
+    "last_updated": "09/10/2026",
     "status": "",
-    "project_url": "https://github.com/gabryboy12-ai/StarCraft64-NX",
+    "project_url": "https://github.com/D35P4C1T0/snowboardkids2-recomp-switch",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Star Wars: Rogue Squadron",
+    "category": "Nintendo 64",
+    "version": "1.0",
+    "last_updated": "28/10/2026",
+    "status": "",
+    "project_url": "https://github.com/FurryLilManChild/rs64-nx",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -3070,6 +3050,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "The Legened of Zelda: Ocarina of Time",
+    "category": "Nintendo 64",
+    "version": "9.3.1-nx2",
+    "last_updated": "28/10/2026",
+    "status": "",
+    "project_url": "https://github.com/timschneeb/Shipwright-Switch/",
+    "discussion_url": "https://gbatemp.net/threads/ocarina-of-time-switch-port-ship-of-harkinian.630367/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "Wave Race 64",
     "category": "Nintendo 64",
     "version": "0.1.0",
@@ -3080,43 +3070,13 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢",
+    "name": "🟢 StarCraft64",
     "category": "Nintendo 64",
     "version": "1.5.0",
     "last_updated": "04/11/2026",
     "status": "",
-    "project_url": "https://github.com/Thorhax/StarCraft64-NX",
+    "project_url": "https://github.com/gabryboy12-ai/StarCraft64-NX",
     "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Snowboard Kids 2",
-    "category": "Nintendo 64",
-    "version": "1.0.0",
-    "last_updated": "09/10/2026",
-    "status": "",
-    "project_url": "https://github.com/D35P4C1T0/snowboardkids2-recomp-switch",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Star Wars: Rogue Squadron",
-    "category": "Nintendo 64",
-    "version": "1.0",
-    "last_updated": "28/10/2026",
-    "status": "",
-    "project_url": "https://github.com/FurryLilManChild/rs64-nx",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 The Legened of Zelda: Ocarina of Time",
-    "category": "Nintendo 64",
-    "version": "9.3.1-nx2",
-    "last_updated": "28/10/2026",
-    "status": "",
-    "project_url": "https://github.com/timschneeb/Shipwright-Switch/",
-    "discussion_url": "https://gbatemp.net/threads/ocarina-of-time-switch-port-ship-of-harkinian.630367/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -3132,8 +3092,8 @@
   {
     "name": "🟢 Pokemon Gen 1",
     "category": "Nintendo Gameboy",
-    "version": "0.3.99",
-    "last_updated": "31/10/2026",
+    "version": "0.4.2",
+    "last_updated": "07/11/2026",
     "status": "",
     "project_url": "https://github.com/bryanthaboi/gen1recomp",
     "discussion_url": "",
@@ -3142,11 +3102,21 @@
   {
     "name": "🟢 Pokemon Gen 2",
     "category": "Nintendo Gameboy",
-    "version": "0.8.47",
-    "last_updated": "26/10/2026",
+    "version": "0.8.57",
+    "last_updated": "08/11/2026",
     "status": "",
     "project_url": "https://github.com/UNDERdecoded/Gen2Recomped",
     "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Metroid: Zero Mission",
+    "category": "Nintendo Gameboy Advance",
+    "version": "1.3",
+    "last_updated": "28/10/2026",
+    "status": "",
+    "project_url": "https://github.com/JJTapiaXX/Metroid-Zero-Mission-NX",
+    "discussion_url": "https://gbatemp.net/threads/metroid-zero-mission-nx.685276/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -3170,20 +3140,10 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Metroid: Zero Mission",
-    "category": "Nintendo Gameboy Advance",
-    "version": "1.3",
-    "last_updated": "28/10/2026",
-    "status": "",
-    "project_url": "https://github.com/JJTapiaXX/Metroid-Zero-Mission-NX",
-    "discussion_url": "https://gbatemp.net/threads/metroid-zero-mission-nx.685276/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "🟢 Pokemon: FullDex",
     "category": "Nintendo Gameboy Advance",
     "version": "v2",
-    "last_updated": "30/10/2026",
+    "last_updated": "08/11/2026",
     "status": "",
     "project_url": "https://github.com/mamesj/pokemon-fulldex/releases/tag/all-games-v2",
     "discussion_url": "",
@@ -3210,13 +3170,23 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢",
-    "category": "Nintendo Gameboy Color",
-    "version": "1.3.0",
+    "name": "Animal Crossing",
+    "category": "Nintendo GameCube",
+    "version": "1.0.1",
     "last_updated": "29/10/2026",
     "status": "",
-    "project_url": "https://github.com/toniisound/The-Oracles-Project-NX",
-    "discussion_url": "https://gbatemp.net/threads/release-the-oracles-project-nx-1-1-0-oracle-of-ages-seasons-for-switch-widescreen-languages-mods.685427/",
+    "project_url": "https://github.com/digdat0/ACGC-Switch-Port",
+    "discussion_url": "https://gbatemp.net/threads/animal-crossing-gcnx-switch-port.685302/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Luigi's Mansion",
+    "category": "Nintendo GameCube",
+    "version": "1.0.1",
+    "last_updated": "01/11/2026",
+    "status": "",
+    "project_url": "https://github.com/StevensND/lm-nx",
+    "discussion_url": "https://gbatemp.net/threads/luigis-mansion-game-cube-switch-port-lm-nx.686090/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -3240,9 +3210,19 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "The Legend of Zelda: Wind Waker",
+    "category": "Nintendo GameCube",
+    "version": "1.0.2",
+    "last_updated": "27/10/2026",
+    "status": "",
+    "project_url": "https://github.com/centollOS/SwitchWaker",
+    "discussion_url": "https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢",
     "category": "Nintendo GameCube",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "last_updated": "09/11/2026",
     "status": "",
     "project_url": "https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition",
@@ -3250,30 +3230,10 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Animal Crossing",
-    "category": "Nintendo GameCube",
-    "version": "1.0.1",
-    "last_updated": "29/10/2026",
-    "status": "",
-    "project_url": "https://github.com/digdat0/ACGC-Switch-Port",
-    "discussion_url": "https://gbatemp.net/threads/animal-crossing-gcnx-switch-port.685302/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "🟢 Luigi's Mansion",
-    "category": "Nintendo GameCube",
-    "version": "1.0.1",
-    "last_updated": "01/11/2026",
-    "status": "",
-    "project_url": "https://github.com/StevensND/lm-nx",
-    "discussion_url": "https://gbatemp.net/threads/luigis-mansion-game-cube-switch-port-lm-nx.686090/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "🟢 Mario Kart: Double Dash!",
     "category": "Nintendo GameCube",
-    "version": "1.9.0",
-    "last_updated": "06/11/2026",
+    "version": "1.9.1",
+    "last_updated": "07/11/2026",
     "status": "",
     "project_url": "https://github.com/digdat0/mkdd-nx",
     "discussion_url": "https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/",
@@ -3292,8 +3252,8 @@
   {
     "name": "🟢 Sonic Riders",
     "category": "Nintendo GameCube",
-    "version": "0.3.4",
-    "last_updated": "29/10/2026",
+    "version": "0.7.4",
+    "last_updated": "10/11/2026",
     "status": "",
     "project_url": "https://github.com/teclilla18/sonic-riders-recomp",
     "discussion_url": "https://gbatemp.net/threads/release-wip-sonic-riders-native-port-switch-pc-static-recompilation-needs-testers.685760/",
@@ -3302,28 +3262,18 @@
   {
     "name": "🟢 Super Mario Strikers",
     "category": "Nintendo GameCube",
-    "version": "1.9.8 test build",
-    "last_updated": "29/10/2026",
+    "version": "2.0.0",
+    "last_updated": "09/11/2026",
     "status": "",
     "project_url": "https://github.com/new-coke/strikers",
     "discussion_url": "https://gbatemp.net/threads/strikers-a-native-port-of-super-mario-strikers-is-testing-a-switch-port.684553/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 The Legend of Zelda: Wind Waker",
-    "category": "Nintendo GameCube",
-    "version": "1.0.2",
-    "last_updated": "27/10/2026",
-    "status": "",
-    "project_url": "https://github.com/centollOS/SwitchWaker",
-    "discussion_url": "https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "🟢 Mario Kart Wii",
     "category": "Nintendo Wii",
-    "version": "0.1.0-beta",
-    "last_updated": "29/10/2026",
+    "version": "0.4.0-beta",
+    "last_updated": "08/11/2026",
     "status": "",
     "project_url": "https://github.com/KawaiiBunga/KartPadNX",
     "discussion_url": "",
@@ -3332,8 +3282,8 @@
   {
     "name": "🟢 The Legend of Zelda: Wind Waker HD",
     "category": "Nintendo Wii U",
-    "version": "1.0.0",
-    "last_updated": "28/10/2026",
+    "version": "1.2.2",
+    "last_updated": "07/11/2026",
     "status": "",
     "project_url": "https://github.com/centollOS/SwitchWakerHD",
     "discussion_url": "https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/",
@@ -3433,7 +3383,7 @@
     "name": "🟢 Lain",
     "category": "Sony Playstation",
     "version": "0.4.4-nx.7",
-    "last_updated": "07/11/2026",
+    "last_updated": "06/11/2026",
     "status": "",
     "project_url": "https://github.com/amydevs/lainNX",
     "discussion_url": "https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/",
@@ -3450,7 +3400,7 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Dragonball Z: Tenkaichi Budokai 3",
+    "name": "Dragonball Z: Tenkaichi Budokai 3",
     "category": "Sony Playstation 2",
     "version": "1.7.2",
     "last_updated": "01/11/2026",
@@ -3460,7 +3410,7 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Jak and Daxter Trilogy",
+    "name": "Jak and Daxter Trilogy",
     "category": "Sony Playstation 2",
     "version": "1.0",
     "last_updated": "30/10/2026",
@@ -3472,8 +3422,8 @@
   {
     "name": "🟢 Rampage: Total Destruction",
     "category": "Sony Playstation 2",
-    "version": "1.2.1",
-    "last_updated": "28/10/2026",
+    "version": "1.2.6",
+    "last_updated": "08/11/2026",
     "status": "",
     "project_url": "https://github.com/jjmhalew/RampageRE",
     "discussion_url": "https://gbatemp.net/threads/rampage-total-destruction-port-with-optional-content-from-wii.685951/",
@@ -3560,7 +3510,7 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Starfox",
+    "name": "Starfox",
     "category": "Super Nintendo Entertainment System",
     "version": "0.0.8.8.3",
     "last_updated": "01/11/2026",
