@@ -275,7 +275,7 @@
     "version": "0.1.5",
     "last_updated": "06/11/2026",
     "status": "",
-    "project_url": "https://github.com//spacehulk-nx",
+    "project_url": "https://github.com/liartes/spacehulk-nx",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -1912,8 +1912,8 @@
   {
     "name": "YabaSanshiro",
     "category": "Emulators",
-    "version": "1.2.0",
-    "last_updated": "01/10/2026",
+    "version": "1.3.0",
+    "last_updated": "08/11/2026",
     "status": "",
     "project_url": "https://github.com/Thorhax/yabasanshiro-nx",
     "discussion_url": "",
@@ -2156,6 +2156,16 @@
     "last_updated": "28/10/2026",
     "status": "",
     "project_url": "https://github.com/xsaja/street-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 FIFA Street 2",
+    "category": "Microsoft Xbox",
+    "version": "0.1.0",
+    "last_updated": "09/11/2026",
+    "status": "",
+    "project_url": "https://github.com/xsaja/street2-nx",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -2702,8 +2712,8 @@
   {
     "name": "🟢 Mortal Kombat Komplete Edition",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.4",
-    "last_updated": "05/11/2026",
+    "version": "1.0.6",
+    "last_updated": "08/11/2026",
     "status": "",
     "project_url": "https://github.com/Thorhax/mk9-nx",
     "discussion_url": "",
@@ -2717,6 +2727,16 @@
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/futari-nx",
     "discussion_url": "https://gbatemp.net/threads/mushihimesama-futari-xbox-360-ver-switch-port.685115/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Naruto: Rise of a Ninja",
+    "category": "Microsoft Xbox 360",
+    "version": "0.1.5",
+    "last_updated": "08/11/2026",
+    "status": "",
+    "project_url": "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2747,6 +2767,26 @@
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/pacman-nx/",
     "discussion_url": "https://gbatemp.net/threads/pac-man-championship-edition-dx-switch-port.686167/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Ridge Racer 6",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "09/11/2026",
+    "status": "",
+    "project_url": "https://github.com/ChanseyIsTheBest/rr6-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Scud Race",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "10/11/2026",
+    "status": "",
+    "project_url": "https://github.com/Thorhax/scudrace-nx",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2860,10 +2900,20 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Metroid: Samus Returns",
+    "category": "Nintendo 3DS",
+    "version": "0.5.0",
+    "last_updated": "09/11/2026",
+    "status": "",
+    "project_url": "https://github.com/FurryLilManChild/MSR-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 The Legend of Zelda: Ocarina of Time 3D",
     "category": "Nintendo 3DS",
-    "version": "0.1.0",
-    "last_updated": "05/11/2026",
+    "version": "0.2.1",
+    "last_updated": "09/11/2026",
     "status": "",
     "project_url": "https://github.com/JohnUzoka/TriAevum-Switch",
     "discussion_url": "",
@@ -3042,10 +3092,10 @@
   {
     "name": "🟢 Snowboard Kids 2",
     "category": "Nintendo 64",
-    "version": "2.0.2",
-    "last_updated": "17/10/2026",
+    "version": "1.0.0",
+    "last_updated": "09/10/2026",
     "status": "",
-    "project_url": "https://github.com/cdlewis/snowboardkids2-recomp",
+    "project_url": "https://github.com/D35P4C1T0/snowboardkids2-recomp-switch",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -3067,6 +3117,16 @@
     "status": "",
     "project_url": "https://github.com/timschneeb/Shipwright-Switch/",
     "discussion_url": "https://gbatemp.net/threads/ocarina-of-time-switch-port-ship-of-harkinian.630367/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Metroid Prime: Hunters",
+    "category": "Nintendo DS",
+    "version": "0.5.0",
+    "last_updated": "09/11/2026",
+    "status": "",
+    "project_url": "https://github.com/FurryLilManChild/MPH-nx",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -3182,8 +3242,8 @@
   {
     "name": "🟢",
     "category": "Nintendo GameCube",
-    "version": "1.1.0",
-    "last_updated": "03/11/2026",
+    "version": "1.1.2",
+    "last_updated": "09/11/2026",
     "status": "",
     "project_url": "https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition",
     "discussion_url": "https://gbatemp.net/threads/release-twilight-princess-on-switch-dusklight-aleks-ultimate-nx-edition-1-0-0-deko3d-pc-mods-co-op-cross-save.685740/unread",
@@ -3217,6 +3277,16 @@
     "status": "",
     "project_url": "https://github.com/digdat0/mkdd-nx",
     "discussion_url": "https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Metroid Prime 2: Echoes",
+    "category": "Nintendo GameCube",
+    "version": "0.5.0",
+    "last_updated": "09/11/2026",
+    "status": "",
+    "project_url": "https://github.com/FurryLilManChild/MP2-nx",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -3280,10 +3350,20 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Sonic Adventure",
+    "name": "🟢 Crazy Taxi 2",
     "category": "Sega Dreamcast",
     "version": "0.5.0",
-    "last_updated": "02/11/2026",
+    "last_updated": "08/11/2026",
+    "status": "",
+    "project_url": "https://github.com/FurryLilManChild/CT2-nx/",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Sonic Adventure",
+    "category": "Sega Dreamcast",
+    "version": "0.6.0",
+    "last_updated": "09/11/2026",
     "status": "",
     "project_url": "https://github.com/FurryLilManChild/SA-nx",
     "discussion_url": "",
@@ -3362,8 +3442,8 @@
   {
     "name": "🟢 Tekken 3",
     "category": "Sony Playstation",
-    "version": "1.2",
-    "last_updated": "03/11/2026",
+    "version": "1.3",
+    "last_updated": "08/11/2026",
     "status": "",
     "project_url": "https://github.com/markaurel13/tekken3-nx",
     "discussion_url": "https://gbatemp.net/threads/tekken-3-definitive-edition-native-port.686192/",
