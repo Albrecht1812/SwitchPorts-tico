@@ -1830,16 +1830,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "PPSSPP-NX",
-    "category": "Emulators",
-    "version": "1.0.0",
-    "last_updated": "17/09/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/ppsspp-nx",
-    "discussion_url": "https://gbatemp.net/threads/ppsspp-nx.684504/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Raika Azahar",
     "category": "Emulators",
     "version": "2.5.0",
@@ -1947,6 +1937,16 @@
     "status": "",
     "project_url": "https://github.com/PalindromicBreadLoaf/nezumiiruka",
     "discussion_url": "https://gbatemp.net/threads/nezumiiruka-new-and-best-dolphin-port.685219/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 PPSSPP-NX",
+    "category": "Emulators",
+    "version": "1.1.0",
+    "last_updated": "10/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/ppsspp-nx",
+    "discussion_url": "https://gbatemp.net/threads/ppsspp-nx.684504/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2772,8 +2772,8 @@
   {
     "name": "🟢 Need for Speed: Carbon",
     "category": "Microsoft Xbox 360",
-    "version": "0.4.5",
-    "last_updated": "09/11/2026",
+    "version": "0.4.7",
+    "last_updated": "10/11/2026",
     "status": "",
     "project_url": "https://github.com/Kaays/nfscarbon-nx",
     "discussion_url": "",
@@ -2800,10 +2800,20 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Pure",
+    "category": "Microsoft Xbox 360",
+    "version": "0.10",
+    "last_updated": "10/11/2026",
+    "status": "",
+    "project_url": "https://github.com/cznn999/pure-nx",
+    "discussion_url": "https://gbatemp.net/threads/release-pure-2008-xbox-360-nintendo-switch-native-port.686407/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Ridge Racer 6",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.0",
-    "last_updated": "09/11/2026",
+    "version": "1.0.1",
+    "last_updated": "10/11/2026",
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/rr6-nx",
     "discussion_url": "",
@@ -2827,6 +2837,16 @@
     "status": "",
     "project_url": "https://github.com/zhtipu/shank1-nx",
     "discussion_url": "https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Singularity",
+    "category": "Microsoft Xbox 360",
+    "version": "pre-release",
+    "last_updated": "09/11/2026",
+    "status": "",
+    "project_url": "https://github.com/panalexeu/singularity-nx",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -3427,6 +3447,16 @@
     "status": "",
     "project_url": "https://github.com/jjmhalew/RampageRE",
     "discussion_url": "https://gbatemp.net/threads/rampage-total-destruction-port-with-optional-content-from-wii.685951/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Sly Cooper",
+    "category": "Sony Playstation 2",
+    "version": "0.1.44",
+    "last_updated": "10/11/2026",
+    "status": "",
+    "project_url": "https://github.com/FridiNaTor1/SafeHouse",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {

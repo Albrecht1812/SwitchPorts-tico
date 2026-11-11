@@ -48,7 +48,7 @@
           "filename": "abforever_nx.zip",
           "download_url": "https://github.com/aks796/abforever_nx/releases/download/1.0.0/abforever_nx.zip",
           "size": 3075354,
-          "downloads": 98,
+          "downloads": 99,
           "type": ".zip"
         }
       ]
@@ -73,7 +73,7 @@
           "filename": "abspace_nx.zip",
           "download_url": "https://github.com/aks796/abspace_nx/releases/download/1.0.2/abspace_nx.zip",
           "size": 4479636,
-          "downloads": 175,
+          "downloads": 176,
           "type": ".zip"
         }
       ]
@@ -180,7 +180,7 @@
           "filename": "codboz.nro",
           "download_url": "https://github.com/r4lix/codboz-nx/releases/download/v1.0.0/codboz.nro",
           "size": 9128133,
-          "downloads": 454,
+          "downloads": 456,
           "type": ".nro"
         }
       ]
@@ -301,7 +301,7 @@
           "filename": "deadspace_nx.nro",
           "download_url": "https://github.com/hazevauks/deadspace_nx/releases/download/v0.1.5/deadspace_nx.nro",
           "size": 4042343,
-          "downloads": 105,
+          "downloads": 106,
           "type": ".nro"
         }
       ]
@@ -351,7 +351,7 @@
           "filename": "ducktales_nx.nro",
           "download_url": "https://github.com/Thorhax/Ducktales-NX/releases/download/v1.3.0/ducktales_nx.nro",
           "size": 4061583,
-          "downloads": 227,
+          "downloads": 229,
           "type": ".nro"
         }
       ]
@@ -426,7 +426,7 @@
           "filename": "mc3_nx.nro",
           "download_url": "https://github.com/Kaays/mc3_nx/releases/download/v1.0.1/mc3_nx.nro",
           "size": 5435339,
-          "downloads": 60,
+          "downloads": 63,
           "type": ".nro"
         }
       ]
@@ -451,7 +451,7 @@
           "filename": "mc4_nx.nro",
           "download_url": "https://github.com/Kaays/mc4_nx/releases/download/v1.0.1/mc4_nx.nro",
           "size": 5438367,
-          "downloads": 97,
+          "downloads": 99,
           "type": ".nro"
         }
       ]
@@ -501,7 +501,7 @@
           "filename": "pvz_touch_nx.zip",
           "download_url": "https://github.com/aks796/pvz_touch_nx/releases/download/1.0.2/pvz_touch_nx.zip",
           "size": 26592287,
-          "downloads": 136,
+          "downloads": 137,
           "type": ".zip"
         }
       ]
@@ -686,7 +686,7 @@
           "filename": "teenyfigure_nx_0.1.0.zip",
           "download_url": "https://github.com/iqbalriz/teenyfigure_nx/releases/download/0.1.0/teenyfigure_nx_0.1.0.zip",
           "size": 4133421,
-          "downloads": 19,
+          "downloads": 20,
           "type": ".zip"
         }
       ]
@@ -743,7 +743,7 @@
           "filename": "spiderman_total_mayhem_nx.nro",
           "download_url": "https://github.com/boraeskicioglu/spiderman_total_mayhem_nx/releases/download/v1.0.0/spiderman_total_mayhem_nx.nro",
           "size": 4042994,
-          "downloads": 159,
+          "downloads": 160,
           "type": ".nro"
         }
       ]
@@ -768,7 +768,7 @@
           "filename": "cod_st_nx-v0.1.0.zip",
           "download_url": "https://github.com/Zumoly/cod-strike-team-nx/releases/download/v0.1.0/cod_st_nx-v0.1.0.zip",
           "size": 860462,
-          "downloads": 36,
+          "downloads": 38,
           "type": ".zip"
         }
       ]
@@ -825,7 +825,7 @@
           "filename": "NFSMostWanted2012-0.3.2.zip",
           "download_url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/download/v0.3.2/NFSMostWanted2012-0.3.2.zip",
           "size": 8049625,
-          "downloads": 36,
+          "downloads": 41,
           "type": ".zip"
         }
       ]
@@ -875,7 +875,7 @@
           "filename": "angrybirdsclassic_nx.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/angrybirdsclassic_nx/releases/download/1.0.2/angrybirdsclassic_nx.nro",
           "size": 6512503,
-          "downloads": 300,
+          "downloads": 302,
           "type": ".nro"
         }
       ]
@@ -900,7 +900,7 @@
           "filename": "angrybirdas_nx.nro",
           "download_url": "https://github.com/xflipperkast/angrybirdsas_nx/releases/download/v1.0.4/angrybirdas_nx.nro",
           "size": 6278863,
-          "downloads": 235,
+          "downloads": 236,
           "type": ".nro"
         }
       ]
@@ -1275,7 +1275,7 @@
           "filename": "boz.nro",
           "download_url": "https://github.com/seamusduncmcgrath/cod-boz-arm64-nx/releases/download/1.0.0/boz.nro",
           "size": 7162053,
-          "downloads": 407,
+          "downloads": 408,
           "type": ".nro"
         }
       ]
@@ -1489,21 +1489,8 @@
       "project_url": "https://github.com/ChanseyIsTheBest/deusexgo_nx",
       "discussion_url": "https://gbatemp.net/threads/deus-ex-go-switch-port.683492",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": {
-        "version": "1.0.2",
-        "name": "1.0.2",
-        "url": "https://github.com/ChanseyIsTheBest/deusexgo_nx/releases/tag/1.0.2",
-        "published_at": "2026-09-23T02:12:53Z"
-      },
-      "release_assets": [
-        {
-          "filename": "deusexgo_nx.nro",
-          "download_url": "https://github.com/ChanseyIsTheBest/deusexgo_nx/releases/download/1.0.2/deusexgo_nx.nro",
-          "size": 6715976,
-          "downloads": 35,
-          "type": ".nro"
-        }
-      ]
+      "latest_release": null,
+      "release_assets": []
     },
     {
       "name": "Dr. Mario Mania",
@@ -1514,21 +1501,8 @@
       "project_url": "https://github.com/delsonazevedo/drmariomania_nx",
       "discussion_url": "",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": {
-        "version": "1.0.0",
-        "name": "v1.0.0",
-        "url": "https://github.com/delsonazevedo/drmariomania_nx/releases/tag/1.0.0",
-        "published_at": "2026-08-03T13:36:58Z"
-      },
-      "release_assets": [
-        {
-          "filename": "drmario.nro",
-          "download_url": "https://github.com/delsonazevedo/drmariomania_nx/releases/download/1.0.0/drmario.nro",
-          "size": 6191450,
-          "downloads": 86,
-          "type": ".nro"
-        }
-      ]
+      "latest_release": null,
+      "release_assets": []
     },
     {
       "name": "Duke Dashington Remastered",
@@ -1539,21 +1513,8 @@
       "project_url": "https://github.com/ChanseyIsTheBest/dukedashington_nx",
       "discussion_url": "https://gbatemp.net/threads/adventure-island-game-ports-total-party-kill-heart-star-poor-bunny-duke-dashington-switch-port.684579/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": {
-        "version": "1.0.0",
-        "name": "1.0.0 initial release",
-        "url": "https://github.com/ChanseyIsTheBest/dukedashington_nx/releases/tag/1.0.0",
-        "published_at": "2026-09-20T00:20:14Z"
-      },
-      "release_assets": [
-        {
-          "filename": "dukedashington.nro",
-          "download_url": "https://github.com/ChanseyIsTheBest/dukedashington_nx/releases/download/1.0.0/dukedashington.nro",
-          "size": 7352702,
-          "downloads": 21,
-          "type": ".nro"
-        }
-      ]
+      "latest_release": null,
+      "release_assets": []
     },
     {
       "name": "Earn 2 Die",
@@ -1564,21 +1525,8 @@
       "project_url": "https://github.com/xflipperkast/earntodie2_nx",
       "discussion_url": "https://gbatemp.net/threads/earn-to-die-2-switch-port.685412/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": {
-        "version": "1.0.0",
-        "name": "Release",
-        "url": "https://github.com/xflipperkast/earntodie2_nx/releases/tag/1.0.0",
-        "published_at": "2026-10-15T23:00:41Z"
-      },
-      "release_assets": [
-        {
-          "filename": "earntodie2_nx.nro",
-          "download_url": "https://github.com/xflipperkast/earntodie2_nx/releases/download/1.0.0/earntodie2_nx.nro",
-          "size": 14053448,
-          "downloads": 56,
-          "type": ".nro"
-        }
-      ]
+      "latest_release": null,
+      "release_assets": []
     },
     {
       "name": "Far Cry",
@@ -3057,18 +3005,6 @@
       "release_assets": []
     },
     {
-      "name": "PPSSPP-NX",
-      "category": "Emulators",
-      "version": "1.0.0",
-      "last_updated": "17/09/2026",
-      "status": "",
-      "project_url": "https://github.com/NaGaa95/ppsspp-nx",
-      "discussion_url": "https://gbatemp.net/threads/ppsspp-nx.684504/",
-      "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": null,
-      "release_assets": []
-    },
-    {
       "name": "Raika Azahar",
       "category": "Emulators",
       "version": "2.5.0",
@@ -3196,6 +3132,18 @@
       "status": "",
       "project_url": "https://github.com/PalindromicBreadLoaf/nezumiiruka",
       "discussion_url": "https://gbatemp.net/threads/nezumiiruka-new-and-best-dolphin-port.685219/",
+      "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
+      "latest_release": null,
+      "release_assets": []
+    },
+    {
+      "name": "🟢 PPSSPP-NX",
+      "category": "Emulators",
+      "version": "1.1.0",
+      "last_updated": "10/11/2026",
+      "status": "",
+      "project_url": "https://github.com/NaGaa95/ppsspp-nx",
+      "discussion_url": "https://gbatemp.net/threads/ppsspp-nx.684504/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
       "latest_release": null,
       "release_assets": []
@@ -4187,8 +4135,8 @@
     {
       "name": "🟢 Need for Speed: Carbon",
       "category": "Microsoft Xbox 360",
-      "version": "0.4.5",
-      "last_updated": "09/11/2026",
+      "version": "0.4.7",
+      "last_updated": "10/11/2026",
       "status": "",
       "project_url": "https://github.com/Kaays/nfscarbon-nx",
       "discussion_url": "",
@@ -4221,10 +4169,22 @@
       "release_assets": []
     },
     {
+      "name": "🟢 Pure",
+      "category": "Microsoft Xbox 360",
+      "version": "0.10",
+      "last_updated": "10/11/2026",
+      "status": "",
+      "project_url": "https://github.com/cznn999/pure-nx",
+      "discussion_url": "https://gbatemp.net/threads/release-pure-2008-xbox-360-nintendo-switch-native-port.686407/",
+      "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
+      "latest_release": null,
+      "release_assets": []
+    },
+    {
       "name": "🟢 Ridge Racer 6",
       "category": "Microsoft Xbox 360",
-      "version": "1.0.0",
-      "last_updated": "09/11/2026",
+      "version": "1.0.1",
+      "last_updated": "10/11/2026",
       "status": "",
       "project_url": "https://github.com/ChanseyIsTheBest/rr6-nx",
       "discussion_url": "",
@@ -4252,6 +4212,18 @@
       "status": "",
       "project_url": "https://github.com/zhtipu/shank1-nx",
       "discussion_url": "https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/",
+      "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
+      "latest_release": null,
+      "release_assets": []
+    },
+    {
+      "name": "🟢 Singularity",
+      "category": "Microsoft Xbox 360",
+      "version": "pre-release",
+      "last_updated": "09/11/2026",
+      "status": "",
+      "project_url": "https://github.com/panalexeu/singularity-nx",
+      "discussion_url": "",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
       "latest_release": null,
       "release_assets": []
@@ -4972,6 +4944,18 @@
       "status": "",
       "project_url": "https://github.com/jjmhalew/RampageRE",
       "discussion_url": "https://gbatemp.net/threads/rampage-total-destruction-port-with-optional-content-from-wii.685951/",
+      "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
+      "latest_release": null,
+      "release_assets": []
+    },
+    {
+      "name": "🟢 Sly Cooper",
+      "category": "Sony Playstation 2",
+      "version": "0.1.44",
+      "last_updated": "10/11/2026",
+      "status": "",
+      "project_url": "https://github.com/FridiNaTor1/SafeHouse",
+      "discussion_url": "",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
       "latest_release": null,
       "release_assets": []
