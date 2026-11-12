@@ -23,7 +23,7 @@
           "filename": "tasm2_nx.nro",
           "download_url": "https://github.com/boraeskicioglu/tasm2_nx/releases/download/1.0.0/tasm2_nx.nro",
           "size": 4150070,
-          "downloads": 357,
+          "downloads": 358,
           "type": ".nro"
         }
       ]
@@ -426,7 +426,7 @@
           "filename": "mc3_nx.nro",
           "download_url": "https://github.com/Kaays/mc3_nx/releases/download/v1.0.1/mc3_nx.nro",
           "size": 5435339,
-          "downloads": 63,
+          "downloads": 64,
           "type": ".nro"
         }
       ]
@@ -501,7 +501,7 @@
           "filename": "pvz_touch_nx.zip",
           "download_url": "https://github.com/aks796/pvz_touch_nx/releases/download/1.0.2/pvz_touch_nx.zip",
           "size": 26592287,
-          "downloads": 137,
+          "downloads": 139,
           "type": ".zip"
         }
       ]
@@ -622,7 +622,7 @@
           "filename": "sonic_allstars_nx.zip",
           "download_url": "https://github.com/aks796/sonic_allstars_nx/releases/download/1.0.3/sonic_allstars_nx.zip",
           "size": 4387276,
-          "downloads": 146,
+          "downloads": 147,
           "type": ".zip"
         }
       ]
@@ -647,14 +647,14 @@
           "filename": "stevenrpg_nx.nro",
           "download_url": "https://github.com/iqbalriz/stevenrpg_nx/releases/download/0.1.0/stevenrpg_nx.nro",
           "size": 5630621,
-          "downloads": 17,
+          "downloads": 18,
           "type": ".nro"
         },
         {
           "filename": "stevenrpg_nx_0.1.0.zip",
           "download_url": "https://github.com/iqbalriz/stevenrpg_nx/releases/download/0.1.0/stevenrpg_nx_0.1.0.zip",
           "size": 4147630,
-          "downloads": 22,
+          "downloads": 23,
           "type": ".zip"
         }
       ]
@@ -686,7 +686,7 @@
           "filename": "teenyfigure_nx_0.1.0.zip",
           "download_url": "https://github.com/iqbalriz/teenyfigure_nx/releases/download/0.1.0/teenyfigure_nx_0.1.0.zip",
           "size": 4133421,
-          "downloads": 20,
+          "downloads": 21,
           "type": ".zip"
         }
       ]
@@ -793,7 +793,7 @@
           "filename": "JSR_NX.zip",
           "download_url": "https://github.com/lemasterxar5/jet-set-radio-nx/releases/download/1.2.0/JSR_NX.zip",
           "size": 2802488,
-          "downloads": 67,
+          "downloads": 69,
           "type": ".zip"
         }
       ]
@@ -818,14 +818,14 @@
           "filename": "NFSMostWanted2012-0.3.2-symbols.elf",
           "download_url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/download/v0.3.2/NFSMostWanted2012-0.3.2-symbols.elf",
           "size": 12615664,
-          "downloads": 17,
+          "downloads": 21,
           "type": ".elf"
         },
         {
           "filename": "NFSMostWanted2012-0.3.2.zip",
           "download_url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/download/v0.3.2/NFSMostWanted2012-0.3.2.zip",
           "size": 8049625,
-          "downloads": 50,
+          "downloads": 62,
           "type": ".zip"
         }
       ]
@@ -875,7 +875,7 @@
           "filename": "angrybirdsclassic_nx.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/angrybirdsclassic_nx/releases/download/1.0.2/angrybirdsclassic_nx.nro",
           "size": 6512503,
-          "downloads": 305,
+          "downloads": 307,
           "type": ".nro"
         }
       ]
@@ -900,7 +900,7 @@
           "filename": "angrybirdas_nx.nro",
           "download_url": "https://github.com/xflipperkast/angrybirdsas_nx/releases/download/v1.0.4/angrybirdas_nx.nro",
           "size": 6278863,
-          "downloads": 236,
+          "downloads": 237,
           "type": ".nro"
         }
       ]
@@ -925,7 +925,7 @@
           "filename": "abreloaded.zip",
           "download_url": "https://github.com/aks796/abreloaded_nx/releases/download/1.0.0/abreloaded.zip",
           "size": 3046380,
-          "downloads": 141,
+          "downloads": 142,
           "type": ".zip"
         }
       ]
@@ -975,7 +975,7 @@
           "filename": "baldi_nx.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/baldi_nx/releases/download/1.0.0/baldi_nx.nro",
           "size": 6721976,
-          "downloads": 224,
+          "downloads": 226,
           "type": ".nro"
         }
       ]
@@ -1225,7 +1225,7 @@
           "filename": "burgershop_nx.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/burgershop_nx/releases/download/release2/burgershop_nx.nro",
           "size": 6442816,
-          "downloads": 60,
+          "downloads": 62,
           "type": ".nro"
         }
       ]
@@ -1250,7 +1250,7 @@
           "filename": "burgershop2.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/burgershop2_nx/releases/download/release2/burgershop2.nro",
           "size": 6446671,
-          "downloads": 45,
+          "downloads": 47,
           "type": ".nro"
         }
       ]
@@ -1275,7 +1275,7 @@
           "filename": "boz.nro",
           "download_url": "https://github.com/seamusduncmcgrath/cod-boz-arm64-nx/releases/download/1.0.0/boz.nro",
           "size": 7162053,
-          "downloads": 408,
+          "downloads": 410,
           "type": ".nro"
         }
       ]
@@ -1300,7 +1300,7 @@
           "filename": "clayjam_nx.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/clayjamclassic_nx/releases/download/1.0.0/clayjam_nx.nro",
           "size": 6666689,
-          "downloads": 31,
+          "downloads": 33,
           "type": ".nro"
         }
       ]
@@ -1325,7 +1325,7 @@
           "filename": "colorsheep_nx.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/colorsheep_nx/releases/download/1.0.1/colorsheep_nx.nro",
           "size": 6597202,
-          "downloads": 32,
+          "downloads": 34,
           "type": ".nro"
         }
       ]
@@ -1350,7 +1350,7 @@
           "filename": "crazytaxi_nx.nro",
           "download_url": "https://github.com/delsonazevedo/crazytaxy_nx/releases/download/1.0.0/crazytaxi_nx.nro",
           "size": 6332310,
-          "downloads": 296,
+          "downloads": 300,
           "type": ".nro"
         }
       ]
@@ -1489,8 +1489,21 @@
       "project_url": "https://github.com/ChanseyIsTheBest/deusexgo_nx",
       "discussion_url": "https://gbatemp.net/threads/deus-ex-go-switch-port.683492",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": null,
-      "release_assets": []
+      "latest_release": {
+        "version": "1.0.2",
+        "name": "1.0.2",
+        "url": "https://github.com/ChanseyIsTheBest/deusexgo_nx/releases/tag/1.0.2",
+        "published_at": "2026-09-23T02:12:53Z"
+      },
+      "release_assets": [
+        {
+          "filename": "deusexgo_nx.nro",
+          "download_url": "https://github.com/ChanseyIsTheBest/deusexgo_nx/releases/download/1.0.2/deusexgo_nx.nro",
+          "size": 6715976,
+          "downloads": 35,
+          "type": ".nro"
+        }
+      ]
     },
     {
       "name": "Dr. Mario Mania",
@@ -1501,8 +1514,21 @@
       "project_url": "https://github.com/delsonazevedo/drmariomania_nx",
       "discussion_url": "",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": null,
-      "release_assets": []
+      "latest_release": {
+        "version": "1.0.0",
+        "name": "v1.0.0",
+        "url": "https://github.com/delsonazevedo/drmariomania_nx/releases/tag/1.0.0",
+        "published_at": "2026-08-03T13:36:58Z"
+      },
+      "release_assets": [
+        {
+          "filename": "drmario.nro",
+          "download_url": "https://github.com/delsonazevedo/drmariomania_nx/releases/download/1.0.0/drmario.nro",
+          "size": 6191450,
+          "downloads": 86,
+          "type": ".nro"
+        }
+      ]
     },
     {
       "name": "Duke Dashington Remastered",
@@ -1513,8 +1539,21 @@
       "project_url": "https://github.com/ChanseyIsTheBest/dukedashington_nx",
       "discussion_url": "https://gbatemp.net/threads/adventure-island-game-ports-total-party-kill-heart-star-poor-bunny-duke-dashington-switch-port.684579/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": null,
-      "release_assets": []
+      "latest_release": {
+        "version": "1.0.0",
+        "name": "1.0.0 initial release",
+        "url": "https://github.com/ChanseyIsTheBest/dukedashington_nx/releases/tag/1.0.0",
+        "published_at": "2026-09-20T00:20:14Z"
+      },
+      "release_assets": [
+        {
+          "filename": "dukedashington.nro",
+          "download_url": "https://github.com/ChanseyIsTheBest/dukedashington_nx/releases/download/1.0.0/dukedashington.nro",
+          "size": 7352702,
+          "downloads": 21,
+          "type": ".nro"
+        }
+      ]
     },
     {
       "name": "Earn 2 Die",
@@ -4159,8 +4198,8 @@
     {
       "name": "🟢 Need for Speed: Carbon",
       "category": "Microsoft Xbox 360",
-      "version": "0.4.7",
-      "last_updated": "10/11/2026",
+      "version": "0.5.0",
+      "last_updated": "12/11/2026",
       "status": "",
       "project_url": "https://github.com/Kaays/nfscarbon-nx",
       "discussion_url": "",
