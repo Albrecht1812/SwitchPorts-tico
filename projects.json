@@ -2660,6 +2660,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Dishonored",
+    "category": "Microsoft Xbox 360",
+    "version": "0.20",
+    "last_updated": "11/11/2026",
+    "status": "",
+    "project_url": "https://github.com/cznn999/dishonored-nx",
+    "discussion_url": "https://gbatemp.net/threads/release-dishonored-2012-xbox-360-nintendo-switch-native-port.686432/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Gears of War 2",
     "category": "Microsoft Xbox 360",
     "version": "1.1.0",

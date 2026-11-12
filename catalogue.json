@@ -73,7 +73,7 @@
           "filename": "abspace_nx.zip",
           "download_url": "https://github.com/aks796/abspace_nx/releases/download/1.0.2/abspace_nx.zip",
           "size": 4479636,
-          "downloads": 176,
+          "downloads": 177,
           "type": ".zip"
         }
       ]
@@ -98,7 +98,7 @@
           "filename": "abstarwars2_nx.nro",
           "download_url": "https://github.com/markaurel13/abstarwars2_nx/releases/download/1.0.2/abstarwars2_nx.nro",
           "size": 4208681,
-          "downloads": 132,
+          "downloads": 133,
           "type": ".nro"
         }
       ]
@@ -180,7 +180,7 @@
           "filename": "codboz.nro",
           "download_url": "https://github.com/r4lix/codboz-nx/releases/download/v1.0.0/codboz.nro",
           "size": 9128133,
-          "downloads": 457,
+          "downloads": 458,
           "type": ".nro"
         }
       ]
@@ -351,7 +351,7 @@
           "filename": "ducktales_nx.nro",
           "download_url": "https://github.com/Thorhax/Ducktales-NX/releases/download/v1.3.0/ducktales_nx.nro",
           "size": 4061583,
-          "downloads": 231,
+          "downloads": 232,
           "type": ".nro"
         }
       ]
@@ -501,7 +501,7 @@
           "filename": "pvz_touch_nx.zip",
           "download_url": "https://github.com/aks796/pvz_touch_nx/releases/download/1.0.2/pvz_touch_nx.zip",
           "size": 26592287,
-          "downloads": 139,
+          "downloads": 140,
           "type": ".zip"
         }
       ]
@@ -622,7 +622,7 @@
           "filename": "sonic_allstars_nx.zip",
           "download_url": "https://github.com/aks796/sonic_allstars_nx/releases/download/1.0.3/sonic_allstars_nx.zip",
           "size": 4387276,
-          "downloads": 147,
+          "downloads": 148,
           "type": ".zip"
         }
       ]
@@ -768,7 +768,7 @@
           "filename": "cod_st_nx-v0.1.0.zip",
           "download_url": "https://github.com/Zumoly/cod-strike-team-nx/releases/download/v0.1.0/cod_st_nx-v0.1.0.zip",
           "size": 860462,
-          "downloads": 38,
+          "downloads": 40,
           "type": ".zip"
         }
       ]
@@ -793,7 +793,7 @@
           "filename": "JSR_NX.zip",
           "download_url": "https://github.com/lemasterxar5/jet-set-radio-nx/releases/download/1.2.0/JSR_NX.zip",
           "size": 2802488,
-          "downloads": 69,
+          "downloads": 73,
           "type": ".zip"
         }
       ]
@@ -818,14 +818,14 @@
           "filename": "NFSMostWanted2012-0.3.2-symbols.elf",
           "download_url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/download/v0.3.2/NFSMostWanted2012-0.3.2-symbols.elf",
           "size": 12615664,
-          "downloads": 21,
+          "downloads": 24,
           "type": ".elf"
         },
         {
           "filename": "NFSMostWanted2012-0.3.2.zip",
           "download_url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/download/v0.3.2/NFSMostWanted2012-0.3.2.zip",
           "size": 8049625,
-          "downloads": 62,
+          "downloads": 71,
           "type": ".zip"
         }
       ]
@@ -925,7 +925,7 @@
           "filename": "abreloaded.zip",
           "download_url": "https://github.com/aks796/abreloaded_nx/releases/download/1.0.0/abreloaded.zip",
           "size": 3046380,
-          "downloads": 142,
+          "downloads": 144,
           "type": ".zip"
         }
       ]
@@ -975,7 +975,7 @@
           "filename": "baldi_nx.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/baldi_nx/releases/download/1.0.0/baldi_nx.nro",
           "size": 6721976,
-          "downloads": 226,
+          "downloads": 228,
           "type": ".nro"
         }
       ]
@@ -1000,7 +1000,7 @@
           "filename": "bananakong_nx.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/bananakong_nx/releases/download/1.0.0/bananakong_nx.nro",
           "size": 6150686,
-          "downloads": 73,
+          "downloads": 75,
           "type": ".nro"
         }
       ]
@@ -1100,7 +1100,7 @@
           "filename": "btd5_nx.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/btd5_nx/releases/download/1.0.2/btd5_nx.nro",
           "size": 6602336,
-          "downloads": 74,
+          "downloads": 75,
           "type": ".nro"
         }
       ]
@@ -1275,7 +1275,7 @@
           "filename": "boz.nro",
           "download_url": "https://github.com/seamusduncmcgrath/cod-boz-arm64-nx/releases/download/1.0.0/boz.nro",
           "size": 7162053,
-          "downloads": 410,
+          "downloads": 412,
           "type": ".nro"
         }
       ]
@@ -1350,7 +1350,7 @@
           "filename": "crazytaxi_nx.nro",
           "download_url": "https://github.com/delsonazevedo/crazytaxy_nx/releases/download/1.0.0/crazytaxi_nx.nro",
           "size": 6332310,
-          "downloads": 300,
+          "downloads": 301,
           "type": ".nro"
         }
       ]
@@ -1539,21 +1539,8 @@
       "project_url": "https://github.com/ChanseyIsTheBest/dukedashington_nx",
       "discussion_url": "https://gbatemp.net/threads/adventure-island-game-ports-total-party-kill-heart-star-poor-bunny-duke-dashington-switch-port.684579/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": {
-        "version": "1.0.0",
-        "name": "1.0.0 initial release",
-        "url": "https://github.com/ChanseyIsTheBest/dukedashington_nx/releases/tag/1.0.0",
-        "published_at": "2026-09-20T00:20:14Z"
-      },
-      "release_assets": [
-        {
-          "filename": "dukedashington.nro",
-          "download_url": "https://github.com/ChanseyIsTheBest/dukedashington_nx/releases/download/1.0.0/dukedashington.nro",
-          "size": 7352702,
-          "downloads": 21,
-          "type": ".nro"
-        }
-      ]
+      "latest_release": null,
+      "release_assets": []
     },
     {
       "name": "Earn 2 Die",
@@ -4035,6 +4022,18 @@
       "status": "",
       "project_url": "https://github.com/XDASCATX/DS2_switch",
       "discussion_url": "",
+      "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
+      "latest_release": null,
+      "release_assets": []
+    },
+    {
+      "name": "🟢 Dishonored",
+      "category": "Microsoft Xbox 360",
+      "version": "0.20",
+      "last_updated": "11/11/2026",
+      "status": "",
+      "project_url": "https://github.com/cznn999/dishonored-nx",
+      "discussion_url": "https://gbatemp.net/threads/release-dishonored-2012-xbox-360-nintendo-switch-native-port.686432/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
       "latest_release": null,
       "release_assets": []
