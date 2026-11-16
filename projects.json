@@ -2530,6 +2530,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢",
+    "category": "Microsoft Xbox 360",
+    "version": "0.1.3",
+    "last_updated": "15/11/2026",
+    "status": "",
+    "project_url": "https://github.com/recomp-nx/tw2de_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 A Kingdom for Keflings",
     "category": "Microsoft Xbox 360",
     "version": "1.0.1",
@@ -2670,6 +2680,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 FarCry 4",
+    "category": "Microsoft Xbox 360",
+    "version": "pre-release",
+    "last_updated": "12/11/2026",
+    "status": "",
+    "project_url": "https://github.com/Steammaker212/FC4-NX",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Gears of War 2",
     "category": "Microsoft Xbox 360",
     "version": "1.1.0",
@@ -2770,6 +2790,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Midnight Club Los Angeles",
+    "category": "Microsoft Xbox 360",
+    "version": "0.3.0-c177",
+    "last_updated": "14/11/2026",
+    "status": "",
+    "project_url": "https://github.com/Wivi2013/mcla-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Mini Ninjas",
     "category": "Microsoft Xbox 360",
     "version": "1.0.8",
@@ -2802,8 +2832,8 @@
   {
     "name": "🟢 Need for Speed: Carbon",
     "category": "Microsoft Xbox 360",
-    "version": "0.5.0",
-    "last_updated": "12/11/2026",
+    "version": "0.7.0",
+    "last_updated": "14/11/2026",
     "status": "",
     "project_url": "https://github.com/Kaays/nfscarbon-nx",
     "discussion_url": "",
@@ -2892,10 +2922,30 @@
   {
     "name": "🟢 The King of Fighters 2002 Unlimited Match",
     "category": "Microsoft Xbox 360",
-    "version": "0.1.1",
-    "last_updated": "07/11/2026",
+    "version": "0.1.2",
+    "last_updated": "12/11/2026",
     "status": "",
     "project_url": "https://github.com/tbittech/kof2002um-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 The Witcher 2: Assassins of Kings",
+    "category": "Microsoft Xbox 360",
+    "version": "pre-release",
+    "last_updated": "13/11/2026",
+    "status": "",
+    "project_url": "https://github.com/v1ab1/witcher2nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Timeshift",
+    "category": "Microsoft Xbox 360",
+    "version": "pre-release",
+    "last_updated": "12/11/2026",
+    "status": "",
+    "project_url": "https://github.com/Vasin228/timeshift-nx",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -3160,6 +3210,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "Mario Kart: Super Circuit",
+    "category": "Nintendo Gameboy Advance",
+    "version": "0.2.0",
+    "last_updated": "12/11/2026",
+    "status": "",
+    "project_url": "https://github.com/Niecks90/mksc-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "Metroid: Zero Mission",
     "category": "Nintendo Gameboy Advance",
     "version": "1.3",
@@ -3317,6 +3377,16 @@
     "status": "",
     "project_url": "https://github.com/new-coke/strikers",
     "discussion_url": "https://gbatemp.net/threads/strikers-a-native-port-of-super-mario-strikers-is-testing-a-switch-port.684553/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 The SpongeBob SquarePants Movie",
+    "category": "Nintendo GameCube",
+    "version": "1.0.0",
+    "last_updated": "15/11/2026",
+    "status": "",
+    "project_url": "https://github.com/csskillbad/Spongebob_movie-switch",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
