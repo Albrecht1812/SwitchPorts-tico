@@ -1600,6 +1600,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Soulcalibur II",
+    "category": "Android 64bit",
+    "version": "0.4.0",
+    "last_updated": "16/11/2026",
+    "status": "",
+    "project_url": "https://github.com/markaurel13/soulcalibur2-nx",
+    "discussion_url": "https://gbatemp.net/threads/soulcalibur-ii-for-nintendo-switch-includes-all-the-console-exclusive-characters-switch-port.686581/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Subway Surfers",
     "category": "Android 64bit",
     "version": "1.0.4",
@@ -1736,6 +1746,16 @@
     "last_updated": "09/11/2026",
     "status": "",
     "project_url": "https://github.com/cheviman/tmnt-port",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 The Simpsons",
+    "category": "Arcade",
+    "version": "1.0.1",
+    "last_updated": "14/11/2026",
+    "status": "",
+    "project_url": "https://github.com/cheviman/simpsons-port",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -2930,6 +2950,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 The Sims 3",
+    "category": "Microsoft Xbox 360",
+    "version": "0.1.0",
+    "last_updated": "15/11/2026",
+    "status": "",
+    "project_url": "https://github.com/Zumoly/sims3-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 The Witcher 2: Assassins of Kings",
     "category": "Microsoft Xbox 360",
     "version": "pre-release",
@@ -3166,6 +3196,16 @@
     "last_updated": "21/09/2026",
     "status": "",
     "project_url": "https://github.com/1weell/RaceWave46-Switch",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 GoldenEye 007",
+    "category": "Nintendo 64",
+    "version": "0.2.0",
+    "last_updated": "15/11/2026",
+    "status": "",
+    "project_url": "https://github.com/christphe/project-dam-nx",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -3456,6 +3496,16 @@
     "last_updated": "02/10/2026",
     "status": "",
     "project_url": "https://github.com/Thorhax/sega-vr-disasm",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Arcus Odyssey",
+    "category": "Sega Genesis",
+    "version": "1.0.0",
+    "last_updated": "16/11/2026",
+    "status": "",
+    "project_url": "https://github.com/sixtyeightk/AODX-Recomp",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
