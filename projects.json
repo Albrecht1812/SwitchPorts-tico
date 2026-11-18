@@ -1480,6 +1480,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "Stupid Zombies",
+    "category": "Android 64bit",
+    "version": "v1.0.2",
+    "last_updated": "11/11/2026",
+    "status": "",
+    "project_url": "https://github.com/Terremotixx/Stupid-Zombies-NX",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "Subway Surfers",
     "category": "Android 64bit",
     "version": "1.0.4",
@@ -2080,6 +2090,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "Buffy the Vampire Slayer",
+    "category": "Microsoft Xbox",
+    "version": "v1.0.1",
+    "last_updated": "21/10/2026",
+    "status": "",
+    "project_url": "https://github.com/FOTLabs/buffy-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "Burnout 3: Takedown",
     "category": "Microsoft Xbox",
     "version": "0.2.4",
@@ -2370,6 +2390,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 StarCraft: Ghost",
+    "category": "Microsoft Xbox",
+    "version": "v0.4.0",
+    "last_updated": "15/11/2026",
+    "status": "",
+    "project_url": "https://github.com/Thorhax/ScGhost-NX",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 The Godfather",
     "category": "Microsoft Xbox",
     "version": "1.0.2",
@@ -2556,6 +2586,16 @@
     "last_updated": "27/10/2026",
     "status": "",
     "project_url": "https://github.com/VasilkovND/ds3-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "F.E.A.R.",
+    "category": "Microsoft Xbox 360",
+    "version": "v0.2.1",
+    "last_updated": "06/11/2026",
+    "status": "",
+    "project_url": "https://github.com/infriker/fear-nx",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -2810,6 +2850,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "Silent Hill Downpour",
+    "category": "Microsoft Xbox 360",
+    "version": "0.3.0",
+    "last_updated": "26/10/2026",
+    "status": "",
+    "project_url": "https://github.com/fungalspores/silent-hill-downpour-switch",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "Skate 3",
     "category": "Microsoft Xbox 360",
     "version": "0.1.5",
@@ -2940,6 +2990,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Blur",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "18/11/2026",
+    "status": "",
+    "project_url": "https://github.com/ChanseyIsTheBest/blur-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Dishonored (cznn999)",
     "category": "Microsoft Xbox 360",
     "version": "0.50",
@@ -2966,6 +3026,16 @@
     "last_updated": "12/11/2026",
     "status": "",
     "project_url": "https://github.com/Steammaker212/FC4-NX",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Final Fantasy XIII",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.0",
+    "last_updated": "17/11/2026",
+    "status": "",
+    "project_url": "https://github.com/recomp-nx/fnxf_xiii",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -3740,6 +3810,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 New Super Mario Bros. Wii",
+    "category": "Nintendo Wii",
+    "version": "0.1.0",
+    "last_updated": "16/11/2026",
+    "status": "",
+    "project_url": "https://github.com/schuler-ph/nsmbw-switch",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Super Paper Mario",
     "category": "Nintendo Wii",
     "version": "0.5.0",
@@ -3830,6 +3910,26 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Ristar",
+    "category": "Sega Genesis",
+    "version": "beta-v1",
+    "last_updated": "17/11/2026",
+    "status": "",
+    "project_url": "https://github.com/simplePsyduck/Ristar_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Tiny Toon Adventures: Buster's Hidden Treasure",
+    "category": "Sega Genesis",
+    "version": "v1.0",
+    "last_updated": "17/11/2026",
+    "status": "",
+    "project_url": "https://github.com/simplePsyduck/BustersHiddenTreasure-NX",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "Lain",
     "category": "Sony Playstation",
     "version": "0.4.4-nx.7",
@@ -3890,6 +3990,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "Scooby-Doo! Night of 100 Frights",
+    "category": "Sony Playstation 2",
+    "version": "v1.0",
+    "last_updated": "16/10/2026",
+    "status": "",
+    "project_url": "https://github.com/matthewperiut/night100",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Jak and Daxter Trilogy",
     "category": "Sony Playstation 2",
     "version": "1.1.2-beta",
@@ -3897,6 +4007,16 @@
     "status": "",
     "project_url": "https://github.com/fildicio/jak-project-switch",
     "discussion_url": "https://gbatemp.net/threads/opengoal-port-on-nintendo-switch.684945/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Need for Speed: Hot Pursuit 2",
+    "category": "Sony Playstation 2",
+    "version": "1.0",
+    "last_updated": "18/11/2026",
+    "status": "",
+    "project_url": "https://github.com/HDErick/NFSHP2_Switch_Port",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -3946,6 +4066,36 @@
     "last_updated": "05/11/2026",
     "status": "",
     "project_url": "https://github.com/LaLemniscata/ben10-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Grand Theft Auto: Vice City Stories",
+    "category": "Sony Playstation Portable",
+    "version": "v0.4.0",
+    "last_updated": "18/10/2026",
+    "status": "",
+    "project_url": "https://github.com/fsalamancar/VCSNX",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 God of War Collection",
+    "category": "Sony Playstation Vita",
+    "version": "v1.3",
+    "last_updated": "18/11/2026",
+    "status": "",
+    "project_url": "https://github.com/gerisson1996/gow-collection-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "Disney's Magical Quest Trilogy",
+    "category": "Super Nintendo Entertainment System",
+    "version": "beta-v1",
+    "last_updated": "17/11/2026",
+    "status": "",
+    "project_url": "https://github.com/simplePsyduck/MagicalQuestTrilogy-NX",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
