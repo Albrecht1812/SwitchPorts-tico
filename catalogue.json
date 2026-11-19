@@ -23,7 +23,7 @@
           "filename": "tasm2_nx.nro",
           "download_url": "https://github.com/boraeskicioglu/tasm2_nx/releases/download/1.0.0/tasm2_nx.nro",
           "size": 4150070,
-          "downloads": 387,
+          "downloads": 388,
           "type": ".nro"
         }
       ]
@@ -180,7 +180,7 @@
           "filename": "codboz.nro",
           "download_url": "https://github.com/r4lix/codboz-nx/releases/download/v1.0.0/codboz.nro",
           "size": 9128133,
-          "downloads": 483,
+          "downloads": 484,
           "type": ".nro"
         }
       ]
@@ -230,14 +230,14 @@
           "filename": "costumequest_nx.nro",
           "download_url": "https://github.com/iqbalriz/costumequest_nx/releases/download/0.1.0/costumequest_nx.nro",
           "size": 4053407,
-          "downloads": 19,
+          "downloads": 20,
           "type": ".nro"
         },
         {
           "filename": "costumequest_nx_0.1.0.zip",
           "download_url": "https://github.com/iqbalriz/costumequest_nx/releases/download/0.1.0/costumequest_nx_0.1.0.zip",
           "size": 2966550,
-          "downloads": 22,
+          "downloads": 23,
           "type": ".zip"
         }
       ]
@@ -426,7 +426,7 @@
           "filename": "JSR_NX.zip",
           "download_url": "https://github.com/lemasterxar5/jet-set-radio-nx/releases/download/1.2.0/JSR_NX.zip",
           "size": 2802488,
-          "downloads": 108,
+          "downloads": 111,
           "type": ".zip"
         }
       ]
@@ -526,7 +526,7 @@
           "filename": "nova3.nro",
           "download_url": "https://github.com/markaurel13/nova3-nx/releases/download/1.0.1/nova3.nro",
           "size": 4138677,
-          "downloads": 201,
+          "downloads": 202,
           "type": ".nro"
         }
       ]
@@ -551,14 +551,14 @@
           "filename": "NFSMostWanted2012-0.3.2-symbols.elf",
           "download_url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/download/v0.3.2/NFSMostWanted2012-0.3.2-symbols.elf",
           "size": 12615664,
-          "downloads": 50,
+          "downloads": 51,
           "type": ".elf"
         },
         {
           "filename": "NFSMostWanted2012-0.3.2.zip",
           "download_url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/download/v0.3.2/NFSMostWanted2012-0.3.2.zip",
           "size": 8049625,
-          "downloads": 150,
+          "downloads": 153,
           "type": ".zip"
         }
       ]
@@ -583,7 +583,7 @@
           "filename": "pvz_touch_nx.zip",
           "download_url": "https://github.com/aks796/pvz_touch_nx/releases/download/1.0.2/pvz_touch_nx.zip",
           "size": 26592287,
-          "downloads": 157,
+          "downloads": 158,
           "type": ".zip"
         }
       ]
@@ -704,7 +704,7 @@
           "filename": "sonic_allstars_nx.zip",
           "download_url": "https://github.com/aks796/sonic_allstars_nx/releases/download/1.0.3/sonic_allstars_nx.zip",
           "size": 4387276,
-          "downloads": 154,
+          "downloads": 155,
           "type": ".zip"
         }
       ]
@@ -850,7 +850,7 @@
           "filename": "spiderman_total_mayhem_nx.nro",
           "download_url": "https://github.com/boraeskicioglu/spiderman_total_mayhem_nx/releases/download/v1.0.0/spiderman_total_mayhem_nx.nro",
           "size": 4042994,
-          "downloads": 175,
+          "downloads": 176,
           "type": ".nro"
         }
       ]
@@ -1125,7 +1125,7 @@
           "filename": "bananakong_nx.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/bananakong_nx/releases/download/1.0.0/bananakong_nx.nro",
           "size": 6150686,
-          "downloads": 84,
+          "downloads": 87,
           "type": ".nro"
         }
       ]
@@ -1375,7 +1375,7 @@
           "filename": "burgershop2.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/burgershop2_nx/releases/download/release2/burgershop2.nro",
           "size": 6446671,
-          "downloads": 52,
+          "downloads": 53,
           "type": ".nro"
         }
       ]
@@ -1400,7 +1400,7 @@
           "filename": "boz.nro",
           "download_url": "https://github.com/seamusduncmcgrath/cod-boz-arm64-nx/releases/download/1.0.0/boz.nro",
           "size": 7162053,
-          "downloads": 442,
+          "downloads": 445,
           "type": ".nro"
         }
       ]
@@ -1414,8 +1414,21 @@
       "project_url": "https://github.com/NaGaa95/coi_nx",
       "discussion_url": "https://gbatemp.net/threads/castle-of-illusion-switch-port.682811/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": null,
-      "release_assets": []
+      "latest_release": {
+        "version": "1.0.2",
+        "name": "coi_nx 1.0.2",
+        "url": "https://github.com/NaGaa95/coi_nx/releases/tag/1.0.2",
+        "published_at": "2026-11-03T20:34:55Z"
+      },
+      "release_assets": [
+        {
+          "filename": "coi_nx.nro",
+          "download_url": "https://github.com/NaGaa95/coi_nx/releases/download/1.0.2/coi_nx.nro",
+          "size": 6031368,
+          "downloads": 52,
+          "type": ".nro"
+        }
+      ]
     },
     {
       "name": "Castlevania Symphony of the Night",
@@ -1426,8 +1439,21 @@
       "project_url": "https://github.com/NaGaa95/sotn_nx",
       "discussion_url": "https://gbatemp.net/threads/castlevania-symphony-of-the-night-switch-port.682763/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": null,
-      "release_assets": []
+      "latest_release": {
+        "version": "1.0.3",
+        "name": "sotn_nx 1.0.3",
+        "url": "https://github.com/NaGaa95/sotn_nx/releases/tag/1.0.3",
+        "published_at": "2026-11-03T20:35:03Z"
+      },
+      "release_assets": [
+        {
+          "filename": "sotn.nro",
+          "download_url": "https://github.com/NaGaa95/sotn_nx/releases/download/1.0.3/sotn.nro",
+          "size": 6386815,
+          "downloads": 110,
+          "type": ".nro"
+        }
+      ]
     },
     {
       "name": "Chaos Rings III",
@@ -1438,8 +1464,21 @@
       "project_url": "https://github.com/NaGaa95/cr3_nx",
       "discussion_url": "https://gbatemp.net/threads/chaos-rings-iii-switch-port.682597/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": null,
-      "release_assets": []
+      "latest_release": {
+        "version": "1.0.2",
+        "name": "cr3_nx 1.0.2",
+        "url": "https://github.com/NaGaa95/cr3_nx/releases/tag/1.0.2",
+        "published_at": "2026-11-03T20:35:29Z"
+      },
+      "release_assets": [
+        {
+          "filename": "chaosring3_nx.nro",
+          "download_url": "https://github.com/NaGaa95/cr3_nx/releases/download/1.0.2/chaosring3_nx.nro",
+          "size": 21637219,
+          "downloads": 18,
+          "type": ".nro"
+        }
+      ]
     },
     {
       "name": "Chrono Trigger",
@@ -1450,8 +1489,28 @@
       "project_url": "https://github.com/NaGaa95/ct_nx",
       "discussion_url": "https://gbatemp.net/threads/chrono-trigger-switch-port.682630/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": null,
-      "release_assets": []
+      "latest_release": {
+        "version": "1.1.2",
+        "name": "ct_nx 1.1.2",
+        "url": "https://github.com/NaGaa95/ct_nx/releases/tag/1.1.2",
+        "published_at": "2026-11-03T20:34:12Z"
+      },
+      "release_assets": [
+        {
+          "filename": "ct_nx.nro",
+          "download_url": "https://github.com/NaGaa95/ct_nx/releases/download/1.1.2/ct_nx.nro",
+          "size": 21693811,
+          "downloads": 86,
+          "type": ".nro"
+        },
+        {
+          "filename": "ct_nx.zip",
+          "download_url": "https://github.com/NaGaa95/ct_nx/releases/download/1.1.2/ct_nx.zip",
+          "size": 11231303,
+          "downloads": 90,
+          "type": ".zip"
+        }
+      ]
     },
     {
       "name": "Clay Jam Classic",
@@ -1462,8 +1521,21 @@
       "project_url": "https://github.com/ChanseyIsTheBest/clayjamclassic_nx",
       "discussion_url": "https://gbatemp.net/threads/clay-jam-classic-switch-port.683368/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": null,
-      "release_assets": []
+      "latest_release": {
+        "version": "1.0.0",
+        "name": "1.0.0 initial release",
+        "url": "https://github.com/ChanseyIsTheBest/clayjamclassic_nx/releases/tag/1.0.0",
+        "published_at": "2026-07-27T10:59:39Z"
+      },
+      "release_assets": [
+        {
+          "filename": "clayjam_nx.nro",
+          "download_url": "https://github.com/ChanseyIsTheBest/clayjamclassic_nx/releases/download/1.0.0/clayjam_nx.nro",
+          "size": 6666689,
+          "downloads": 37,
+          "type": ".nro"
+        }
+      ]
     },
     {
       "name": "Color Sheep",
@@ -1474,8 +1546,21 @@
       "project_url": "https://github.com/ChanseyIsTheBest/colorsheep_nx",
       "discussion_url": "https://gbatemp.net/threads/color-sheep-switch-port.683025/unread",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": null,
-      "release_assets": []
+      "latest_release": {
+        "version": "1.0.1",
+        "name": "1.0.1",
+        "url": "https://github.com/ChanseyIsTheBest/colorsheep_nx/releases/tag/1.0.1",
+        "published_at": "2026-07-18T23:51:22Z"
+      },
+      "release_assets": [
+        {
+          "filename": "colorsheep_nx.nro",
+          "download_url": "https://github.com/ChanseyIsTheBest/colorsheep_nx/releases/download/1.0.1/colorsheep_nx.nro",
+          "size": 6597202,
+          "downloads": 38,
+          "type": ".nro"
+        }
+      ]
     },
     {
       "name": "Counter Strike Source",
