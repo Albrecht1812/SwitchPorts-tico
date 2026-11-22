@@ -2390,6 +2390,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Manhunt",
+    "category": "Microsoft Xbox",
+    "version": "1.0.0",
+    "last_updated": "20/11/2026",
+    "status": "",
+    "project_url": "https://github.com/marmota94/manhunt1_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Mortal Kombat: Shaolin Monks",
     "category": "Microsoft Xbox",
     "version": "0.4.1",
@@ -2436,6 +2446,16 @@
     "last_updated": "11/11/2026",
     "status": "",
     "project_url": "https://github.com/itouchdennis/scct-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Splinter Cell: Pandora Tomorrow",
+    "category": "Microsoft Xbox",
+    "version": "0.3.7",
+    "last_updated": "22/11/2026",
+    "status": "",
+    "project_url": "https://github.com/itouchdennis/scpt-nx",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -3037,6 +3057,26 @@
     "status": "",
     "project_url": "https://github.com/ChanseyIsTheBest/blur-nx",
     "discussion_url": "https://gbatemp.net/threads/blur-xbox-360-ver-switch-port.686647/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Call of Duty: Modern Warfare 2",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.1",
+    "last_updated": "21/11/2026",
+    "status": "",
+    "project_url": "https://github.com/kyokoxdev/mw2nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 CastleMiner Z",
+    "category": "Microsoft Xbox 360",
+    "version": "released",
+    "last_updated": "22/11/2026",
+    "status": "",
+    "project_url": "https://github.com/Bizzerowasnotavailable/castleminerz-nx",
+    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -4096,6 +4136,16 @@
     "last_updated": "16/10/2026",
     "status": "",
     "project_url": "https://github.com/matthewperiut/night100",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Downhill Domination",
+    "category": "Sony Playstation 2",
+    "version": "0.8.10",
+    "last_updated": "20/11/2026",
+    "status": "",
+    "project_url": "https://github.com/marmota94/downhill-revived",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
