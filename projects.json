@@ -310,6 +310,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Adventure Time: Card Wars",
+    "category": "Android 32bit",
+    "version": "1.0",
+    "last_updated": "21/11/2026",
+    "status": "",
+    "project_url": "https://github.com/simplePsyduck/CardWars_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Asphalt 5 HD",
     "category": "Android 32bit",
     "version": "0.3.0",
@@ -336,6 +346,16 @@
     "last_updated": "22/11/2026",
     "status": "",
     "project_url": "https://github.com/7UNC46/a7_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Samurai II: Vengeance",
+    "category": "Android 32bit",
+    "version": "0.1.0",
+    "last_updated": "21/11/2026",
+    "status": "",
+    "project_url": "https://github.com/Zumoly/samurai-ii-android-nx",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -1730,6 +1750,26 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Sonic Dream Team (aks796)",
+    "category": "Android 64bit",
+    "version": "1.0.1",
+    "last_updated": "20/11/2026",
+    "status": "",
+    "project_url": "https://github.com/aks796/projectdream_nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Sonic Dream Team (Thorhax)",
+    "category": "Android 64bit",
+    "version": "1.10.3",
+    "last_updated": "20/11/2026",
+    "status": "",
+    "project_url": "https://github.com/Thorhax/SonicDreamTeam-NX",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Survive - Wilderness Survival",
     "category": "Android 64bit",
     "version": "0.10",
@@ -1850,12 +1890,22 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 The Simpsons",
+    "name": "🟢 The Simpsons (cheviman)",
     "category": "Arcade",
     "version": "1.0.1",
     "last_updated": "14/11/2026",
     "status": "",
     "project_url": "https://github.com/cheviman/simpsons-port",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 The Simpsons (Thorhax)",
+    "category": "Arcade",
+    "version": "1.2.0",
+    "last_updated": "20/11/2026",
+    "status": "",
+    "project_url": "https://github.com/Thorhax/Simpsons-NX-Modern",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -2010,16 +2060,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Vita3K",
-    "category": "Emulators",
-    "version": "1.4.1",
-    "last_updated": "02/11/2026",
-    "status": "",
-    "project_url": "https://github.com/NaGaa95/Vita3K-nx",
-    "discussion_url": "https://gbatemp.net/threads/vita3k-playstation-vita.684076/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Yokoi",
     "category": "Emulators",
     "version": "1.0.4",
@@ -2032,8 +2072,8 @@
   {
     "name": "🟢 Cemu",
     "category": "Emulators",
-    "version": "1.3.2",
-    "last_updated": "11/11/2026",
+    "version": "1.3.3",
+    "last_updated": "20/11/2026",
     "status": "",
     "project_url": "https://github.com/NaGaa95/Cemu-nx",
     "discussion_url": "https://gbatemp.net/threads/cemu-wii-u-emulator-switch-port.683219/",
@@ -2070,10 +2110,20 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 pEMU",
+    "category": "Emulators",
+    "version": "7.2",
+    "last_updated": "18/08/2026",
+    "status": "",
+    "project_url": "https://github.com/Cpasjuste/pemu",
+    "discussion_url": "https://gbatemp.net/threads/psnes-switch-snes9x-port.507847/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 PPSSPP-NX",
     "category": "Emulators",
-    "version": "1.1.1",
-    "last_updated": "11/11/2026",
+    "version": "1.1.2",
+    "last_updated": "20/11/2026",
     "status": "",
     "project_url": "https://github.com/NaGaa95/ppsspp-nx",
     "discussion_url": "https://gbatemp.net/threads/ppsspp-nx.684504/",
@@ -2107,6 +2157,16 @@
     "status": "",
     "project_url": "https://github.com/ticohq/tico",
     "discussion_url": "https://gbatemp.net/threads/tico-gamecube-wii-psp-and-3ds-on-switch-hos.681231/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Vita3K",
+    "category": "Emulators",
+    "version": "1.4.2",
+    "last_updated": "19/11/2026",
+    "status": "",
+    "project_url": "https://github.com/NaGaa95/Vita3K-nx",
+    "discussion_url": "https://gbatemp.net/threads/vita3k-playstation-vita.684076/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -2410,6 +2470,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Shadow the Hedgehog",
+    "category": "Microsoft Xbox",
+    "version": "0.5.0",
+    "last_updated": "19/11/2026",
+    "status": "",
+    "project_url": "https://github.com/FurryLilManChild/Shadow-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Sonic Heroes",
     "category": "Microsoft Xbox",
     "version": "0.5.0",
@@ -2422,8 +2492,8 @@
   {
     "name": "🟢 Soulcalibur II",
     "category": "Microsoft Xbox",
-    "version": "0.4.0",
-    "last_updated": "16/11/2026",
+    "version": "0.5.0",
+    "last_updated": "20/11/2026",
     "status": "",
     "project_url": "https://github.com/markaurel13/soulcalibur2-nx",
     "discussion_url": "https://gbatemp.net/threads/soulcalibur-ii-for-nintendo-switch-includes-all-the-console-exclusive-characters-switch-port.686581/",
@@ -2577,16 +2647,6 @@
     "status": "",
     "project_url": "https://github.com/rashevskyv/cvhd-recomp",
     "discussion_url": "https://gbatemp.net/threads/castlevania-harmony-of-despair-xbla-xbox-360-on-switch-windows-and-linux-static-recompilation.686177/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Castlevania: Lords of Shadow",
-    "category": "Microsoft Xbox 360",
-    "version": "0.5.0",
-    "last_updated": "03/11/2026",
-    "status": "",
-    "project_url": "https://github.com/FurryLilManChild/LoS1-nx",
-    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -3080,6 +3140,26 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Castlevania: Lords of Shadow",
+    "category": "Microsoft Xbox 360",
+    "version": "0.5.1",
+    "last_updated": "19/11/2026",
+    "status": "",
+    "project_url": "https://github.com/FurryLilManChild/LoS1-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Culdcept Saga",
+    "category": "Microsoft Xbox 360",
+    "version": "1.0.1",
+    "last_updated": "21/11/2026",
+    "status": "",
+    "project_url": "https://github.com/ChanseyIsTheBest/culdcept-nx",
+    "discussion_url": "https://gbatemp.net/threads/culdcept-saga-switch-port.686771/",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Deadpool",
     "category": "Microsoft Xbox 360",
     "version": "1.0.0",
@@ -3142,8 +3222,8 @@
   {
     "name": "🟢 Final Fantasy XIII",
     "category": "Microsoft Xbox 360",
-    "version": "1.0.0",
-    "last_updated": "17/11/2026",
+    "version": "1.0.1",
+    "last_updated": "20/11/2026",
     "status": "",
     "project_url": "https://github.com/recomp-nx/fnxf_xiii",
     "discussion_url": "",
@@ -3310,12 +3390,22 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Sonic the Hedgehog 4: Episode I",
+    "name": "🟢 Sonic the Hedgehog 4: Episode 1",
     "category": "Microsoft Xbox 360",
-    "version": "0.5.0",
-    "last_updated": "16/11/2026",
+    "version": "1.0",
+    "last_updated": "20/11/2026",
     "status": "",
     "project_url": "https://github.com/FurryLilManChild/S4ep1-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Sonic the Hedgehog 4: Episode 2",
+    "category": "Microsoft Xbox 360",
+    "version": "0.5.0",
+    "last_updated": "19/11/2026",
+    "status": "",
+    "project_url": "https://github.com/FurryLilManChild/S4ep2-XBLA-nx",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -3352,8 +3442,8 @@
   {
     "name": "🟢 The Witcher 2: Definitive Edition",
     "category": "Microsoft Xbox 360",
-    "version": "0.1.4",
-    "last_updated": "17/11/2026",
+    "version": "0.2.0",
+    "last_updated": "20/11/2026",
     "status": "",
     "project_url": "https://github.com/recomp-nx/tw2de_nx",
     "discussion_url": "",
@@ -3770,6 +3860,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Sonic Advance",
+    "category": "Nintendo Gameboy Advance",
+    "version": "0.5.0",
+    "last_updated": "21/11/2026",
+    "status": "",
+    "project_url": "https://github.com/FurryLilManChild/SonAdvance-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "The Legend of Zelda: Link's Awakening DX (Alexgg1014)",
     "category": "Nintendo Gameboy Color",
     "version": "1.2.0",
@@ -3827,16 +3927,6 @@
     "status": "",
     "project_url": "https://github.com/StevensND/lm-nx",
     "discussion_url": "https://gbatemp.net/threads/luigis-mansion-game-cube-switch-port-lm-nx.686090/",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
-    "name": "Metroid Prime 2: Echoes",
-    "category": "Nintendo GameCube",
-    "version": "0.5.0",
-    "last_updated": "09/11/2026",
-    "status": "",
-    "project_url": "https://github.com/FurryLilManChild/MP2-nx",
-    "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -3920,6 +4010,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 Metroid Prime 2: Echoes",
+    "category": "Nintendo GameCube",
+    "version": "0.5.1",
+    "last_updated": "21/11/2026",
+    "status": "",
+    "project_url": "https://github.com/FurryLilManChild/MP2-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Sonic Riders",
     "category": "Nintendo GameCube",
     "version": "0.8.6",
@@ -3950,13 +4050,23 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 New Super Mario Bros. Wii",
+    "name": "🟢 New Super Mario Bros. Wii (schuler-ph)",
     "category": "Nintendo Wii",
     "version": "0.1.0",
     "last_updated": "16/11/2026",
     "status": "",
     "project_url": "https://github.com/schuler-ph/nsmbw-switch",
     "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 New Super Mario Bros. Wii (timschneeb)",
+    "category": "Nintendo Wii",
+    "version": "1.0.0",
+    "last_updated": "20/11/2026",
+    "status": "",
+    "project_url": "https://github.com/timschneeb/nsmbw-nx",
+    "discussion_url": "https://gbatemp.net/threads/port-new-super-mario-bros-wii-for-switch-with-newersmbw-mod-support.686745/",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
@@ -4120,16 +4230,6 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "Dragonball Z: Tenkaichi Budokai 3",
-    "category": "Sony Playstation 2",
-    "version": "1.7.2",
-    "last_updated": "01/11/2026",
-    "status": "",
-    "project_url": "https://gitlab.com/alexyt2021es/DBT-NX",
-    "discussion_url": "",
-    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
-  },
-  {
     "name": "Scooby-Doo! Night of 100 Frights",
     "category": "Sony Playstation 2",
     "version": "v1.0",
@@ -4146,6 +4246,16 @@
     "last_updated": "20/11/2026",
     "status": "",
     "project_url": "https://github.com/marmota94/downhill-revived",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Dragonball Z: Tenkaichi Budokai 3",
+    "category": "Sony Playstation 2",
+    "version": "1.9",
+    "last_updated": "20/11/2026",
+    "status": "",
+    "project_url": "https://gitlab.com/alexyt2021es/DBT-NX",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
@@ -4186,6 +4296,16 @@
     "last_updated": "16/11/2026",
     "status": "",
     "project_url": "https://github.com/gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Shadow of the Colossus",
+    "category": "Sony Playstation 2",
+    "version": "released",
+    "last_updated": "21/11/2026",
+    "status": "",
+    "project_url": "https://github.com/lemasterxar5/celosia-nx",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
