@@ -3132,7 +3132,7 @@
   {
     "name": "🟢 CastleMiner Z",
     "category": "Microsoft Xbox 360",
-    "version": "released",
+    "version": "0.5.2",
     "last_updated": "22/11/2026",
     "status": "",
     "project_url": "https://github.com/Bizzerowasnotavailable/castleminerz-nx",
@@ -4240,7 +4240,17 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Downhill Domination",
+    "name": "🟢 Downhill Domination (alexyt2021es)",
+    "category": "Sony Playstation 2",
+    "version": "1.0",
+    "last_updated": "15/11/2026",
+    "status": "",
+    "project_url": "https://gitlab.com/alexyt2021es/Downhill-NX/-/blob/main/README_EN.md",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Downhill Domination (marmota94)",
     "category": "Sony Playstation 2",
     "version": "0.8.10",
     "last_updated": "20/11/2026",
@@ -4250,12 +4260,22 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
-    "name": "🟢 Dragonball Z: Tenkaichi Budokai 3",
+    "name": "🟢 Dragonball Z: Budokai Tenkaichi 3",
     "category": "Sony Playstation 2",
-    "version": "1.9",
+    "version": "2.0",
     "last_updated": "20/11/2026",
     "status": "",
-    "project_url": "https://gitlab.com/alexyt2021es/DBT-NX",
+    "project_url": "https://gitlab.com/alexyt2021es/DBT-NX/-/blob/main/README_EN.md",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
+    "name": "🟢 Dragonball Z: Budokai Tenkaichi 4",
+    "category": "Sony Playstation 2",
+    "version": "B14 Rev2",
+    "last_updated": "alexyt2021es/ Tenkaichi4-NX",
+    "status": "",
+    "project_url": "https://gitlab.com/alexyt2021es/Tenkaichi4-NX/-/blob/main/README_EN.md",
     "discussion_url": "",
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
