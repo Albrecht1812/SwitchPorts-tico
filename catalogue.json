@@ -23,7 +23,7 @@
           "filename": "tasm2_nx.nro",
           "download_url": "https://github.com/boraeskicioglu/tasm2_nx/releases/download/1.0.0/tasm2_nx.nro",
           "size": 4150070,
-          "downloads": 416,
+          "downloads": 418,
           "type": ".nro"
         }
       ]
@@ -180,7 +180,7 @@
           "filename": "codboz.nro",
           "download_url": "https://github.com/r4lix/codboz-nx/releases/download/v1.0.0/codboz.nro",
           "size": 9128133,
-          "downloads": 497,
+          "downloads": 498,
           "type": ".nro"
         }
       ]
@@ -205,7 +205,7 @@
           "filename": "cod_st_nx-v0.1.0.zip",
           "download_url": "https://github.com/Zumoly/cod-strike-team-nx/releases/download/v0.1.0/cod_st_nx-v0.1.0.zip",
           "size": 860462,
-          "downloads": 73,
+          "downloads": 74,
           "type": ".zip"
         }
       ]
@@ -476,7 +476,7 @@
           "filename": "mc3_nx.nro",
           "download_url": "https://github.com/Kaays/mc3_nx/releases/download/v1.0.1/mc3_nx.nro",
           "size": 5435339,
-          "downloads": 82,
+          "downloads": 84,
           "type": ".nro"
         }
       ]
@@ -551,14 +551,14 @@
           "filename": "NFSMostWanted2012-0.3.2-symbols.elf",
           "download_url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/download/v0.3.2/NFSMostWanted2012-0.3.2-symbols.elf",
           "size": 12615664,
-          "downloads": 71,
+          "downloads": 74,
           "type": ".elf"
         },
         {
           "filename": "NFSMostWanted2012-0.3.2.zip",
           "download_url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/download/v0.3.2/NFSMostWanted2012-0.3.2.zip",
           "size": 8049625,
-          "downloads": 196,
+          "downloads": 199,
           "type": ".zip"
         }
       ]
@@ -818,7 +818,7 @@
           "filename": "teenytitans_nx.nro",
           "download_url": "https://github.com/iqbalriz/teenytitans_nx/releases/download/0.1.0/teenytitans_nx.nro",
           "size": 5609263,
-          "downloads": 28,
+          "downloads": 29,
           "type": ".nro"
         },
         {
@@ -981,6 +981,31 @@
       ]
     },
     {
+      "name": "🟢 Titan Souls",
+      "category": "Android 32bit",
+      "version": "1.0.1",
+      "last_updated": "20/11/2026",
+      "status": "",
+      "project_url": "https://github.com/siiiimooooon/TitanSouls-nx",
+      "discussion_url": "",
+      "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
+      "latest_release": {
+        "version": "v1.0.1",
+        "name": "v1.0.1",
+        "url": "https://github.com/siiiimooooon/TitanSouls-nx/releases/tag/v1.0.1",
+        "published_at": "2026-11-21T01:00:22Z"
+      },
+      "release_assets": [
+        {
+          "filename": "titansouls_nx.nro",
+          "download_url": "https://github.com/siiiimooooon/TitanSouls-nx/releases/download/v1.0.1/titansouls_nx.nro",
+          "size": 4093526,
+          "downloads": 7,
+          "type": ".nro"
+        }
+      ]
+    },
+    {
       "name": "Adventures of Mana",
       "category": "Android 64bit",
       "version": "1.0.4",
@@ -1050,7 +1075,7 @@
           "filename": "angrybird2_nx.nro",
           "download_url": "https://github.com/NaGaa95/angrybirds2_nx/releases/download/1.0.3/angrybird2_nx.nro",
           "size": 6560615,
-          "downloads": 76,
+          "downloads": 78,
           "type": ".nro"
         }
       ]
@@ -1100,7 +1125,7 @@
           "filename": "angrybirdas_nx.nro",
           "download_url": "https://github.com/xflipperkast/angrybirdsas_nx/releases/download/v1.0.4/angrybirdas_nx.nro",
           "size": 6278863,
-          "downloads": 270,
+          "downloads": 271,
           "type": ".nro"
         }
       ]
@@ -1200,7 +1225,7 @@
           "filename": "badpiggies_nx.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/badpiggies_nx/releases/download/1.0.5/badpiggies_nx.nro",
           "size": 6646661,
-          "downloads": 197,
+          "downloads": 198,
           "type": ".nro"
         }
       ]
@@ -1525,7 +1550,7 @@
           "filename": "boz.nro",
           "download_url": "https://github.com/seamusduncmcgrath/cod-boz-arm64-nx/releases/download/1.0.0/boz.nro",
           "size": 7162053,
-          "downloads": 460,
+          "downloads": 461,
           "type": ".nro"
         }
       ]
@@ -4555,6 +4580,18 @@
       "release_assets": []
     },
     {
+      "name": "🟢 Asura's Wrath",
+      "category": "Microsoft Xbox 360",
+      "version": "1.0.1",
+      "last_updated": "22/11/2026",
+      "status": "",
+      "project_url": "https://github.com/BanhMi93P/asura-nx",
+      "discussion_url": "",
+      "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
+      "latest_release": null,
+      "release_assets": []
+    },
+    {
       "name": "🟢 Blue Dragon",
       "category": "Microsoft Xbox 360",
       "version": "1.3.6",
@@ -4833,8 +4870,8 @@
     {
       "name": "🟢 Ridge Racer 6",
       "category": "Microsoft Xbox 360",
-      "version": "1.0.1",
-      "last_updated": "10/11/2026",
+      "version": "1.0.2",
+      "last_updated": "22/11/2026",
       "status": "",
       "project_url": "https://github.com/ChanseyIsTheBest/rr6-nx",
       "discussion_url": "",
@@ -4903,6 +4940,18 @@
       "release_assets": []
     },
     {
+      "name": "🟢 Sonic & All-Stars Racing Transformed",
+      "category": "Microsoft Xbox 360",
+      "version": "1.0.0",
+      "last_updated": "22/11/2026",
+      "status": "",
+      "project_url": "https://github.com/ChanseyIsTheBest/sasrt-nx",
+      "discussion_url": "",
+      "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
+      "latest_release": null,
+      "release_assets": []
+    },
+    {
       "name": "🟢 Sonic the Hedgehog 4: Episode 1",
       "category": "Microsoft Xbox 360",
       "version": "1.0",
@@ -4917,8 +4966,8 @@
     {
       "name": "🟢 Sonic the Hedgehog 4: Episode 2",
       "category": "Microsoft Xbox 360",
-      "version": "0.5.0",
-      "last_updated": "19/11/2026",
+      "version": "0.5.1",
+      "last_updated": "22/11/2026",
       "status": "",
       "project_url": "https://github.com/FurryLilManChild/S4ep2-XBLA-nx",
       "discussion_url": "",
@@ -5671,6 +5720,18 @@
       "release_assets": []
     },
     {
+      "name": "🟢 Starfox Adventures",
+      "category": "Nintendo GameCube",
+      "version": "1.0.0",
+      "last_updated": "22/11/2026",
+      "status": "",
+      "project_url": "https://github.com/digdat0/sfa-nx",
+      "discussion_url": "",
+      "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
+      "latest_release": null,
+      "release_assets": []
+    },
+    {
       "name": "🟢 The SpongeBob SquarePants Movie",
       "category": "Nintendo GameCube",
       "version": "released",
@@ -5773,6 +5834,18 @@
       "last_updated": "09/11/2026",
       "status": "",
       "project_url": "https://github.com/FurryLilManChild/SA-nx",
+      "discussion_url": "",
+      "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
+      "latest_release": null,
+      "release_assets": []
+    },
+    {
+      "name": "🟢 Sonic Adventure Remastered",
+      "category": "Sega Dreamcast",
+      "version": "0.5.0",
+      "last_updated": "22/11/2026",
+      "status": "",
+      "project_url": "https://github.com/FurryLilManChild/SonicAdventureRe-NX",
       "discussion_url": "",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
       "latest_release": null,
@@ -6211,18 +6284,6 @@
       "release_assets": []
     },
     {
-      "name": "Super Mario World",
-      "category": "Super Nintendo Entertainment System",
-      "version": "1.0.1",
-      "last_updated": "02/11/2026",
-      "status": "",
-      "project_url": "https://gitlab.com/wiredlainn/wide-snes-NX",
-      "discussion_url": "",
-      "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": null,
-      "release_assets": []
-    },
-    {
       "name": "The Legend of Zelda: A Link to the Past",
       "category": "Super Nintendo Entertainment System",
       "version": "1.3.0",
@@ -6242,6 +6303,18 @@
       "status": "",
       "project_url": "https://github.com/simplePsyduck/SuperMarioAllStars-NX",
       "discussion_url": "https://gbatemp.net/threads/super-mario-all-stars-for-nintendo-switch-true-widescreen-co-op-multiplayer-msu-1-support-cheats-achievements-more.686444/",
+      "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
+      "latest_release": null,
+      "release_assets": []
+    },
+    {
+      "name": "🟢 Super Mario World",
+      "category": "Super Nintendo Entertainment System",
+      "version": "1.0.2",
+      "last_updated": "22/11/2026",
+      "status": "",
+      "project_url": "https://gitlab.com/wiredlainn/wide-snes-NX",
+      "discussion_url": "",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
       "latest_release": null,
       "release_assets": []
