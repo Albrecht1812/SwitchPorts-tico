@@ -3390,6 +3390,16 @@
     "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
   },
   {
+    "name": "🟢 NieR",
+    "category": "Microsoft Xbox 360",
+    "version": "released",
+    "last_updated": "25/11/2026",
+    "status": "",
+    "project_url": "https://github.com/LoLrD/nier-nx",
+    "discussion_url": "",
+    "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md"
+  },
+  {
     "name": "🟢 Nights into Dreams",
     "category": "Microsoft Xbox 360",
     "version": "1.0.3",
