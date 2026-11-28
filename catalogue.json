@@ -23,7 +23,7 @@
           "filename": "tasm2_nx.nro",
           "download_url": "https://github.com/boraeskicioglu/tasm2_nx/releases/download/1.0.0/tasm2_nx.nro",
           "size": 4150070,
-          "downloads": 441,
+          "downloads": 442,
           "type": ".nro"
         }
       ]
@@ -73,7 +73,7 @@
           "filename": "abspace_nx.zip",
           "download_url": "https://github.com/aks796/abspace_nx/releases/download/1.0.2/abspace_nx.zip",
           "size": 4479636,
-          "downloads": 213,
+          "downloads": 214,
           "type": ".zip"
         }
       ]
@@ -123,7 +123,7 @@
           "filename": "a8retry_nx.zip",
           "download_url": "https://github.com/aks796/a8retry_nx/releases/download/1.0.3/a8retry_nx.zip",
           "size": 3320435,
-          "downloads": 251,
+          "downloads": 255,
           "type": ".zip"
         }
       ]
@@ -148,14 +148,14 @@
           "filename": "assassinscreed_nx.nro",
           "download_url": "https://github.com/iqbalriz/assassinscreed_nx/releases/download/0.1.1/assassinscreed_nx.nro",
           "size": 5029324,
-          "downloads": 44,
+          "downloads": 45,
           "type": ".nro"
         },
         {
           "filename": "assassinscreed_nx_0.1.1.zip",
           "download_url": "https://github.com/iqbalriz/assassinscreed_nx/releases/download/0.1.1/assassinscreed_nx_0.1.1.zip",
           "size": 3696837,
-          "downloads": 39,
+          "downloads": 40,
           "type": ".zip"
         }
       ]
@@ -351,7 +351,7 @@
           "filename": "dcr_sea_nx.zip",
           "download_url": "https://github.com/aks796/dcr_sea_nx/releases/download/1.0.2/dcr_sea_nx.zip",
           "size": 4911695,
-          "downloads": 84,
+          "downloads": 85,
           "type": ".zip"
         }
       ]
@@ -551,14 +551,14 @@
           "filename": "NFSMostWanted2012-0.3.2-symbols.elf",
           "download_url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/download/v0.3.2/NFSMostWanted2012-0.3.2-symbols.elf",
           "size": 12615664,
-          "downloads": 136,
+          "downloads": 142,
           "type": ".elf"
         },
         {
           "filename": "NFSMostWanted2012-0.3.2.zip",
           "download_url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch/releases/download/v0.3.2/NFSMostWanted2012-0.3.2.zip",
           "size": 8049625,
-          "downloads": 303,
+          "downloads": 316,
           "type": ".zip"
         }
       ]
@@ -583,7 +583,7 @@
           "filename": "pvz_touch_nx.zip",
           "download_url": "https://github.com/aks796/pvz_touch_nx/releases/download/1.0.2/pvz_touch_nx.zip",
           "size": 26592287,
-          "downloads": 173,
+          "downloads": 174,
           "type": ".zip"
         }
       ]
@@ -754,7 +754,7 @@
           "filename": "stevenrpg_nx.nro",
           "download_url": "https://github.com/iqbalriz/stevenrpg_nx/releases/download/0.1.0/stevenrpg_nx.nro",
           "size": 5630621,
-          "downloads": 36,
+          "downloads": 37,
           "type": ".nro"
         },
         {
@@ -875,7 +875,7 @@
           "filename": "cardwars_nx.nro",
           "download_url": "https://github.com/simplePsyduck/CardWars_nx/releases/download/v1.1/cardwars_nx.nro",
           "size": 4256263,
-          "downloads": 15,
+          "downloads": 18,
           "type": ".nro"
         }
       ]
@@ -900,7 +900,7 @@
           "filename": "a5_nx.nro",
           "download_url": "https://github.com/7UNC46/a5_nx/releases/download/0.3.0/a5_nx.nro",
           "size": 4078053,
-          "downloads": 8,
+          "downloads": 9,
           "type": ".nro"
         }
       ]
@@ -925,7 +925,7 @@
           "filename": "a6_nx.nro",
           "download_url": "https://github.com/7UNC46/a6_nx/releases/download/0.8.0/a6_nx.nro",
           "size": 4082547,
-          "downloads": 21,
+          "downloads": 23,
           "type": ".nro"
         }
       ]
@@ -950,7 +950,7 @@
           "filename": "a7_nx.nro",
           "download_url": "https://github.com/7UNC46/a7_nx/releases/download/0.2.0/a7_nx.nro",
           "size": 4057226,
-          "downloads": 8,
+          "downloads": 9,
           "type": ".nro"
         }
       ]
@@ -1075,7 +1075,7 @@
           "filename": "angrybird2_nx.nro",
           "download_url": "https://github.com/NaGaa95/angrybirds2_nx/releases/download/1.0.3/angrybird2_nx.nro",
           "size": 6560615,
-          "downloads": 91,
+          "downloads": 93,
           "type": ".nro"
         }
       ]
@@ -1250,7 +1250,7 @@
           "filename": "baldi_nx.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/baldi_nx/releases/download/1.0.0/baldi_nx.nro",
           "size": 6721976,
-          "downloads": 270,
+          "downloads": 271,
           "type": ".nro"
         }
       ]
@@ -1275,7 +1275,7 @@
           "filename": "bananakong_nx.nro",
           "download_url": "https://github.com/ChanseyIsTheBest/bananakong_nx/releases/download/1.0.0/bananakong_nx.nro",
           "size": 6150686,
-          "downloads": 100,
+          "downloads": 101,
           "type": ".nro"
         }
       ]
@@ -1439,21 +1439,8 @@
       "project_url": "https://github.com/aks796/bs_joyride_nx",
       "discussion_url": "",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": {
-        "version": "1.0.0",
-        "name": "v1.0.0",
-        "url": "https://github.com/aks796/bs_joyride_nx/releases/tag/1.0.0",
-        "published_at": "2026-09-14T09:22:50Z"
-      },
-      "release_assets": [
-        {
-          "filename": "bs_joyride_nx.zip",
-          "download_url": "https://github.com/aks796/bs_joyride_nx/releases/download/1.0.0/bs_joyride_nx.zip",
-          "size": 3458106,
-          "downloads": 16,
-          "type": ".zip"
-        }
-      ]
+      "latest_release": null,
+      "release_assets": []
     },
     {
       "name": "Bouncemasters",
@@ -1464,21 +1451,8 @@
       "project_url": "https://github.com/ChanseyIsTheBest/bouncemasters_nx",
       "discussion_url": "https://gbatemp.net/threads/bouncemasters-switch-port.684181/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": {
-        "version": "1.0.0",
-        "name": "1.0.0 initial release",
-        "url": "https://github.com/ChanseyIsTheBest/bouncemasters_nx/releases/tag/1.0.0",
-        "published_at": "2026-09-03T09:43:46Z"
-      },
-      "release_assets": [
-        {
-          "filename": "bouncemasters_nx.nro",
-          "download_url": "https://github.com/ChanseyIsTheBest/bouncemasters_nx/releases/download/1.0.0/bouncemasters_nx.nro",
-          "size": 6665485,
-          "downloads": 28,
-          "type": ".nro"
-        }
-      ]
+      "latest_release": null,
+      "release_assets": []
     },
     {
       "name": "Burger Shop",
@@ -1489,21 +1463,8 @@
       "project_url": "https://github.com/ChanseyIsTheBest/burgershop_nx",
       "discussion_url": "https://gbatemp.net/threads/burger-shop-switch-port.682910/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": {
-        "version": "release2",
-        "name": "1.0.1",
-        "url": "https://github.com/ChanseyIsTheBest/burgershop_nx/releases/tag/release2",
-        "published_at": "2026-07-15T13:37:22Z"
-      },
-      "release_assets": [
-        {
-          "filename": "burgershop_nx.nro",
-          "download_url": "https://github.com/ChanseyIsTheBest/burgershop_nx/releases/download/release2/burgershop_nx.nro",
-          "size": 6442816,
-          "downloads": 70,
-          "type": ".nro"
-        }
-      ]
+      "latest_release": null,
+      "release_assets": []
     },
     {
       "name": "Burger Shop 2",
@@ -1514,21 +1475,8 @@
       "project_url": "https://github.com/ChanseyIsTheBest/burgershop2_nx",
       "discussion_url": "https://gbatemp.net/threads/burger-shop-2-switch-port.682912/",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": {
-        "version": "release2",
-        "name": "1.0.1",
-        "url": "https://github.com/ChanseyIsTheBest/burgershop2_nx/releases/tag/release2",
-        "published_at": "2026-07-15T13:47:16Z"
-      },
-      "release_assets": [
-        {
-          "filename": "burgershop2.nro",
-          "download_url": "https://github.com/ChanseyIsTheBest/burgershop2_nx/releases/download/release2/burgershop2.nro",
-          "size": 6446671,
-          "downloads": 57,
-          "type": ".nro"
-        }
-      ]
+      "latest_release": null,
+      "release_assets": []
     },
     {
       "name": "Call of Duty - Black Ops: Zombies",
@@ -1539,21 +1487,8 @@
       "project_url": "https://github.com/seamusduncmcgrath/cod-boz-arm64-nx",
       "discussion_url": "",
       "source": "https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md",
-      "latest_release": {
-        "version": "1.0.0",
-        "name": "Release 1.0.0",
-        "url": "https://github.com/seamusduncmcgrath/cod-boz-arm64-nx/releases/tag/1.0.0",
-        "published_at": "2026-10-08T05:27:50Z"
-      },
-      "release_assets": [
-        {
-          "filename": "boz.nro",
-          "download_url": "https://github.com/seamusduncmcgrath/cod-boz-arm64-nx/releases/download/1.0.0/boz.nro",
-          "size": 7162053,
-          "downloads": 475,
-          "type": ".nro"
-        }
-      ]
+      "latest_release": null,
+      "release_assets": []
     },
     {
       "name": "Castle of Illusion",
